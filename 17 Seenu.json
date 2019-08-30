@@ -1,0 +1,1008 @@
+{ "dhivehi":"ސައްލި","definition":"(ޏ.) މަންޑި.(ސ.) ޅަފެންފޯއް.(ހ.) ކުޅޭ ކުއްލި.","latin":"sahli","english":""}
+{ "dhivehi":"ސައްލިން","definition":"(ޏ.) ލިބޭ ފައިދާއެއް ނުވަތަ މޮޅެއް.","latin":"sahlin","english":""}
+{ "dhivehi":"ސައްލިންވުން","definition":"(ޏ.) ފައިދާއެއް ނުވަތަ މޮޅެއް ލިބުން.","latin":"sahlinvun","english":""}
+{ "dhivehi":"ސައްލިބެހުން","definition":"މަސައްކަތް ކުރާއިރު ބައިބަޔަށް މީހުން ބެހުން.","latin":"sahlibehun","english":""}
+{ "dhivehi":"ސައްލިކާރުން","definition":"ފައިސާވެރިން.މުއްސަނދި މީހުން.","latin":"sahlikaarun","english":""}
+{ "dhivehi":"ސައްލިދެމުން","definition":"(ބ.) އެއްޗެއް އުފުލާއިރު ގާތްގާތުގައި މީހުން  ތިބެގެން އެ އެއްޗެއް އެކެއްގެ އަތުން އަނެކެއްގެ އަތަށް  ދެމުން ގެންދަންވާ ތަނަކަށް ގެންދިއުން.","latin":"sahlidhemun","english":""}
+{ "dhivehi":"ސައްޓި","definition":"(ހ.) މުށިން ހަދައިފައި ހުންނަ ކަންވާރެއް.  މިއީ އެއްޗެހި ކައްކަން ގެންގުޅޭ އެއްޗެކެވެ.","latin":"sahti","english":""}
+{ "dhivehi":"ސައްޓިނުބައިބަތްކޮޅުހެޔޮ","definition":"މަޖާޒު:ތިމާގެ  ބޭނުން ފުދުނީމާ އަނެކާގެ މަތިން ހަނދާން  ނައްތާލާ މީހުނާމެދު ބުނެއުޅޭ ބަހެއް.މަސައްކަތް ކުރަން ބޭނުން ނުވެފައި ރަނގަޅުގޮތާއި  މޮޅުގޮތްވުން އެދޭ މީހުނާމެދު ބުނެއުޅޭ ބަހެއް.","latin":"sahtinubaibaiykolhuheyo","english":""}
+{ "dhivehi":"ސައްޓުވަ","definition":"(މަލިކު) މަސްލުހެޭ ދަނޑިގަނޑު.","latin":"sahtuva","english":""}
+{ "dhivehi":"ސައްޔާޙު","definition":"ހިތްއުފާ ކުރުމަށް ނުވަތަ ތިމާގެ ޤައުމު ނޫން  ޤައުމެއް ބަލަން ދަތުރުކުރާމީހާ.","latin":"sahyaahu","english":""}
+{ "dhivehi":"ސައްޔިދުބޭކަލުން","definition":"ކީރިތި ރަސޫލާގެ ދަރިކޮޅަށް ނިސްބަތްވާ  ފިރިހެން ބޭފުޅުން.","latin":"sahyidhubeykalun","english":""}
+{ "dhivehi":"ސައްޔިދުމަތިކޮޅު","definition":"ކީރިތި ރަސޫލާގެ ދަރިކޮޅު.","latin":"sahyidhumathikolhu","english":""}
+{ "dhivehi":"ސައްޕު","definition":"މަންޑިއާއި، ބަށިފަދަ ކުޅިވަރުތައް ކުޅޭއިރު  ބާރަފޯލި ހަމަވުމުން ދެންޖަހާފޯލި.","latin":"sahpu","english":""}
+{ "dhivehi":"ސައްޕުސައިވުން","definition":"ސައްޕަކަށްޖެހި ފޯއްޔެއް ގުނޭ ފޯއްޔަކަށްވުން.","latin":"sahpusaivun","english":""}
+{ "dhivehi":"ސައްޕުޖެހުން","definition":"ބޮނޑި ނުވަތަ ބަށިކުޅޭ އިރު ބާރަފޯލި  ހަމަކޮށްފައި ޖަހާ ފޯލިޖެހުން.ފުޓްބޯޅަ ކުޅޭއިރު  ގޯލުގައި ހުންނަމީހާ ބޯޅައަތުން ނަގައި ފައިން ޖަހައި  ދުރަށް ފޮނުވައިލުން.މަޖާޒު: ސަމާސާގެ  ގޮތުން ފޫކޮޅުގައި ކޮޅުފައިން އެތިފަހަރެއް ޖެހުން.","latin":"sahpujehun","english":""}
+{ "dhivehi":"ސައްޙަ","definition":"ތެދު.ރަނގަޅު.ޙަޤީޤަތާ  އެއްގޮތް.","latin":"sahh'a","english":"accurate"}
+{ "dhivehi":"ސައްޙަކަން","definition":"ރަނގަޅުކަން.ކުށެއްނެތްކަން.ޙަޤީޤަތާ އެއްގޮތްކަން.","latin":"sahhakan","english":""}
+{ "dhivehi":"ސަވަންނަ","definition":"ފަންސާސް ހައެއް.ފަސްދިހަ  ހައެއް.","latin":"savanna","english":""}
+{ "dhivehi":"ސަވާ","definition":"އޮޑިދޯނި ފަހަރުގެ ކުނބު ނަގައި ހިފަހައްޓަން  ޖަހާވާ.","latin":"savaa","english":"forestay"}
+{ "dhivehi":"ސަވާރީ","definition":"އަރައިގެން ދުއްވާ ހަތަރެސްފައިޖެހި  ޖަނަވާރު. މިސާލު: އަހާއި ޖަމަލު ފަދަ ތަކެތި.އެއްގަމުގައި އަރާ ދުއްވާ އެއްޗެހި.","latin":"savaaree","english":""}
+{ "dhivehi":"ސަވާރު","definition":"އަސް ނުވަތަ ޖަމަލު ފަދަ އެއްޗަކަށް އަރައި  އިންނަމީހާ.","latin":"savaaru","english":""}
+{ "dhivehi":"ސަވާރުކުރުން","definition":"އަސްނުވަތަ ޖަމަލު ފަދަ އެއްޗެއްގެ މައްޗަށް  މީހަކު، ނުވަތަ ކުއްޖަކު އަރުވައި ބޭންދުން.","latin":"savaarukurun","english":""}
+{ "dhivehi":"ސަވާރުވުން","definition":"ސަވާރީއަކަށް އެރުން.","latin":"savaaruvun","english":""}
+{ "dhivehi":"ސަވާބު","definition":"ހެޔޮކަމެއް ކުރުމުން މާތްﷲ ދެއްވާ ދަރުމަ.","latin":"savaabu","english":""}
+{ "dhivehi":"ސަވާބުޅި","definition":"ސަވާ އައްސަން ޖަހައިފައި ހުންނަ ބުޅި ނުވަތަ  އަރުގޯލު.","latin":"savaabulhi","english":""}
+{ "dhivehi":"ސަވާޖީ","definition":"މުދާ އަރުވައި ބާލާއިރު، ނުވަތަ ބަރުއެއްޗެހި  އުފުލާއިރު، އޭގައި ބެއްދުމަށް ބޭނުންކުރާ ދެކޮޅު  ގުޅުވައިފައި އޮންނަ ފަލަ ވާގަނޑެއް.","latin":"savaajee","english":""}
+{ "dhivehi":"ސަމަންތަރެ","definition":"(ގ.) ސަމައްތަރު.","latin":"samanthare","english":""}
+{ "dhivehi":"ސަމައްތަރު","definition":"ރޫފަ.","latin":"samahtharu","english":""}
+{ "dhivehi":"ސަމައްތަރުހެޔޮކަން","definition":"ރޫފަ ރަނގަޅުކަން.","latin":"samahtharuheyokan","english":""}
+{ "dhivehi":"ސަމައްތަރުހެޔޮވުން","definition":"ރޫފަ ރަނގަޅުވުން.","latin":"samahtharuheyovun","english":""}
+{ "dhivehi":"ސަމާ","definition":"ރަސްކަމަށް ކޮލިލުން، ނުވތަ ގަނޑުވަރުތެރޭ  ބޭފުޅުން ރައްކައުވުން، ނުވަތަ ޚިތާނުފުޅު ކުރުން.  މިކަންކަމުގައި ރަސްމީގޮތުން ގުޅަކުޅޭ ފަސްގަނޑުގައި  ކުޅޭ ކުޅިވަރެއް. މި ކުޅިވަރު ކުޅޭނީ ބެރު ދުންމާރި  ތާޅަފިލި ފުމެފައި ފަސްގަނޑުގައި ކުޅިޖަހައިފައެވެ.","latin":"samaa","english":""}
+{ "dhivehi":"ސަމާބެރު","definition":"ސަމާގެ ތެރޭގައި ޖަހާބެރު.","latin":"samaaberu","english":""}
+{ "dhivehi":"ސަމާކުޅުން","definition":"ސަމާގެ ކުޅިވަރު ކުޅުން.","latin":"samaakulhun","english":""}
+{ "dhivehi":"ސަމާއަށި","definition":"ކިއެވެނި ބޭކަލުންގެ އަށީގެ ބިއްދޮށުބައި. މިއީ  ޒިކުރު ވެރިން ސަމާތާރަ ޖަހަން ތިބޭ ތަނެވެ.","latin":"samaaashi","english":""}
+{ "dhivehi":"ސަމާއެދުރުލަވަ","definition":"ދަނޑިބެރުގެ ލަވައެއް. މިއީ ސަމާތެރޭ ގައްޔާއި،  އަދި އެނޫންވެސް ތަންތަނުގައި ޖަހައިއުޅާ ލަވައެކެވެ.","latin":"samaaedhurulava","english":""}
+{ "dhivehi":"ސަމާވަރު","definition":"ފެންކައްކަން ގެންގުޅޭ ބޮޑުކަންވާރެއް. މި  ޢާންމުކޮށް ބޭނުންކުރަނީ ސައިހޮޓާ ތަކުގައެވެ.","latin":"samaavaru","english":""}
+{ "dhivehi":"ސަމާފަޅި","definition":"ބޮޑުބޭކަލުންގެ އަނބިއަނބި ކަނބަލުން  ރައްކާވީމާ އަންނަ ސަމާ.","latin":"samaafalhi","english":""}
+{ "dhivehi":"ސަމާތާރަ","definition":"އަށްކަނަށް ހަދައިފައި ހުންނަ އޮނިގަނޑެއްގައި،  ގިގުނި ލައިފައި އެއްކޮޅުގައި، މަޑިހަން އަޅައިފައި  ހުންނަ އެއްޗެއް، މިއީ ސަމާތެރޭގައި ޒިކުރުވެރިން  ކިޔެވެނި ބޭކަލުންގެ އަށީގައި ޖަހާ ތާރައެކެވެ.","latin":"samaathaara","english":""}
+{ "dhivehi":"ސަމާލަވަ","definition":"ސަމާގައި ޖަހައިއުޅޭ ދަނޑިބެރުގެ ލަވަ.","latin":"samaalava","english":""}
+{ "dhivehi":"ސަމާލު","definition":"ކަމަކަށް ވިސްނައި ތައްޔާރުވެ ހުންނަ  ހުރުން.ކަމަކަށް ފަރުވާތެރިވެ ބަލަން  ހުންނަހުރުން.ބަހައްޓާފަރުވާ.","latin":"samaalu","english":"attention"}
+{ "dhivehi":"ސަމާލުކަން","definition":"ފަރުވާ ބަހައްޓާކަން.ކަމަކަށް  ވިސްނައި ތައްޔާރުވެ ހުންނަކަން.ކަމަކަށް  ފަރުވާތެރިވެ ބަލަން ހުންނަކަން.","latin":"samaalukan","english":""}
+{ "dhivehi":"ސަމާލުކަންދިނުން","definition":"ފަރުވާތެރިކަން ބެހެއްޓުން.","latin":"samaalukandhinun","english":""}
+{ "dhivehi":"ސަމާލުވުން","definition":"ހުސިޔާރުވުން.ތައްޔާރުވުން.","latin":"samaaluvun","english":""}
+{ "dhivehi":"ސަމާސާ","definition":"ލާނެއް. ނއ.ހިނިއަންނަ ޒާތުގެ.މުނިފޫހިފިލުވާ.","latin":"samaasaa","english":"humour"}
+{ "dhivehi":"ސަމާސާބުނުން","definition":"މަޖާޒު: ދެ ޖިންސުގެ ދެމީހަކު ލޯބީގެ ގުޅުމެއް  ހިންގުން.","latin":"samaasaabunun","english":""}
+{ "dhivehi":"ސަމާސާކަންކެނޑުން","definition":"ސީރިއަސްވުން.","latin":"samaasaakankendun","english":""}
+{ "dhivehi":"ސަމާސާކުރުން","definition":"ލާނެތް ކަންތައް ކުރުން.އަނެކުން  ހެއްވާލުމަށްޓަކައި ކަންތައް ކުރުން.","latin":"samaasaakurun","english":"joke"}
+{ "dhivehi":"ސަމާސާއަށްވުރެމައްޗަށް ދިއުން","definition":"މަޖާޒު:  ސަމާސާ ވިހަވުން.","latin":"samaasaaahvuremahchah dhiun","english":""}
+{ "dhivehi":"ސަމާސާވިހަވުން","definition":"ސަމާސާ ކުރަމުންގޮސް އެއްބަޔަކު އަނެއްބަޔަކު  ދެކެ ނުވަތަ އެކަކު އަނެކަކުދެކެ ރުޅިއަންނަގޮތްވުން.","latin":"samaasaavihavun","english":""}
+{ "dhivehi":"ސަމުގާ","definition":"މިސްރާބު ދައްކައިދޭ އާލަތެއް. ޢާންމުކޮށް މި  ބޭނުންކޮށް އުޅެނީ ދަތުރު ފަތުރު ކުރުމުގައެވެ.","latin":"samugaa","english":"compass"}
+{ "dhivehi":"ސަމުސަލަށްއަރައިފިއްޔާ ބޯލާނަމެވެ.","definition":"(މުސްކުޅިބަހެއް) އަންހެނަކު އަތްމަތިވާ ގޮތް  ވެއްޖެނަމަ ބޭނުންކޮށްލާނަމޭ ބުނުމުގެ ގޮތުން  ބޭނުންކޮށްއުޅޭ ބަހެއް.","latin":"samusalaharaifiyaa boalaanameve.","english":""}
+{ "dhivehi":"ސަމުސާ","definition":"ދިޔާ އެއްޗެހި ބުއިމަށާއި ބަތްފަދަ ތަކެތި  ކެއުމަށް ބޭނުން ކުރާ އާލާތެއް. މީގައި ހުންނަނީ  ދަނޑިއެއް ލައިފައެވެ. ކުރީކޮޅު ހުންނަނީ ފުޅާކޮށް  ގޮނިކޮށެވެ. ދަނޑިނުލާ ސަމުސާ ހުންނަނީ  މުޅިއެތި ގޮނިކޮށެވެ.","latin":"samusaa","english":"spoon"}
+{ "dhivehi":"ސަމޭދާން","definition":"އުއްބައްތި ޖަހަން ލޮއިން ހަދައިފައި ހުންނަ  އެއްޗެއް. މި ހުންނަނީ ތިންފައިޖެހި ވަށްފުލެއްގައި  ތަނޑެއް ހަރުކޮށް، އޭގެ ކޮޅުގައި އުއްބައްތި ޖަހާގޮތަށް  ހަދައިފައެވެ.","latin":"sameydhaan","english":"chandelier"}
+{ "dhivehi":"ސަފަ","definition":"(ސ.) ސަފު.","latin":"safa","english":""}
+{ "dhivehi":"ސަފަށްގޮވުން","definition":"މީހުންތަކެއް އެކަކާ ޖެހި އަނެކަކު އެތުރުމަށް  އަމުރު އިއްވުން.","latin":"safahgovun","english":""}
+{ "dhivehi":"ސަފަރަކައްދަ","definition":"(ގ.) ސަފަރުކަތްދަ.","latin":"safarakahdha","english":""}
+{ "dhivehi":"ސަފަރާ","definition":"ރީނދޫހުން.(ގ.) ލަންކަނާ  ބޭނުންކޮށްގެން ހަރުގެ އަޅާއިރު ލަންކަނާގެ  އެތެރެއިން އަޅާދަނޑި.","latin":"safaraa","english":""}
+{ "dhivehi":"ސަފަރާދަނޑި","definition":"ދަނޑިން ހަދައިފައި ހުންނަ ބިތުގެ އެންމެމަތީ  ދަނޑި.","latin":"safaraadhandi","english":""}
+{ "dhivehi":"ސަފަރި","definition":"ބޮޑުލުނބޯ.","latin":"safari","english":""}
+{ "dhivehi":"ސަފަރިގަސް","definition":"ސަފަރި އަޅާގަސް.","latin":"safarigas","english":""}
+{ "dhivehi":"ސަފަރުނާމާ","definition":"(ހ.) ދަތުރުނާޟާ.","latin":"safarunaamaa","english":""}
+{ "dhivehi":"ސަފަރުކައްދާ","definition":"(ސ.) ސަފަރުކަތްދަ.","latin":"safarukahdhaa","english":""}
+{ "dhivehi":"ސަފަރުކަތްދަ","definition":"ކަނޑުން އަރާކަމަށް ބުނާ ޚިޔާލީ ފުރޭތައެއް.","latin":"safarukaiydha","english":""}
+{ "dhivehi":"ސަފަރުވެރިން","definition":"ދަތުރުވެރިން.","latin":"safaruverin","english":""}
+{ "dhivehi":"ސަފަރުމަސް","definition":"ޞަފަރު.","latin":"safarumas","english":""}
+{ "dhivehi":"ސަފަރުމުންޑާން","definition":"(ޏ.) ޚިޔާލީ ފުރޭތައެއްގެ ނަން.","latin":"safarumundaan","english":""}
+{ "dhivehi":"ސަފާމަރުވާ","definition":"ޙައްޖުގެ އަޅުކަމުގެ ތެރޭގައި ސަޢުޔުކުރާ ކުރުމުގައި  އެ ދެމެދުގައި ހިނގަންޖެހޭ ދެ ފަރުބަދަ.","latin":"safaamaruvaa","english":""}
+{ "dhivehi":"ސަފާތުތަށި","definition":"ސަފާތަށް އަޅާތަށި.ބަތް  އަޅައިފައިވާ ބޮޑުތަށީގެ އެތެރޭގައި ބަތް އަޅައިފައި  އިތުރަށް ހުންނަ ކުޑަތައްޓެއް.","latin":"safaathuthashi","english":""}
+{ "dhivehi":"ސަފީރު","definition":"މީހެއްގެ ފަރާތުން އަނެކެއްގެ ގާތަށް  ކަމަކާއިގެން އަންނަ މީހާ.ދައުލަތެއް ތަމްސީލު  ކުރުމަށްޓަކައި އަނެއް ޤައުމަކަށް ނުވަތަ އަނެއް  ފަރާތަކަށް ފޮނުވުމަށް ޤައުމެއްގެ ވެރިޔަކު ޢައްޔަން  ކޮށްފައިވާ މީހާ.އެއްފަރާތެއް ތަމްސީލު  ކުރުމަށް، އަނެއް ފަރާތަކަށް ފޮނުވައިފައި ހުންނަ  ވަކީލު.","latin":"safeeru","english":"ambassador"}
+{ "dhivehi":"ސަފީރުކަން","definition":"ސަފީރުކަމުގެ މަޤާމް.","latin":"safeerukan","english":""}
+{ "dhivehi":"ސަފު","definition":"ރޮނގަކަށް އެތުރިފައިވާ އެތުރުން.އެކައްޗަކާ ޖެހިގެން އަނެކަތި ނުވަތަ އެކަކާ ޖެހިގެން  އަނެކަކު އެތުރިފައިވާވުން.","latin":"safu","english":"line"}
+{ "dhivehi":"ސަފުހަދާދޫނި","definition":"(ރ.) ގުޑުގުޑާދޫނި.","latin":"safuhadhaadhooni","english":""}
+{ "dhivehi":"ސަފުހާ","definition":"ފަތްފުށް.ކަރުދާސް ގަނޑެއްގެ  އެއްފަރާތް.މަޖާޒު: ޙަޔާތުގެ ދުވަހެއް ނުވަތަ  ވަކި ދުވަސްވަރެއް.","latin":"safuhaa","english":""}
+{ "dhivehi":"ސަފުހެދުން","definition":"ސަފެއް އުފެއްދުން.","latin":"safuhedhun","english":""}
+{ "dhivehi":"ސަފުން","definition":"އަމުދުން.","latin":"safun","english":""}
+{ "dhivehi":"ސަފުރާ","definition":"ރީނދޫހުން.","latin":"safuraa","english":""}
+{ "dhivehi":"ސަފުސާންއޮނު","definition":"ސަފުސާންލުމަށް ބޭނުންކުރާ އޮނު.","latin":"safusaanonu","english":""}
+{ "dhivehi":"ސަފުސާންލުން","definition":"ގޮދަން ފުށާއި ދޮންވެއްޔާއި އެއްކޮށް  ފެންޖަހައިގެން މޮޑެ ގުޅަވަށައިގެން ލޯއޮނެއްގެ ތެރެއަށް  އެގުޅަލައި އޮނުގެ ކޮޅުގައި އަނގަޖަހައި ބާރަށް  ފުމެގެން އެ ފުށްގުޅަ ދުއްވުން. މި ފުށްގުޅަ ދުއްވާނީ،  ކާޅާއި ބޮނޑާއި ހޯނުފަދަ ތަކެއްޗަށެވެ. މިއީ އިހުގައި  ރޯދަމަހުގެ ހަވީރު ތިން ހަތަރުމީހުން، ނުވަތަ  ފަސްހަމީހުން ކުޅިވަރެއްގެ ގޮތުގައި ކުރާކަމެކެވެ.","latin":"safusaanlun","english":""}
+{ "dhivehi":"ސަފެ","definition":"(ގ.) ސަފު.","latin":"safe","english":""}
+{ "dhivehi":"ސޮކަށް","definition":"ތާކުންތާކު ނުޖެހޭ ގޮތަށް.ބޭނުމެއްނެތް ގޮތަށް.ހުހަށް.","latin":"sokah","english":""}
+{ "dhivehi":"ސޮކަށްހުރުން","definition":"ކުރާނެ މަސައްކަތެއް އަދާ ކުރާނެ  މަސްއޫލިއްޔަތެއްނެތި ހުހަށް ހުރުން.އާމްދަނީއެއް ލިބޭނެ މަސައްކަތެއް ނުކޮށް ހުރުން.މަސައްކަތެއް ހިނގާއިރު ހުހަށް ހުރުން.","latin":"sokahhurun","english":""}
+{ "dhivehi":"ސޮކަށްދިއުން","definition":"ކުރަންފެށި ކަމެއް ތާކުންތާކު ނުޖެހިދިއުން.ކަމެއް ކަމަކަށް ނުވާގޮތަށް ނިމުން.ހުހަށް  ދިއުން.","latin":"sokahdhiun","english":""}
+{ "dhivehi":"ސޮކި","definition":"(ޅ.) ހިމަދިގުކޮށް ބޮއްކުރައެއްހެން ހަދައިފައި  އޮންނަ ކުޑަ އުޅަނދެއް.","latin":"soki","english":""}
+{ "dhivehi":"ސޮއި","definition":"ތިމާގެ އަމިއްލަ އަތުން ވަކިގޮތަކަށް  ލިޔެފައިވާ ތިމާގެ ނަން.ތިމާގެ އަތުގެ ނުވަތަ  ތިމާގެ އިނގިލީގެ ނިޝާން.","latin":"soi","english":"sign"}
+{ "dhivehi":"ސޮއިކުރުން","definition":"ސޮއި ލިޔުން.","latin":"soikurun","english":"sign"}
+{ "dhivehi":"ސޮއް","definition":"ބައެއް ވައްތަރުގެ ދިރޭ އެއްޗެހި  ފައްސައިލުމަށްޓަކައި އަނގައިން ގޮއްވާއަޑު.","latin":"so","english":""}
+{ "dhivehi":"ސޮއްވުން","definition":"ޖަނަވާރެއް ފައްސައިލުން.","latin":"sovun","english":""}
+{ "dhivehi":"ސޮއްގޮވުން","definition":"ކާޅާއި ކުކުޅުފަދަ އެއްޗެހި ފައްސައިލުމަށް  އަނގައިން ގޮއްވާ އަޑެއް ގޮއްވުން.","latin":"sogovun","english":""}
+{ "dhivehi":"ސޮއްސައިލުން","definition":"ސޮއްސުން.","latin":"sosailun","english":""}
+{ "dhivehi":"ސޮއްސުން","definition":"ކައްސައިލައިގެން ތިރިއަށް އައުން.ހަލުއިކަމާއެކު ފަހަތަށް އައުން.","latin":"sosun","english":""}
+{ "dhivehi":"ސޮސައިޓީ","definition":"ދިރިއުލޭ މުޖުތަމަޢު.އަމިއްލަ މީހުން  އުފައްދައިފައިވާ ހިލޭ ސާބަހަށް މަސައްކަތް ކޮށްދޭ  ޖަމްޢިއްޔާ.","latin":"sosaitee","english":""}
+{ "dhivehi":"ސޮޑާ","definition":"ޑޮންޑޮން ކަހަލަ ދިޔާބުއިމެއް. މި ހުންނަނީ  ފުޅިއަށް އަޅައި ވައި އަޅައިފައި ފަސްއޮށް ކަހަލަ  އޮށަކުން ބަންދުކޮށްފައެވެ.","latin":"sodaa","english":""}
+{ "dhivehi":"ސޮޑާހަކުރު","definition":"ސޮޑާ ތައްޔާރު ކުރަން އަޅާ ވަރަށް  ފޮނިގަދަ ހަކުރެއް.ސެކަރިން.","latin":"sodaahakuru","english":""}
+{ "dhivehi":"ސޮޑާއެޅުން","definition":"ސޮޑާ ތައްޔާރުކޮށް ފުޅިފުޅިޔަށް އަޅައި  ބަންދުކުރުން.","latin":"sodaaelhun","english":""}
+{ "dhivehi":"ސޮޓާގަނޑު","definition":"ލަޓިގަނޑު.","latin":"sotaagandu","english":""}
+{ "dhivehi":"ސޮޓުޖެހުން","definition":"ބައެއް ކުޅިވަރުތައް ކުޅޭއިރު އަވަސް ހަރަކާތާއެކު  ދޭ ވަރުގަދަ ހަމަލާ.","latin":"sotujehun","english":""}
+{ "dhivehi":"ސޯނާ","definition":"ގަޑީގެ ރަނގަބީލުގެ އަޑު.ގަޑިން  އިވޭ ސަމާލު ކުރުވުމުގެ އަޑު.","latin":"soanaa","english":""}
+{ "dhivehi":"ސޯނާކުރުން","definition":"ގަޑި ސޯނާވާގޮތް ހެދުން.","latin":"soanaakurun","english":""}
+{ "dhivehi":"ސޯނާވުން","definition":"ސޯނާގެ އަޑުއިވުން.","latin":"soanaavun","english":""}
+{ "dhivehi":"ސޯނާގަޑި","definition":"ގަޑީގެ ބާވަތެއް. މިއީ ވަކިވަގުތަކަށް ރަނގަބީލު  ވާގޮތަށް ހަމަކުރެވޭ ގަޑިއެކެވެ.","latin":"soanaagadi","english":""}
+{ "dhivehi":"ސޯރު","definition":"ލަވަކިޔާއިރު ރާގަށް ބަދަލުގެނެސް އެކި  ގޮތްގޮތަށް ދަމާ ދެމުން.","latin":"soaru","english":""}
+{ "dhivehi":"ސޯރުކުރުން","definition":"ރާގު ނުވަތަ ލަވަކިޔާއިރު ރާގަށް ބަދަލުގެނެސް،  އެކި ގޮތްގޮތަށް ދެމުން.","latin":"soarukurun","english":""}
+{ "dhivehi":"ސޯރުފޮތިކޮޅު","definition":"މުންޑު އަންނައިރު މުންޑު އުނަގަނޑުގައި  ހަރުލައްވަން އުނަގަނޑުގައި އައްސާލާ ފޮތިކޮޅެއް. މި  ފޮތިކޮޅު އޮންނާނީ ދެކޮޅަށް ފުޅާކޮށް ހަނިދިގުކޮށެވެ.","latin":"soarufothikolhu","english":""}
+{ "dhivehi":"ސޯބަ","definition":"(ބދ.) ހޯނު.","latin":"soaba","english":""}
+{ "dhivehi":"ސޯބާޔަށްދިއުން","definition":"ދިމާ ފައްސިޔަށް ދިއުން.","latin":"soabaayahdhiun","english":""}
+{ "dhivehi":"ސޯބި","definition":"(ބދ.) ރާ.","latin":"soabi","english":""}
+{ "dhivehi":"ސޯބު","definition":"ފުއްކަނޑައިފައި ހުންނަ ފުރޮޅު.(ޏ.ސ.) ފަހާފޮށި.","latin":"soabu","english":""}
+{ "dhivehi":"ސޯބުގައިލުން","definition":"މަޖާޒު: ހިންދެމިލިޔަނުދީ މަސައްކަތް ކުރުވުން.","latin":"soabugailun","english":""}
+{ "dhivehi":"ސޯޅަ","definition":"އެއްދިހަ ހަޔެއް.ފަނަރައާއި ސަތާރައާ  ދެމެދުގެ ޢަދަދު.(ބދ.) އަނދިރި.","latin":"soalha","english":"sixteen"}
+{ "dhivehi":"ސޯޅަކާޅަ","definition":"(ބދ.) ހީނާމާ.","latin":"soalhakaalha","english":""}
+{ "dhivehi":"ސޯޅަކެޅަ","definition":"(ގ.) ސޯޅަ އަނދިރި.","latin":"soalhakelha","english":""}
+{ "dhivehi":"ސޯޅައަނދިރި","definition":"ހަނދުމަހުގެ ސޯޅަވިލޭރޭ ހަނދު އެރުމުގެ ކުރިން  އޮންނަ އަނދިރިކަން.","latin":"soalhaandhiri","english":""}
+{ "dhivehi":"ސޯޅަމީހުންކުޅި","definition":"ކުޅިކޮށީ މީހުން ކުޅި ހުއްޓާރޭ ސޯޅަމީހުންވެގެން  ޖަހައި އުޅުނު ކުޅިއެއް.","latin":"soalhameehunkulhi","english":""}
+{ "dhivehi":"ސޯޅަފޮއި","definition":"(ޏ.) ހަނދުމަހުގެ ފަހު ފަނަރަ.(ބ.ސ.) ކަޅުފޮއި.","latin":"soalhafoi","english":""}
+{ "dhivehi":"ސޯޅި","definition":"(ބދ.) ފޫޅު.","latin":"soalhi","english":""}
+{ "dhivehi":"ސޯޅިޔާހުނި","definition":"ސުންޑެލި.ކާށި ހުންޏަށް ފިޔަޔާއި  ރޯ މިރުހާއި، ލުނބޯހުތާއި، ލޮނާއި ރީނދުލާއި  މިތަކެތި ރަހަލާވަރަށް ލައި އެއްކޮށް ތަވައެއް ނުވަތަ  ތެއްޔެއްގައި ދަވައިގެން ތައްޔާރުކުރާ ހުންޏެއް.  ދަވާނީ ހުނިހިކިލާވަރަށެވެ.","latin":"soalhiyaahuni","english":""}
+{ "dhivehi":"ސޯޅިޔާއިން","definition":"އޮޅުދޫ ކަރައިގެ މުސްލިމުން.","latin":"soalhiyaain","english":""}
+{ "dhivehi":"ސޯޅިޔާމާލޫދު","definition":"ސޯޅިޔާއިން މާލޭގައި ކިޔުއްވައި އުޅުނު މައުލޫދު.  މި މާލޫދު ކިޔައި އުޅުނީ ރަޖަބުމަހު 27 ވިލޭރޭއެވެ.","latin":"soalhiyaamaaloodhu","english":""}
+{ "dhivehi":"ސޯޅިޔާފޮށާ","definition":"ކުރީ ޒަމާނުގައި ފިރިހެނުން އަންނަން  ގެންގުޅުނު އަތްދުތްލީ ހުދު ފޮށައެއް.","latin":"soalhiyaafoshaa","english":""}
+{ "dhivehi":"ސޯމަ","definition":"(ބދ.) ސަމާސާ.","latin":"soama","english":""}
+{ "dhivehi":"ސޯފާ","definition":"ގޮދަނޑި ޖަހައިފައި ހުންނަ ދިގު  ގޮނޑިއެއް. މީގައި ލެނގޭ ތަނާއި ދެކޮޅުގެ  ދެއަތްގަނޑު ހުރެއެވެ. މިއީ އެނދަކަށްވެސް  ބޭނުންކުރެވޭ ގޮނޑިއެކެވެ.ސޯފާގޮނޑި.ސޯފާއެނދު.","latin":"soafaa","english":""}
+{ "dhivehi":"ސޯފާއެނދު","definition":"ބޯލާކޮޅަށް ކުޑަކޮށް އުސްކޮށް ހުންނަ އެނދެއް.  މީގައި ހުންނަނީ އެއްތެޔޮ ފުރައިފައެވެ.","latin":"soafaaendhu","english":""}
+{ "dhivehi":"ސޯފާގޮނޑި","definition":"އެއްކޮޅު ނުވަތަ ދެކޮޅު އުފުލައިފައި އިށީނދެވޭ  ގޮތަށާއި އޮށޯވެވޭ ގޮތަށް ހަދައިފައި ހުންނަ ގޮނޑި.","latin":"soafaagondi","english":""}
+{ "dhivehi":"ސޯލާ","definition":"އިރުން ނުވަތަ އިރުގެ ޒަރީޢާއިން.","latin":"soalaa","english":"solar; sun"}
+{ "dhivehi":"ސޯލާޕެނަލް","definition":"އިރުގެ އަލިން ބެޓެރީއަށް ބާރުގެނެސްދޭ ގޮތަށް  ތައްޔާރުކޮށްފައި ހުންނަ އެއްޗެއް.","latin":"soalaapenal","english":"solar panel"}
+{ "dhivehi":"ސޯސް","definition":"ކާއެއްޗެއްސަށް އަޅަން ހަދައިފައި ހުންނަ އޮލަ  އެއްޗެއް. މި އެކި އެއްޗިހިން ހަދައެވެ.","latin":"soas","english":"sause"}
+{ "dhivehi":"ސޯޑިޔަމް","definition":"ހުދުކުލައިގެ މަޑު މަޢުދަނެއް.","latin":"soadiyam","english":"sodium"}
+{ "dhivehi":"ސޯޓު","definition":"ހަރުވާޅުބުރި.ކަރަންޓް ހިނގާ  ދެމަގެއް ގުޅުމުން ވާގޮތް.","latin":"soatu","english":"shorts"}
+{ "dhivehi":"ސޯޓުވުން","definition":"ކަރަންޓު ދެނަރު، ނުވަތަ ކަރަންޓު ނަރަކާ  އެހެން އެއްޗަކާ ޖެހިގެން އަލިފާން ކެނޑުން.","latin":"soatuvun","english":"short; short circuit"}
+{ "dhivehi":"ސޯޔާބީން","definition":"ގަހެއްގެ އޮށް. މިއީ އެއިން ތެޔޮ ހޭނުމަށްޓަކައި  ހައްދާ ބާވަތެކެވެ. މިގަސް ހެއްދުމުން ބިންގަނޑު  ރަނގަޅުވެއެވެ.","latin":"soayaabeen","english":"soya bean"}
+{ "dhivehi":"ސޯޚު","definition":"ކަމަކަށް މާބޮޑަށް ހުންނަ ޝައުޤު.ކަމަކާމެދުވާ ހައިރާން.","latin":"soakhu","english":""}
+{ "dhivehi":"ސޯޚުވުން","definition":"ހައިރާން ވުން.އަންތަރީސްވުން.","latin":"soakhuvun","english":""}
+{ "dhivehi":"ސޯޝިއަލިސްޓް","definition":"ސޯޝިއަލިޒަމް ޤަބޫލުކުރާ.","latin":"soashialist","english":""}
+{ "dhivehi":"ސޯޝިއަލިޒަމް","definition":"އިންސާނީ ހަޔާތާބެހޭ ފަލްސަފީ ނަޒަރިއްޔާއެއް.  މިނަޒަރިއްޔާގައިވާ ގޮތުން، އުފެއްދުންތެރިކަމާއި  އާމްދަނީގެ މައިގަނޑު ވަސީލަތްތައް ވާންޖެހެނީ  އެންމެންގެ މިލްކަކަށެވެ.","latin":"soashializam","english":""}
+{ "dhivehi":"ސްޓޭޑިއަމް","definition":"ކުޅިވަރު ކުޅުމަށް ތައްޔާރު ކޮށްފައި ހުންނަ  ބޮޑެތި ބިން. މިތަން ތައްޔާރު ކޮށްފައި ހުންނާނީ  ކުޅިބަލާ މީހުންނަށް އިށީނދެގެން ތިބެ ކުޅިބެލޭ  ގޮތަށެވެ.","latin":"steydiam","english":""}
+{ "dhivehi":"ސ","definition":"ތާނައިގެ ސަތާރަ ވަނަ އަކުރު.","latin":"seenu","english":"17th letter of thaana"}
+{ "dhivehi":"ސަ","definition":"ހައެއް.","latin":"sa","english":""}
+{ "dhivehi":"ސަހަނަށްއެޅުން","definition":"(ބ.) ތަށިތައްޓަށް ބަންޑުންދާވަރަށް އެއްޗެހި  އެޅުން.","latin":"sahanahelhun","english":""}
+{ "dhivehi":"ސަހަނު","definition":"(ބ.) ބަތްއަޅަން ގެންގުޅޭ ބޮޑެތި މުށިތަށި.","latin":"sahanu","english":""}
+{ "dhivehi":"ސަހަރާ","definition":"މީހުން ވަޅުލާ ބިން.ގަހެއް ރުކެއް  ނެތް ސަރާސަރު ހުސް ބިން.","latin":"saharaa","english":"desert"}
+{ "dhivehi":"ސަހަރު","definition":"ރަށް.ހިކިފަސް ބޮޑެތި ބިން.ޖަޒީރާ އަކަށް ނުވާ ބިން.","latin":"saharu","english":""}
+{ "dhivehi":"ސަހަރޯ","definition":"ހިތާމަޔާ ހިތްދަތިކަން ދޭހަކުރުވުމަށް  ބުނެއުޅޭ ބަހެއް.މަޖާޒު: ރީތިކަމާއި  ފުރިހަމަކަން ފެނިފައި ޙައިރާންވެގެން ބުނާބަހެއް.","latin":"saharoa","english":""}
+{ "dhivehi":"ސަހަރޯހީވާވަރުކުރުން","definition":"މީހަކަށް ނުވަތަ ދިރޭ އެއްޗަކަށް މާބޮޑަށް  އަނިޔާކުރުން.","latin":"saharoaheevaavarukurun","english":""}
+{ "dhivehi":"ސަހަރޯހީވުން","definition":"ހަމްދަރުދީ އުފެދުން.މަޖާޒު: ރީތިކަމާ  މޮޅު ކަމާމެދު ޙައިރާން ވުން.","latin":"saharoaheevun","english":""}
+{ "dhivehi":"ސަހަރޯވެރިން","definition":"ހަމްދަރުދީވާ މީހުން.ބަލަދުއަރާ  މީހުން.","latin":"saharoaverin","english":""}
+{ "dhivehi":"ސަހަރޯވެރިކަން","definition":"ރަޙުމު ހުންނަކަން.އޯގާވެރިކަން.ބެލެނިވެރިކަން.","latin":"saharoaverikan","english":""}
+{ "dhivehi":"ސަހަރޯވެރިވުން","definition":"އޯގާވެރިވުން.ހަމްދަރުދީވުން.","latin":"saharoaverivun","english":""}
+{ "dhivehi":"ސަހަރޯވެރިޔާ","definition":"މީހެއްގެ ބަލަދު އަރާމީހާ.މީހަކާމެދު  ހަމްދަރުދީވެ ހާލުބަލައި އުޅޭ މީހާ.","latin":"saharoaveriyaa","english":""}
+{ "dhivehi":"ސަހައްޓި","definition":"ހަދިހަހައެއް.ފަސްދޮޅަސްހައެއް.","latin":"sahahti","english":""}
+{ "dhivehi":"ސަހަތްތަރި","definition":"ހަތްދިހަ ހަޔެއް.ފަންސަހަތްތަރިއާއި  ސަތުހަތްތަރިޔާ ދެމެދުގެ ޢަދަދު.","latin":"sahaiythari","english":""}
+{ "dhivehi":"ސަހަލި","definition":"ސަހަލު.","latin":"sahali","english":""}
+{ "dhivehi":"ސަހަލު","definition":"ދޭސީ.އާދައިގެ. މިސާލު: ތިޔައީ  ސަހަލު ކަމެއް ނޫނެވެ.","latin":"sahalu","english":""}
+{ "dhivehi":"ސަހަލުކަން","definition":"ދޭސިކަން.","latin":"sahalukan","english":""}
+{ "dhivehi":"ސަހާ","definition":"ބާޒާ ވައްތަރު ފިޔަގަނޑު ބޮޑު އެއްގަމު ދޫންޏެއް.","latin":"sahaa","english":""}
+{ "dhivehi":"ސަހީ","definition":"(މަލިކު) ސޮއި.","latin":"sahee","english":""}
+{ "dhivehi":"ސަހީދު","definition":"(ޅ.) މަސްބާނާ އެންމެކުރު ދޮށި.","latin":"saheedhu","english":""}
+{ "dhivehi":"ސަހީދުބުޅި","definition":"މަސްބާނާ އެންމެ ކުރުދޮށީގައި ލާބުޅި.","latin":"saheedhubulhi","english":""}
+{ "dhivehi":"ސަހީދުގަނޑު","definition":"(ބ.) މުޑަން.","latin":"saheedhugandu","english":""}
+{ "dhivehi":"ސަހުންފުނި","definition":"(ބދ.) ރެހަން.","latin":"sahunfuni","english":""}
+{ "dhivehi":"ސަނދަރަބޮލި","definition":"ހިއްތަނާ އެއްސިފައަށް ހުންނަ އެއަށްވުރެ ކުޑަ  އެއްޗެއް. މިއީ ސަނދަރަ ކިޔާ ސަންގުގެ  އަނގަމަތީގައި ހުންނަ އެއްޗެކެވެ.","latin":"san'dharaboli","english":"operculum shell"}
+{ "dhivehi":"ސަނދަރަފަތި","definition":"ގިނަ.","latin":"sandharafathi","english":""}
+{ "dhivehi":"ސަނދައިރަ","definition":"(ބދ.)ހަނދާއި އިރާ މިދެބަސް އެއްކޮށް  ބުނާގޮތް.އިރުހަނދު.","latin":"sandhaira","english":""}
+{ "dhivehi":"ސަނދަވާ","definition":"(ސ.) ސަނދުވާ.","latin":"sandhavaa","english":""}
+{ "dhivehi":"ސަނދު","definition":"(ބދ.) ހުޅެވި ހަނދު.","latin":"sandhu","english":""}
+{ "dhivehi":"ސަނދުރަވަތި","definition":"(ބދ.) ހަނދުވަރުދީފައިވާ.","latin":"sandhuravathi","english":""}
+{ "dhivehi":"ސަނދުރަވި","definition":"(ބދ.) ހަނދުވަރު.","latin":"sandhuravi","english":""}
+{ "dhivehi":"ސަނދުބަރަކަ","definition":"ރީނދޫ ކުލައިގެ ބޮނޑިމަލެއް އަޅާގަހެއް.","latin":"san'dhubaraka","english":"marigold"}
+{ "dhivehi":"ސަނދުބަރަކަމާ","definition":"ސަނދުބަރަކަ ގަހުގެ މާ. މިއީ ވަރަށް ގިނަ  ކުދިކުދި ފިޔަތަކެއް ހުންނަ ރީނދޫކުލައިގެ  ބޮނޑިމަލެކެވެ. މި މަލުގައި ދުވަނީ ޒަވި ވަހެކެވެ.","latin":"sandhubarakamaa","english":""}
+{ "dhivehi":"ސަނދުބަރަކަގަސް","definition":"ސަނދުބަރަކަމާ އަޅާގަސް.","latin":"sandhubarakagas","english":""}
+{ "dhivehi":"ސަނދުވަންނަކާރަ","definition":"(ބދ.)ހަނދެއްފަދަ އަލި.ހަނދުވަރުގެ ކުލަހުރި.","latin":"sandhuvannakaara","english":""}
+{ "dhivehi":"ސަނދުވާ","definition":"އައްޓާއި އެނދާއި އުނދޯއްޔާއި މާލޫދު ހަރުގެ  ފަދަ ތަންތާގެ މަތީގައި ދަމާ ފޮތިގަނޑު.","latin":"sandhuvaa","english":""}
+{ "dhivehi":"ސަނގަލާ","definition":"ހިމަދިގު އެއްޗެއް ފަށަކާ ޖެހި ފަށެއް  އޮންނަގޮތަށް މަތިމައްޗަށް ވަށްކޮށް އޮޅައިފައި އޮންނަ  އޮޅުން.","latin":"sangalaa","english":""}
+{ "dhivehi":"ސަނގަލާޖެހުން","definition":"ނަންނުގައްޗާއި ހަރުފަ ފަދަ ތަކެތި  ފަށަކާޖެހި ފަށެއް އޮންނަހެން މަތިމައްޗަށް ވަށްކޮށް  އޮޅައިލައިގެން އޮތުން.ސަނގަލާޖެއްސުން.","latin":"sangalaajehun","english":""}
+{ "dhivehi":"ސަނގަލާޖެއްސުން","definition":"ދިގުވަލެއް ފަދަ އެއްޗެއް ފަށަކާޖެހިފަށެއް އޮންނަ  ގޮތަށް މަތިމައްޗަށް ވަށްކޮށް އޮޅުން. މިސާލު: ތިޔަ  ސަލާމަތި ސަނގަލާ ޖައްސާށެވެ.","latin":"sangalaajesun","english":""}
+{ "dhivehi":"ސަނަންޑު","definition":"(ބދ.) ގެރި.","latin":"sanandu","english":""}
+{ "dhivehi":"ސަނަދު","definition":"ވަކިކަމެއްގެ މުޤައްރަރާ އެއްގޮތަށް ކުރެވޭ  އިމްތިޙާނަކުން ފާސްވުމުން އެކަމުގެ ހަނދާނަކަށް  ދޭލިއުން. މިސާލު: ކާތިބުކަމުގެ ސަނަދު.އާއްމުކޮށް ޤަބޫލުކުރެވޭ ފެންވަރަކަށް ވަކިކަމެއް  ކުރެވޭކަން ބަޔާން ކުރުމުގެ ގޮތުންދޭ ލިޔުން.","latin":"sanadhu","english":"government service training certificate"}
+{ "dhivehi":"ސަނަދުނެގުން","definition":"ސަނަދެއް ޙާޞިލުކުރުން.","latin":"sanadhunegun","english":""}
+{ "dhivehi":"ސަނަތު","definition":"ތާރީޚު.އަހަރު.","latin":"sanathu","english":""}
+{ "dhivehi":"ސަނަތުބެލުން","definition":"ތާރީޚު ބެލުން.","latin":"sanathubelun","english":""}
+{ "dhivehi":"ސަނަތުޖެހުން","definition":"ތާރީޚު ޖެހުން.","latin":"sanathujehun","english":""}
+{ "dhivehi":"ސަނާ","definition":"ތަޢުރީފު.","latin":"sanaa","english":""}
+{ "dhivehi":"ސަނާކިއުން","definition":"ތާރީފުކުރުން.ހެޔޮބަސްބުނުން.","latin":"sanaakiun","english":""}
+{ "dhivehi":"ސަނާމައްކުފަތް","definition":"(ގ.) ސަނާމުކީފަތް.","latin":"sanaamahkufaiy","english":""}
+{ "dhivehi":"ސަނާމުކީ","definition":"ގަހެއްގެނަން. މީގެ ފަތަކީ ޖުއްލާބު ކުރުވުމަށް  ބޭނުންކުރާ އެއްޗެކެވެ.","latin":"sanaamukee","english":""}
+{ "dhivehi":"ސަނާމުކީފަތް","definition":"ސަނާމުކީގަހުގެ ފަތް.","latin":"sanaamukeefaiy","english":""}
+{ "dhivehi":"ސަނާމުގު","definition":"މުގުގެ ބާވަތެއް. މިބާވަތުގެ މުގުގެ ފުއް  ބޮޑެތިވާނެއެވެ. އެއްކޮޅަށް ކުޑަކޮށް ހިމަވާނެއެވެ.","latin":"sanaamugu","english":""}
+{ "dhivehi":"ސަނާގަނޑު","definition":"ބޮޑު މާލޫދު ފެށުމުގެ ކުރިން ކިޔާ ބޮޑު  ޞަލަވާތާއި ޅެންބައި.ކަމެއް ފެށުމުގެ ކުރިން  އެކަމެއް ތަޢާރަފު ކުރުމަށް ދައްކާ ވާހަކަކޮޅު.","latin":"sanaagandu","english":""}
+{ "dhivehi":"ސަނޯރާމާ","definition":"ސަނޯރާ ގަހުގެ މާ.","latin":"sanoaraamaa","english":""}
+{ "dhivehi":"ސަނޯރާގަސް","definition":"މިރިހިގަހުގެ ފަތާ ވައްތަރު ގޮތަކަށް އެއަށްވުރެ  ތުނޑުތައް ބޮޑެތިކޮށް ފަތްހުންނަ ގަހެއް. މިގަހުގެ  ތިންވައްތަރެއް ހުރެއެވެ. އެންމެ ގިނައިން ހުންނަނީ  ވަރަށް މަޑުމަޑު ރީނދޫ ކުލައިގެ މަލެއްފޮޅޭ  ވައްތަރެކެވެ.","latin":"sanoaraagas","english":""}
+{ "dhivehi":"ސަންނެޓި","definition":"ހަވާދުލައިގެން ބަނބުކޭލުގައި ކައްކާ ލައިގެންކާ  އެއްޗެއް.","latin":"sanneti","english":""}
+{ "dhivehi":"ސަންބަލް","definition":"(ސ.) ސަންބޯލް.","latin":"sanbal","english":""}
+{ "dhivehi":"ސަންބޯކު","definition":"މުދާ ބޭލުމަށާއި މީހުން އެއްތަނުން އަނެއް  ތަނަށް ގެންދިއުމަށް ބޭނުން ކުރާ ބޮޑެތި ބައްތެލި.","latin":"sanboaku","english":""}
+{ "dhivehi":"ސަންބޯލް","definition":"ކާށިހުންޏާއި މަހާއި ހިކިމިރުސް ފަދަ  އެއްޗެހި އެއްކޮށްގެން ހަދާ މަސްހުނި ފާޑުގެ  ލައިގެންކާ އެއްޗެއް.ފިޔާގެ ތެރެއަށް  ހިކިމަހާއި ހަކުރާއި ހިކިމިރުހާއި ފޮނިތޮށި ފަދަ  ތަކެތި އަޅައި ތެލުގައި ކައްކައިގެން ތައްޔާރު ކޮށްފައި  ހުންނަ ލައިގެންކާ، ހިކި އެއްޗެއް.","latin":"sanboal","english":""}
+{ "dhivehi":"ސަންބޯސާ","definition":"ފަނިޔާރަމާ ވައްތަރު ގޮތަކަށް އެތެރެއަށް  މަސް އަޅައިގެން ހަދައިފައި ހުންނަ ކުޅި ހެދިކާއެއް.(ހ.) ބަޖިޔާ.","latin":"sanboasaa","english":""}
+{ "dhivehi":"ސަންފާކަނދޮޅު","definition":"(ހ.) މާކަނދޮޅަށްވުރެ ފަތްހަނި ހުދުމަލެއް އަޅާ  ކަނދޮޅެއް.","latin":"champakan'dholhu","english":"crinum zeylanicum"}
+{ "dhivehi":"ސަންފާކެޔޮ","definition":"ބޮންތިރަތް ކޭލަށްވުރެ ވައް ފަލަކޮށް  ހުންނަ ކޭލެއް. މިކެޔޮ ދޮންވެ ފައްކާވީމާ ބައެއް  ވަކުގެ ތޮށިގަނޑު ފަޅައިގެން ދެއެވެ.ސަންޕާކެޔޮ.","latin":"sanfaakeyo","english":""}
+{ "dhivehi":"ސަންފާއޮނު","definition":"ދެބަދަ ދޭތެރެ ދުރުކޮށް އޮމާންކޮށް ހުންނަ އޮނު.","latin":"sanfaaonu","english":""}
+{ "dhivehi":"ސަންފާވޮނު","definition":"(ބދ.) ސަންފާއޮނު.","latin":"sanfaavonu","english":""}
+{ "dhivehi":"ސަންފާތެޔޮ","definition":"ބޭހަށް ބޭނުންކުރާ ތެލެއް. މިއީ ހުވަނދުމަލުން  ނަގާ ތެލެކެވެ.","latin":"sanfaatheyo","english":""}
+{ "dhivehi":"ސަންދަރޫސް","definition":"ސަންދަރޯސް.","latin":"sandharoos","english":""}
+{ "dhivehi":"ސަންދަރޯސް","definition":"ޕްލާސްޓިކްގެ މުރަނަވައްތަރު.","latin":"sandharoas","english":""}
+{ "dhivehi":"ސަންދައި","definition":"(ބދ.)މާތްމީހުން.އަލި.","latin":"sandhai","english":""}
+{ "dhivehi":"ސަންދާ","definition":"(ބދ.) ޢަރުޝިއާކުރުސި.","latin":"sandhaa","english":""}
+{ "dhivehi":"ސަންދާނު","definition":"ތަޚުތު.","latin":"sandhaanu","english":""}
+{ "dhivehi":"ސަންދިއަ","definition":"(ބދ.) އަލި.","latin":"sandhia","english":""}
+{ "dhivehi":"ސަންދު","definition":"(ބދ.) ހަނދު.","latin":"sandhu","english":""}
+{ "dhivehi":"ސަންދުރަ","definition":"(ބދ.)މާތް.ހިޔާ.","latin":"sandhura","english":""}
+{ "dhivehi":"ސަންދުރަވި","definition":"(ބދ.) ހަނދުވަރު.","latin":"sandhuravi","english":""}
+{ "dhivehi":"ސަންދުރޯށި","definition":"(ގ.) ސަންދަރޯސް.","latin":"sandhuroashi","english":""}
+{ "dhivehi":"ސަންދުރޯސި","definition":"(ގ.) ސަންދަރޯސް.","latin":"sandhuroasi","english":""}
+{ "dhivehi":"ސަންދޯކާ","definition":"(ގ.) ސަންދޯއް.","latin":"sandhoakaa","english":""}
+{ "dhivehi":"ސަންދޯކުއެޅުން","definition":"މައްޔިތާ ހިނަވައި ކަފުން ކުރުމަށްފަހު  ސަންދޯކުގައި ބޭއްވުން.","latin":"sandhoakuelhun","english":""}
+{ "dhivehi":"ސަންދޯއް","definition":"ވަޅުލާއިރު މައްޔިތާ ބޭއްވުމަށްޓަކައި ވަކިގޮތަކަށް  ޖަހައި ދަށުގައި ނަނު ފުރައިފައި ހުންނަ ހިމަދިގު  ފޮއްޓެއް.","latin":"sandhoah","english":"coffin"}
+{ "dhivehi":"ސަންދޯއްހިފުން","definition":"ސަންދޯއް އުފުލުން.","latin":"sandhoahhifun","english":""}
+{ "dhivehi":"ސަންދޯއްކުނާ","definition":"ސަންދޯކުގެ އެތެރޭގައި އެޅުމަށްޓަކައި ވިޔެފައި  ހުންނަ ކުނާ.","latin":"sandhoahkunaa","english":""}
+{ "dhivehi":"ސަންދޯއްޕުޅު","definition":"ސަންދޯކަށް އެންމެމާތްކޮށް ކިޔާގޮތް.","latin":"sandhoahpulhu","english":""}
+{ "dhivehi":"ސަންތިމަރިޔަބު","definition":"ކުޑަކުދިންގެ ވާހަކައެއްގައި އުޅޭ އަންހެން  ހަންޑިއެއް. މިއީ ޚިޔާލީ އެއްޗެކެވެ.","latin":"toothfairy (derived from Santa Maria  the Virgin Mary mother of Jesus)","english":"toothfairy"}
+{ "dhivehi":"ސަންތިޔާނާ","definition":"ވާކޮށްހެދޭ ކުޑަގަހެއް. މިގަހުގެ ފަތްތައް ހުންނަނީ  ކޮކާ ފިޔަ ތަކެއްހެނެވެ. ތަނޑިތައް ހީވާނީ އޮފުއަރާ  އެންދެރި ކޮޅެއްހެނެވެ. ތަނޑި ހުންނާނީ ފަތިކޮށެވެ.","latin":"santhiyaanaa","english":""}
+{ "dhivehi":"ސަންތު","definition":"(ބދ.)މެދު.މަރުކަޒު.","latin":"santhu","english":""}
+{ "dhivehi":"ސަންގައޯގަ","definition":"(ޅ.) ނުބައި އިރުވަރު.","latin":"sangaoaga","english":""}
+{ "dhivehi":"ސަންގި","definition":"ސަންގު.","latin":"sangi","english":""}
+{ "dhivehi":"ސަންގު","definition":"ފޫއެބުރި ބޮލީގެ ތެރޭގައި ހިމެނޭ ސައިޒުން  ބޮޑެތި ބޮލި. މިއީ ބޭރުގައި ކުރެހުން އަޅައިފައި  ހުންނަ ބޮއްޔެކެވެ. މީހުން އެއްކުރުމަށް ފުންމައިއުޅޭ  އެއްޗަކަށް މިބޮލި ބޭނުން ކުރެއެވެ.","latin":"sangu","english":""}
+{ "dhivehi":"ސަންގުރަ","definition":"(ބދ.) އަސް.","latin":"sangura","english":""}
+{ "dhivehi":"ސަންގުމަރުމަރުހިލަ","definition":"ހުދުކުލައިގައި ހުންނަ މޮޅު ހިލައެއް.","latin":"sangumarumaruhila","english":""}
+{ "dhivehi":"ސަންގުފަރީދު","definition":"ހުދުކުލައިގެ ހިލައެއް.","latin":"sangufareedhu","english":""}
+{ "dhivehi":"ސަންގުފަރީގު","definition":"ސަންގުފަރީދު.","latin":"sangufareegu","english":""}
+{ "dhivehi":"ސަންގުފުންމުން","definition":"މީހުންނަށް އެކިއެކި ކަންކަން އެންގުމަށް ސަންގު  ގޮއްވުން.","latin":"sangufunmun","english":""}
+{ "dhivehi":"ސަންގުފުމުން","definition":"ސަންގުފުންމުން.","latin":"sangufumun","english":""}
+{ "dhivehi":"ސަންގުގެރި","definition":"ގެރީގެ ބާވަތެއް. މިއީ އާދައިގެ ގެރިޔަށްވުރެ  ބޮޑެތި، ކުރިމައްޗަށް ދެދަޅު ލެނބިފައި ހުންނަ ކިރު  ގިނައިން ލިބޭ ގެރިއެކެވެ. މިއެތި ގޮވާލީމާ ހީވާނީ  ބާރަށް ސަންގެއް ފުމެލާ ހެންނެވެ.","latin":"sangugeri","english":""}
+{ "dhivehi":"ސަންގުގެރި ސޫޖީބޯހެން","definition":"(މިސާލުބަހެއް) ކެއިން ބުއިމުގެ އަދަބުތަކަށް  ބެލުމެއްނެތި ދިޔާއެއްޗެއް ބޯންފެށުމުން ބުނެއުޅޭ  ބަހެއް.","latin":"sangugeri soojeeboahen","english":""}
+{ "dhivehi":"ސަންސްކިރިތު","definition":"ސަންސް ކިރިތުބަސް.","latin":"sanskirithu","english":""}
+{ "dhivehi":"ސަންސްކިރިތުބަސް","definition":"އާރިޔަނުންގެ އަސްލުބަސް.","latin":"sanskirithubas","english":""}
+{ "dhivehi":"ސަންޑައި","definition":"(ބދ.) މީގޮނު.","latin":"sandai","english":""}
+{ "dhivehi":"ސަންޑޭ","definition":"(ބދ.) ހަންޑި.","latin":"sandey","english":""}
+{ "dhivehi":"ސަންޑޯމަސައްކަތް","definition":"ހަށިގަނޑު ވަރުގަދަ ކުރުމަށް ކުރާ ކަސްރަތު.","latin":"sandoamasahkaiy","english":""}
+{ "dhivehi":"ސަންޕާކެޔޮ","definition":"ސަންފާކެޔޮ.","latin":"sanpaakeyo","english":""}
+{ "dhivehi":"ސަންޕާއޮނު","definition":"އޮނުގެ ބާވަތެއް. މިއީ ބަދަތައް ދިގު ތެދަށް  ހެދޭ އޮނެކެވެ.","latin":"sanpaaonu","english":""}
+{ "dhivehi":"ސަންޕާތެޔޮ","definition":"ސަންފާތެޔޮ.","latin":"sanpaatheyo","english":""}
+{ "dhivehi":"ސަންޖާބު","definition":"ހަރުވާޅުގެ ފައިކުރި ވީދިދާނެތީ ބޯކޮށްލުމަށް  ދަށުގައިލާ ބަތާނަފަށް.","latin":"sanjaabu","english":""}
+{ "dhivehi":"ސަރަނގު","definition":"ނާފަހަރާއި ބޯޓުފަހަރުގެ ދަތުރު މަތީގައި  އާދައިގެ ފަޅުވެރިންނަށް އަމުރުކުރަން ހުންނަ  ސަރުދާރު.","latin":"sarangu","english":""}
+{ "dhivehi":"ސަރަނގުކަން","definition":"ނާފަހަރާއި ބޯޓުފަހަރުގެ ފަޅުވެރިންނަށް  އަމުރުކުރާ ސަރުދާރުގެ މަޤާމު. (ފަޅުވެރިންގެ  ސަރުދާރުކަން)","latin":"sarangukan","english":""}
+{ "dhivehi":"ސަރަންފި","definition":"(ބދ.) ބޮޑުއަށި.","latin":"saranfi","english":""}
+{ "dhivehi":"ސަރަންފީ","definition":"ސަރަންފީ ގޮނޑި.","latin":"saranfee","english":""}
+{ "dhivehi":"ސަރަންފީގޮނޑި","definition":"އޮށޯވެވޭ ގޮތަށް ހުންނަ ގޮނޑިއެއް. މި ގޮނޑީގެ  އަތްގަނޑު ހުންނާނީ ދެފަށްކޮށެވެ. އަތްގަނޑުގެ  ދަށްފަރާތް ހުޅުވައި ލައްޕައި ހެދޭގޮތަށެވެ.  އެދެއަތްގަނޑު ހުޅުވައިލައިފައި އޭގެ މަތީގައި  ފައިބާއްވައިގެން އޮށޯވެ ހެދެއެވެ.","latin":"saranfeegondi","english":""}
+{ "dhivehi":"ސަރަންދީބު","definition":"އޮޅުދޫކަރަ.","latin":"sarandheebu","english":""}
+{ "dhivehi":"ސަރަންދީބުފަރުބަދަ","definition":"ސިރީލަންކާ (އޮޅުދޫކަރައި) ގައި ހުންނަ  ފަރުބަދައެއް. އާދަމުގެފާނުގެ ފިޔަވަޅު ކަމަށް ބުނެވޭ  ނިޝާން ހުންނަނީ މިފަރުބަދައިގެ ކުންނެއްގައެވެ.","latin":"sarandheebufarubadha","english":""}
+{ "dhivehi":"ސަރަކަ","definition":"ރޮދި އެނބުރުމާއި، ނަނު އެޅުމާއި ވާއެޅުން  ފަދަ ކަންކަމުގައި އެތަކެތީގެ އުޅި އަނބުރައި  ހަރުކުރުމަށް ގެންގުޅޭ އާލަތެއް.","latin":"saraka","english":""}
+{ "dhivehi":"ސަރައްކާލި","definition":"ޢިމާރާތެއްގެ ތެރޭގައި ހިނގަން އޮންނަ  ހަނިދިގުމަގު.ހަނިކޮށް ދިގުކޮށް އޮންނަ  ތަޅުންގަނޑު.","latin":"sarahkaali","english":""}
+{ "dhivehi":"ސަރަމު","definition":"ލަދު.ބިރު.","latin":"saramu","english":""}
+{ "dhivehi":"ސަރަފޯސް","definition":"ތެލީގައި ޖަހާމަތި.","latin":"sarafoas","english":""}
+{ "dhivehi":"ސަރަޙައްދީ","definition":"ވަކި ހިސާބަކަށް ނުވަތަ ވަކި ސަރަޙައްދަކަށް  ނިސްބަތްވެގެންވާ.","latin":"sarahahdhee","english":""}
+{ "dhivehi":"ސަރަޙައްދު","definition":"ފާހަގަ ކުރެވިފައިވާ ވަކި ހިސާބުގަނޑެއް.އިން ވަކިކުރެވިފައިވާ ތަން.ދާއިރާ.","latin":"sarahahdhu","english":""}
+{ "dhivehi":"ސަރާކަވަން","definition":"(ބދ.)ވަންހަހެއު.ނަސަބު  ރަނގަޅު.","latin":"saraakavan","english":""}
+{ "dhivehi":"ސަރާސަރު","definition":"އެއްކޮޅުން އަނެއްކޮޅަށް.ނިވަލެއް  ނެތް.ހުރަހެއް ނެތް.","latin":"saraasaru","english":""}
+{ "dhivehi":"ސަރިންދާ","definition":"ރާގު ފުމެން ބޭނުންކުރާ އޮނެއް. މިހުންނަނީ  މައްޗަށް ހުންނަ ފަރާތުގައި ލޯވަޅު ބަރިއެއް  ތޮރުފައިފައެވެ.","latin":"sarindhaa","english":""}
+{ "dhivehi":"ސަރިދާލޭސް","definition":"(ބދ.)ރަސްކަމުގެ ދާން.ރަސްކަމުގެ ތަޚުތު.","latin":"saridhaaleys","english":""}
+{ "dhivehi":"ސަރިޔަތް","definition":"ޤަޟިއްޔާ.","latin":"sariyaiy","english":""}
+{ "dhivehi":"ސަރިޔަތްކުރުން","definition":"ދެފަރާތެއްގެ ދެމެދުގައި ހިނގާ މައްސަލައެއް  ބަލައި ނިޔާ ކަނޑައެޅުން.","latin":"sariyaiykurun","english":""}
+{ "dhivehi":"ސަރުބަތު","definition":"ހަކުރާއި ފެނާ އެއްކޮށް ކޮންމެވެސް ކަހަލަ  އެސެންސަކުން ރަހަލައްވައިފައި ހުންނަ އޮލަފަނި.މޭވާ އަކުން ނަގައިފައިވާ ޖޫހަށް ހަކުރު އަޅައި  އޮލަކޮށްފައި ހުންނަ ފަނި.ބޭހަށް  ބޭނުންކުރުމަށް ބައެއް ބާވަތުގެ ތަކެތިން ކައްކާ  އޮލަފަންޏެއް. މިސާލު: ވޭމުއި ސަރުބަތު.","latin":"sarubathu","english":""}
+{ "dhivehi":"ސަރުބީ","definition":"އިންސާނުންނާއި ޖަނަވާރާއި ދޫނިސޫފާސޫފީގެ  ހަށިގަނޑުގައި ހުންނަ ތަފާތު ތެލުގެ އެސިޑް އެކުލެވޭ  ބައި. ހަކަތަ އުފައްދަނީ މިބައިންނެވެ. މިއީ ހަމުގެ  އަޑީގައި ދާފަރައަކަށްވެސް އޮންނަ ތެލުގެބައި އެކުލެވޭ  ދުއްޔެވެ.","latin":"sarubee","english":"fat"}
+{ "dhivehi":"ސަރުބީޖެހުން","definition":"ކާނާގައި ތެލުގެ މާއްދާތައް އިތުރުވުމުން  ހަށިގަނޑަށް ބޭނުންވާ ވަރަށްވުރެ ތެލުގެބައި  ހަށިގަނޑުގައި އިތުރުވެގެން، ލޮކިމަސްޖަހައި  ފަލަވުން.ސަރުބީ އުފެދުން.","latin":"sarubeejehun","english":""}
+{ "dhivehi":"ސަރުބޯހާ","definition":"(ގ.) ސަރަފޯސް.","latin":"saruboahaa","english":""}
+{ "dhivehi":"ސަރުބޯސް","definition":"(ގ.) ސަރަފޯސް.","latin":"saruboas","english":""}
+{ "dhivehi":"ސަރުކާރު","definition":"ޤާނޫނީގޮތުން ޤައުމެއްގެ ވެރިކަން ހިންގުމުގެ  ބާރު ލިބިފައިވާ ފަރާތް.","latin":"sarukaaru","english":"government"}
+{ "dhivehi":"ސަރުވާރު","definition":"(ބދ.) ހުތް.","latin":"saruvaaru","english":""}
+{ "dhivehi":"ސަރުމަންދާ","definition":"(ބދ.) ބާވަތް.","latin":"sarumandhaa","english":""}
+{ "dhivehi":"ސަރުމަތި","definition":"(ބދ.) ދާންމަތި.","latin":"sarumathi","english":""}
+{ "dhivehi":"ސަރުމާރި","definition":"(ބދ.) ފާރު މިބަހުގެ ފުރަތަމަ މާނަ ބަލާ!","latin":"sarumaari","english":""}
+{ "dhivehi":"ސަރުމުދުން","definition":"(ބދ.) ބޮލުތެރެ.","latin":"sarumudhun","english":""}
+{ "dhivehi":"ސަރުމޭގަޅަ","definition":"(ބދ.)ވަރަލިބޭ ތަކެތި.ދިރޭތަކެތި ތެރެއިން ފިޔަހުންނަ ތަކެތި.","latin":"sarumeygalha","english":""}
+{ "dhivehi":"ސަރުފޯސް","definition":"ސަރަފޯސް.","latin":"sarufoas","english":""}
+{ "dhivehi":"ސަރުދާރު","definition":"މަސައްކަތު މީހުންގެ، ނުވަތަ ޕިޔޯނުންގެ  ވެރިއަކަށް ހުންނަ މީހާ.","latin":"sarudhaaru","english":"foreman"}
+{ "dhivehi":"ސަރުދާރުކަން","definition":"އެކިއެކި މަސައްކަތްކުރާ ބައިބައިގެ  މަސައްކަތް ކުރުވައި ހެދުމަށް އަމުރުކުރުމާ ބެހޭ  ވެރިކަން.އިހުގައި އަވަށު ވެރީންގެ ދަށުން  ހިންގަންޖެހޭ އަމުރުތައް ހިންގައި، އަވަށުގެ  މަސައްކަތްތައް ކުރުވައި ހެދުމާބެހޭ ވެރިކަން.","latin":"sarudhaarukan","english":""}
+{ "dhivehi":"ސަރުސަނަރާދަ","definition":"(ބދ.) ކީރިތި ރަސްކަން.","latin":"sarusanaraadha","english":""}
+{ "dhivehi":"ސަރުޠާނު","definition":"އިރުހަނދުގެ ބުރުޖުން ހަތަރުވަނަ ބުރުޖު.","latin":"saruthaanu","english":""}
+{ "dhivehi":"ސަރޯފަރޯ","definition":"އާދައިގެ.ދެރަނިކަމެތި.","latin":"saroafaroa","english":""}
+{ "dhivehi":"ސަބަބު","definition":"ކަމެއް މެދުވެރިވާން ދިމާވި ކަންތައް.ބުއްދިއަށް ފެންނަހަމަ.ކަމަކުން ނުވަތަ  މައްސަލައަކުން ސަލާމަތް ވުމަށް ދައްކާ ވާހަކަ.ވަސީލަތް.","latin":"sababu","english":"cause"}
+{ "dhivehi":"ސަބަތު","definition":"(ބދ.) މަރަވަޅި.","latin":"sabathu","english":""}
+{ "dhivehi":"ސަބާންނަ","definition":"(ބދ.) ލުއިފަސޭހަ.","latin":"sabaanna","english":""}
+{ "dhivehi":"ސަބިންތަރި","definition":"(ބދ.) ހިތްތާ ހިތްތުން.","latin":"sabinthari","english":""}
+{ "dhivehi":"ސަބީލަ","definition":"އެންމެން ބޭނުންކުރުން ހުއްދަ.","latin":"sabeela","english":""}
+{ "dhivehi":"ސަބީލަރުއް","definition":"ވެރިޔަކު ނެތްރުއް.އަޅާނެމީހަކު  އަޅަން ހުންނަރުއް.","latin":"sabeelaru","english":""}
+{ "dhivehi":"ސަބީލަކުރުން","definition":"އެންމެން ބޭނުންކުރުމަށް ދޫކޮށްލުން.","latin":"sabeelakurun","english":""}
+{ "dhivehi":"ސަބީލަވުން","definition":"އެންމެނަށް ހުއްދަވުން.ވަކި  ފަރާތަކަށް، ނުވަތަ ފަރާތްތަކަކަށް ޚާއްސަވެފައި  ނުވުން.","latin":"sabeelavun","english":""}
+{ "dhivehi":"ސަބީލަގަސް","definition":"އެންމެން ބޭނުންކުރަން ހުއްދަކޮށްފައި ހުންނަ  ގަސްގަސް.","latin":"sabeelagas","english":""}
+{ "dhivehi":"ސަބު","definition":"ހުރިހާ.(ބދ.) ހޯނު.","latin":"sabu","english":""}
+{ "dhivehi":"ސަބުރު","definition":"ކެތް.","latin":"saburu","english":""}
+{ "dhivehi":"ސަބުރުކުރުން","definition":"ކެތްކުރުން.","latin":"saburukurun","english":""}
+{ "dhivehi":"ސަބުރުވެރިކަން","definition":"ކެތްތެރިކަން.","latin":"saburuverikan","english":""}
+{ "dhivehi":"ސަބުރުވެރިވުން","definition":"ކެތްތެރިވުން.","latin":"saburuverivun","english":""}
+{ "dhivehi":"ސަބުއެކަށް","definition":"ހުރިހާ އެއްޗެއް އެކުގައި.","latin":"sabuekah","english":""}
+{ "dhivehi":"ސަބުމެރިން","definition":"ކަނޑުއަޑިން ދުއްވާބޯޓު. މިއީ އަސްކަރީގޮތުން  ބޭނުންކުރާ އުޅަނދެކެވެ.","latin":"sabumerin","english":""}
+{ "dhivehi":"ސަބުދަރިޔާ","definition":"ސަބުދެރިޔާ.","latin":"sabudhariyaa","english":""}
+{ "dhivehi":"ސަބުދެރިޔާ","definition":"(ގ.ސ.) ނާލުބައްތެއްޔާއި ބައްތެލި ދޯނީގައި  ދިރުނބާކޮޅު ފެންފިލާމަތިން ދައްސޫރަ އޮންނަގޮތަށް  ލަކުޑިން އަޅައިފައި އޮންނަ އެއްޗެއް.","latin":"sabudheriyaa","english":""}
+{ "dhivehi":"ސަބުދެލި","definition":"ގަހެއްގައި އަޅާ ފޮނިމޭވާއެއް. މި ދޮންވީމާ  ފުށްގޮތެއް ހުރެއެވެ. މީގެ ބޭރުތޮށި ހުންނަނީ ވިލާތު  އަލުވީގެ ތޮށީގައި ހުންނަ ކުލަޔާ ގާތް ކުލައެއްގައެވެ.","latin":"sabudheli","english":"sapodilla plum"}
+{ "dhivehi":"ސަބުޖު","definition":"ބަކަރި ކިރުގެ ތެރެއަށް އަފިހުން އަޅައިގެން  ކައްކާ ބުއިމެއް. މިއީ ޢަމަލުވާ އެއްޗެކެވެ.","latin":"sabuju","english":""}
+{ "dhivehi":"ސަޅި","definition":"ކަނޑާ ފޮނި.އ. ބޮޑާ.","latin":"salhi","english":""}
+{ "dhivehi":"ސަޅިބައިސާ","definition":"ފޮނިކެނޑުމުގެ ގޮތުން ދައްކާ ވާހަކަ.","latin":"salhibaisaa","english":""}
+{ "dhivehi":"ސަޅިކެނޑުން","definition":"ފޮނިކެނޑުން.އަޗާތެޅުން.","latin":"salhikendun","english":""}
+{ "dhivehi":"ސަޅިމާރަވުން","definition":"(ސ.) ސަޅިކެނޑުން.","latin":"salhimaaravun","english":""}
+{ "dhivehi":"ސަކަ","definition":"ސަމާސާ.","latin":"saka","english":""}
+{ "dhivehi":"ސަކަރާތް","definition":"ސަކަ.ނ. ތޮޅޭތޮޅުން.","latin":"sakaraaiy","english":""}
+{ "dhivehi":"ސަކަރާތްގަތުން","definition":"ތޮޅެ ސަމާސާކުރުން.މަޖާޒު:  ޖިންސީ އެދުންވެރިކަމާއެކު ގައިގޯޅިވެ އުޅުން.","latin":"sakaraaiygathun","english":""}
+{ "dhivehi":"ސަކަރާތްޖެހުން","definition":"ސަކަރާތްގަތުން.","latin":"sakaraaiyjehun","english":""}
+{ "dhivehi":"ސަކަބަޑި","definition":"މާބޮޑަށް ސަކަޖަހާ ކުދިންނަށް، ނުވަތަ  މީހުންނަށް ކިޔާނަމެއް.","latin":"sakabadi","english":""}
+{ "dhivehi":"ސަކަޖެހުން","definition":"ސަމާސާ ވާހަކަ ދައްކައި ހީނހެދުން.","latin":"sakajehun","english":""}
+{ "dhivehi":"ސަކިރާމާކަށި","definition":"(ސ.) ޅިނދު ކަށިގަނޑު.","latin":"sakiraamaakashi","english":""}
+{ "dhivehi":"ސަކުމަކު","definition":"މަކުޑި.ތަންޑު.","latin":"sakumaku","english":""}
+{ "dhivehi":"ސައަސްތުރަ","definition":"(ބދ.) ހަކި.","latin":"saasthura","english":""}
+{ "dhivehi":"ސައި","definition":"ސައިފަތް އަޅައިގެން ތައްޔާރުކުރާ ބުއިމެއް.","latin":"tea","english":"tea"}
+{ "dhivehi":"ސައިހެދުން","definition":"ސައިތައްޔާރު ކުރުން.","latin":"saihedhun","english":""}
+{ "dhivehi":"ސައިނަސް","definition":"ބޮލާއި މޫނުގެ ކަށިތަކުގެ ތެރޭގައި  ހެދިފައިވާ ހޮއި. މިބައި ގުޅިފައިވަނީ ނޭފަތާއެވެ.ބޮލާއި މޫނުގެ ކަށިތަކުގެ ތެރޭގައި ހެދިފައިވާ  ހޮޔަށް ބޮލުގައި ފިނިހިފުމުގެ ސަބަބުން ޖެހޭ ބައްޔެއް.","latin":"sainas","english":""}
+{ "dhivehi":"ސައިނެތްފޯލި","definition":"ބަށިކުޅޭއިރު ލަނޑު ހަމަކުރުމުގައި ނުގުނޭގޮތަށް  ޖެހޭފޯލި.","latin":"saineiyfoali","english":""}
+{ "dhivehi":"ސައިންސު","definition":"އެއްޗިއްސާއި ކަންކަމުގެ ޙަޤީޤަތް ހޯދުމުގެ ޢިލްމު.","latin":"sainsu","english":""}
+{ "dhivehi":"ސައިންސުވެރިން","definition":"އެއްޗިއްސާއި ކަންކަމުގެ ޙަޤީޤަތް ހޯދުމުގެ  ޢިލްމުވެރިން.","latin":"sainsuverin","english":""}
+{ "dhivehi":"ސައިބޯނި","definition":"ދޮވެސާފުކުރުމަށް ގެންގުޅޭ ފޮނުއަރާ އެއްޗެއް.  މިހަދައިފައި ހުންނަނީ ތެލާއި، ޕޮޓޭޝިޔަމާއި  ސަރުބީ ފަދަ ބާވަތް ތަކުންނެވެ.","latin":"saiboani","english":"soap"}
+{ "dhivehi":"ސައިބޯނިބަޑި","definition":"ސައިބޯނިބޮކި.","latin":"saiboanibadi","english":""}
+{ "dhivehi":"ސައިބޯނިބޮކި","definition":"ސައިބޯނި ފެނުން އެތެރެޔަށް ވައިވަދެގެން  ހެދިފައި ހުންނަބޮކި.މަޖާޒު: ހަރުދަނާ ކަމެއް  ނުހުންނަ ކަންތައް.","latin":"saiboaniboki","english":""}
+{ "dhivehi":"ސައިބޯނިއޮށް","definition":"ސައިބޯނި ގަހުގެ އޮށް. މިއީ ކުންނާރު އޮށާ  އެއްބޮޑު މިނެއްގައި ކުލަކުލައިގައި ހުންނަ  އޮށްތަކެކެވެ. މިއޮށްތައް ފެން އެއްޗަކަށް އެޅުމުން  ފޮނުއަރާނެއެވެ. މިބޭނުން ކުރަނީ ގިރިޓީކުރާއިރު އެ  ގިރިޓީ ކުރާ އެއްޗެހި ސާފުކުރުމަށެވެ.","latin":"saiboanioh","english":""}
+{ "dhivehi":"ސައިބޯނިފެން","definition":"ސައިބޯނި ގިރުވައިފައި ހުންނަފެން.","latin":"saiboanifen","english":""}
+{ "dhivehi":"ސައިބޯނިފޮނު","definition":"ސައިބޯނި ފެނާއެކުވުމުން އުފެދޭ ފޮނު.","latin":"saiboanifonu","english":""}
+{ "dhivehi":"ސައިބޯނިދަޅު","definition":"ސައިބޯނިލާން ހަދައިފައި ހުންނަ ދަޅު.","latin":"saiboanidhalhu","english":""}
+{ "dhivehi":"ސައިބޯނިލުން","definition":"ސައިބޯނި އުނގުޅުން.","latin":"saiboanilun","english":"soap"}
+{ "dhivehi":"ސައިބޯޖޯޑު","definition":"ސައިބޯން ބޭނުންކުރާ އުޅައްލީ ތަށްޓެއް.  މިހުންނަނީ ވަތުތަށްޓާ އެކުގައެވެ.","latin":"saiboajoadu","english":""}
+{ "dhivehi":"ސައިކަލު","definition":"މޮޓޯސައިކަލު.","latin":"saikalu","english":""}
+{ "dhivehi":"ސައިކިޔުން","definition":"ރާޒުވާ ކުޅޭއިރު ބޮނދު ޖަހައިލެވޭ ގޮތަށް،  ކުޅިޔެއް، ގޮޅިޔަކަށް ގެންދިއުން.","latin":"saikiyun","english":""}
+{ "dhivehi":"ސައިކުރާ","definition":"ސައި ކައްކަން ބޭނުންކުރާ ކަންވާރެއް. މިއީ  ފެން އޮއްސުމަށް ވައްގަނޑެއް ލައިފައި ހުންނަ  އެއްޗެކެވެ. ހިފާނެ އުޅައްގަނޑެއްވެސް ހުރެއެވެ. މީގެ  މަތި ހުންނަނީ ނަގައިޖެހޭ ގޮތަށެވެ.","latin":"saikuraa","english":""}
+{ "dhivehi":"ސައިކޮލޮޖީ","definition":"ނަފުސުގެ ޢިލްމު.","latin":"saikolojee","english":""}
+{ "dhivehi":"ސައިވުން","definition":"ރާޒުވާ ކުޅޭއިރު ބޮނދު ޖެހޭގޮތަށް ކުޅިޔެއް  ދިމާވުން.","latin":"saivun","english":""}
+{ "dhivehi":"ސައިމާ","definition":"ފަތުގައި ތުނޑު ހުންނަ މެދުމިނަކަށް ހެދޭ  ގަހެއްގައި އަޅާ ބޮޑުމަލެއް. މީގެ އެކިވަރައްތަރު  ހުރެއެވެ. މިސާލު: (ހ) ކަރުލީ ސައިމާ. (ށ)  ބޮނޑި ސައިމާ.","latin":"saimaa","english":"hibiscus"}
+{ "dhivehi":"ސައިމުޑާ","definition":"ބެރުފިޔަފާޅިއަށް ސައިއަޅައިގެން ގެންދާ އެއްޗެއް.","latin":"saimudaa","english":""}
+{ "dhivehi":"ސައިފަތުފެން","definition":"ސައިފަތުގެ ކުލައާއި ރަހަ ހުންނަ ފެން.","latin":"saifathufen","english":""}
+{ "dhivehi":"ސައިފަތެ","definition":"(ގ.) ސައިފަތް.","latin":"saifathe","english":""}
+{ "dhivehi":"ސައިފަތް","definition":"ސައިފަތް ގަހުގެ ފަތް. މިއީ ތިރިކޮށް ހެދޭ  ގަހެއްގެ ފަތެވެ. މިފަތް ހޫނުފެނަށް އެޅުމުން ފެނުގައި  ކުލަހިފައެވެ. މީގެ ދެކުލައެއް ހުރެއެވެ. އެއީ  ރަތްކުލައާއި ފެހިކުލައެވެ. މިއީ ހޫނުފެނަށް އަޅައި،  ކުލައާއި ރަހަނެރެ ބޯންބޭނުންކުރާ އެއްޗެކެވެ.  މިގޮތަށް ތައްޔާރު ކޮށްފައި ހުންނަ އެއްޗިއްސަށް  ކިޔަނީ ސައެވެ.","latin":"tea leaves [camellia thea]","english":"tea leaves [camellia thea]"}
+{ "dhivehi":"ސައިފަތްގަސް","definition":"އެގަހެއްގެ ފަތް ހޫނުފެނަށް އަޅައިގެން  ބޯންބޭނުންކުރާ ގަހެއް. މިގަހުގެ ފަތަށް ކިޔަނީ  ސައިފަތެވެ. މީގެ ދެވައްތަރެއް ހުރެއެވެ. އެއް  ވައްތަރެއް ހޫނު ފެނަށް އެޅީމާ ހުންނަނީ  ރަތްކުލައެވެ. އަނެއް ވައްތަރެއް ހޫނުފެނަށްއެޅީމާ  ހުންނަނީ ފެހިކުލައެވެ. ދުނިޔޭގައި އެންމެ ޢާންމުކޮށް  ބޭނުންކުރެވެނީ ރަތްކުލައެވެ.","latin":"saifaiygas","english":""}
+{ "dhivehi":"ސައިތާނު","definition":"ނުބައިކަން ހައްދު ފަހަނަޅައިފައި ތިބޭ  މީހުންނަށް ނުވަތަ ކުދިންނަށް ނިސްބަތް ކުރާ  ނަމެއް.ޖިންނީންގެ ތެރޭގައި ހިމެނޭ ނުބައި  އެއްޗެހި.އިބިލީސް.","latin":"saithaanu","english":""}
+{ "dhivehi":"ސައިތާނުހިފުން","definition":"މީހާގައި ނުބައި ނުލަފާގޮތް އަށަގަތުން.","latin":"saithaanuhifun","english":""}
+{ "dhivehi":"ސައިލު","definition":"އޮހިގެން އަންނަ ފެންގަނޑު.ދެމިގެން  އަންނަ ފެންގަނޑު.","latin":"sailu","english":""}
+{ "dhivehi":"ސައިލުހެދުން","definition":"ސައިލު އުފެދުން.","latin":"sailuhedhun","english":""}
+{ "dhivehi":"ސައިލެންސަރު","definition":"އިންޖީނުގެ ދުންބޭރު ކުރާއެތި. މި އެއްޗަކީ  އިންޖީނުގެ އަޑުމަޑު ކުރުމަށްވެސް ބޭނުންކުރާ  އެއްޗެކެވެ.ބައެއްކަހަލަ ހަތިޔާރުގެ އަޑުމަޑު  ކުރުމަށް ބޭނުންކުރާ އެއްޗެއް.","latin":"sailensaru","english":""}
+{ "dhivehi":"ސައިގިރުން","definition":"ސައިހެދުން.","latin":"saigirun","english":""}
+{ "dhivehi":"ސައިސަމުސާ","definition":"ފަސްމިލިލިޓަރު އެޅޭ ވަރުގެ ނުވަތަ  މޭޒުމަތީ ސަމުސަލެއްގެ ތިންބައިކުޅަ އެއްބައި އެޅޭ  ވަރުގެ ސަމުސާ.ސައި ގިރަން ގެންގުޅޭ  ސަމުސާ.","latin":"saisamusaa","english":""}
+{ "dhivehi":"ސައިޒު","definition":"މިން.","latin":"saizu","english":"size"}
+{ "dhivehi":"ސައިޕޯޓު","definition":"ކުރުއަލަމާރި ބުރިއެއް. މީގެ މަތީގައި  ތައްޓާއި ޖޯޑުފަދަ އެއްޗެހި ބަހައްޓައިގެން މޭޒެއްގެ  ގޮތުގައި ބޭނުންކުރެވެއެވެ.ކަފޭރާ.","latin":"saipoatu","english":""}
+{ "dhivehi":"ސައުރަހައްޓި","definition":"ހަދިހަ ހަތަރެއް.ތޭ ހައްޓިއާއި  ފަންސަހައްޓިއާ ދެމެދުގެ ޢަދަދު.ފަސްދޮޅަސް  ހަތަރެއް.","latin":"saurahahti","english":""}
+{ "dhivehi":"ސައުރަހަތްތަރި","definition":"ހަތްދިހަ ހަތަރެއް.ތޭ  ހަތްތަރިއާ ފަންސަ ހަތްތަރިއާ ދެމެދުގެ ޢަދަދު.","latin":"saurahaiythari","english":""}
+{ "dhivehi":"ސައުރަވަންނަ","definition":"ފަސްދިހަ ހަތަރެއް.ތޭވަންނައާއި ފަންސަވަންނައާ ދެމެދުގެ ޢަދަދު.ފަންސާސް ހަތަރެއް.","latin":"sauravanna","english":""}
+{ "dhivehi":"ސައުރަތިރީސް","definition":"ތިންދިހަ ހަތަރެއްތެއްތިރީހާ ފަންސަ ތިރީހާ ދެމެދުގެ ޢަދަދު.ތިރީސް ހަތަރެއް.","latin":"saurathirees","english":""}
+{ "dhivehi":"ސައުރަޔާހި","definition":"އަށްދިހަ ހަތަރެއް.ތެޔާހި  އާއި ފަންސަޔާހި އާ ދެމެދުގެ ޢަދަދު.","latin":"saurayaahi","english":""}
+{ "dhivehi":"ސައުރަޔާނަވައި","definition":"ނުވަދިހަ ހަތަރެއް.ތެޔާނަވައި އާއި ފަންސަޔާނަވައި އާ ދެމެދުގެ  ޢަދަދު.","latin":"saurayaanavai","english":""}
+{ "dhivehi":"ސައުރަޔާޅީސް","definition":"ހަތަރުދިހަ ހަތަރެއް.ތެޔާޅީހާއި ފަންސަޔާވީހާ ދެމެދުގެ ޢަދަދު.ސާޅީސް ހަތަރެއް.","latin":"saurayaalhees","english":""}
+{ "dhivehi":"ސައުވީސް","definition":"ދެދިހަ ހަތަރެއް.ބާރައިގެ ދެގުނަ.","latin":"sauvees","english":""}
+{ "dhivehi":"ސައުފު","definition":"(ސ.) ސާފު.","latin":"saufu","english":""}
+{ "dhivehi":"ސައުފުކަން","definition":"(ސ.) ސާފުކަން.","latin":"saufukan","english":""}
+{ "dhivehi":"ސައުފުވުން","definition":"(ސ.) ސާފުވުން.","latin":"saufuvun","english":""}
+{ "dhivehi":"ސައުފުމަށިތެޔޮ","definition":"(ސ.) ކަރާސީނު ތެޔޮ.","latin":"saufumashitheyo","english":""}
+{ "dhivehi":"ސައުދަ","definition":"އެއްދިހަ ހަތަރެއް.ގުނުމުގައި  ތޭރަވަނަ ޢަދަދާއި، ފަނަރަވަނަ ޢަދަދާއި ދެމެދުގެ  ޢަދަދު.ސާދަ.","latin":"saudha","english":""}
+{ "dhivehi":"ސައުދަބޮވަނަ","definition":"(ބދ.)ހަތްބިން.ހަތްފައިތަޅާ.","latin":"saudhabovana","english":""}
+{ "dhivehi":"ސައުދާ","definition":"(ސ.) ވިޔަފާރި.","latin":"saudhaa","english":""}
+{ "dhivehi":"ސައުދާދަތެރެ","definition":"(ސ.) ވިޔަފާރި ދަތުރު.","latin":"saudhaadhathere","english":""}
+{ "dhivehi":"ސައުދާގަރު","definition":"ވިޔަފާރިވެރިޔާ.","latin":"saudhaagaru","english":""}
+{ "dhivehi":"ސައުދާގަރުވިޔަ","definition":"ތިންމައިގަނޑުވިޔަ.","latin":"saudhaagaruviya","english":""}
+{ "dhivehi":"ސައްބީސް","definition":"ދެދިހަހައެއް.ގުނުމުގައި  ފަންސަވީހާ ހަތާވީހާ ދެމެދު އޮންނަ ޢަދަދު.","latin":"sahbees","english":""}
+{ "dhivehi":"ސައްބު","definition":"ހުދުކުލައިގެ މަޢުދަނީ ލޮނެއް. މިއީ ބޭހަށް  ބޭނުންކުރާ އެއްޗެކެވެ. މީގައި ދޫތޮރުފާގޮތެއް  ހުރެއެވެ. މި ހުންނަނީ ގަނޑުގަނޑަށް ހަރުކޮށެވެ.މަޖާޒު: ތުނބުޅި މަތިމަސް ނުފަޅާ ފިރިހެނާ.","latin":"sahbu","english":""}
+{ "dhivehi":"ސައްބުލަނގިރި","definition":"ފާޑުފާޑުގެ ހެއްވާ ހެދުންތަކެއް އަޅައިގެން، ބެރުގެ  ބަދަލުގައި ޓައްޕު ޖަހަމުން ލޮއްބޭގެ ލަވަކިޔަމުން  ލަކުޑިން ލިޔެފައި އޮންނަ ކުރަޔަކުން އެސްފީނާޔަށް  ފެންއަޅާގޮތަށް ދައްކަމުން ކުޅުނު ހެއްވާ ކުޅިވަރެއް.  މި ކުޅިވަރު ކުޅުނީ ގަލޮޅުގެ ބަޔެކެވެ.","latin":"sahbulangiri","english":""}
+{ "dhivehi":"ސައްކަ","definition":"(މަލިކު.) ސައްކެޔޮ.","latin":"sahka","english":""}
+{ "dhivehi":"ސައްކަރަންޏާ ދޮރޯށި","definition":"ގުޅަކުޅޭ ފަސްގަނޑުން އުތުރަށް ދާން ނުކުންނަ  ދޮރޯށި. މިދޮރޯށި ހުރީ ސިފައިންގެ ގޭގެ ހުޅަނގުން  އިބްރާހީމީ މަގުގެ ދެކުނު ކޮޅުގައެވެ.","latin":"sahkarangnaa dhoroashi","english":""}
+{ "dhivehi":"ސައްކިރިއަޑާ","definition":"(ގ.) ފަތްކޭލުގެ ކެޔޮގަނޑުގެ ބޯއްޓާއި އެންމެ  ކައިރިއަށް ހުންނަ އެންމެ ވައް ކުދިއަރި.","latin":"sahkiriadaa","english":""}
+{ "dhivehi":"ސައްކެޔޮ","definition":"ދޮންވުމުގެ ކުރިން ތަރުކާރީ އެއްގެގޮތުން،  ދޮންވީމާ މޭވާއެއްގެ ގޮތުން ބޭނުންކުރާ އެއްޗެއް.  މިހުންނަނީ ބަނބުކޭލާ ވައްތަރު ގޮތަކަށް އެއަށްވަރެ  މާބޮޑެތި ކޮށެވެ. މިއީ ގަހުގެ ދަނޑިގަނޑުންނާއި  މުލުންވެސް ނުކުންނަ އެއްޗެކެވެ.","latin":"sahkeyo","english":""}
+{ "dhivehi":"ސައްކެޔޮބޮލި","definition":"ސައްކެޔޮ އޮށުގެ ސިފައިގައި ދިގުކޮށް ހުންނަ  ބޮއްޔެއް. މީގެ އެކިކުލައިގެ ފަސްވައްތަރު ބޮލި  ހުރެއެވެ.","latin":"sahkeyoboli","english":""}
+{ "dhivehi":"ސައްކެޔޮވަކަރު","definition":"(ސ.) ސައްކެޔޮ ގަހުގެ އާރު.","latin":"sahkeyovakaru","english":""}
+{ "dhivehi":"ސައްކޭލު","definition":"(ގ.) ސައްކެޔޮ.","latin":"sahkeylu","english":""}
+{ "dhivehi":"ސައްކޭލް","definition":"(ޏ.) ސައްކެޔޮ.","latin":"sahkeyl","english":""}
+{ "dhivehi":"ސައްދަރު","definition":"(މަލިކު) ތަންމަތި ފަތުރާ އިރު ދަށުގައި އޮންނަ  ފޮތިގަނޑު.","latin":"sahdharu","english":""}
+{ "dhivehi":"ސައްދާދުވާހަކަ","definition":"މަޖާޒު: ބޭކާރު ދިގުވާހަކަ.","latin":"sahdhaadhuvaahaka","english":""}
+{ "dhivehi":"ސައްތަ","definition":"ސަތޭކަ.","latin":"sattha","english":"century"}
+{ "dhivehi":"ސައްލަން","definition":"(ޅ.) ފުނޑި ސަޓަނި.","latin":"sahlan","english":""}
+{ "dhivehi":"ސައްލާ","definition":"މަޝްވަރާ.","latin":"sallaa","english":"discussion"}
+{ "dhivehi":"ސައްލާކުރުން","definition":"ކަމަކާމެދު ބައަކު އެއްތަނެއްގައި ތިބެ ވާހަކަ  ދެއްކުން.މަޝްވަރާ ކުރުން.","latin":"sahlaakurun","english":""}
+{ "dhivehi":"ސައްލާވުން","definition":"ކަމަކާމެދު ވާހަކަ ދައްކައި ގޮތެއް ފެނޭތޯ  ބެލުން.މަޝްވަރާކުރުން.","latin":"sahlaavun","english":""}
+{ "dhivehi":"ސަފޭދު","definition":"ހުދު ދަވާދު.","latin":"safeydhu","english":""}
+{ "dhivehi":"ސަދަނޭކަ","definition":"(ބދ.) ބަރަކާތް.","latin":"sadhaneyka","english":""}
+{ "dhivehi":"ސަދަބު","definition":"ގުޑުގުޑާގެ އަބުނައިގެ ކޮޅުގައި ތިމަރައިން ލިޔެ  ފައި ޖަހައިފައި ހުންނަ އެއްޗެއް.","latin":"sadhabu","english":""}
+{ "dhivehi":"ސަދަމޭގަ","definition":"(ބދ.) ހަނދުގެ ދޯދި.","latin":"sadhameyga","english":""}
+{ "dhivehi":"ސަތަށި","definition":"(މަލިކު) ބޮލަށްނަގާ ކުޑަ.","latin":"sathashi","english":""}
+{ "dhivehi":"ސަތަން","definition":"ސަތޭކަވަޅު. މިސާލު: އޭކަން، ދަހަން، ސަތަން.","latin":"sathan","english":""}
+{ "dhivehi":"ސަތަރަންޖީ","definition":"މަޢުލޫދު ކިޔާއިރު މޭޒުމަތީގައި އަޅަން ގެންގުޅޭ  ފޮތިގަނޑެއް.","latin":"satharanjee","english":""}
+{ "dhivehi":"ސަތަރި","definition":"އެއްޗެހި ނުވަތަ ތަންތަން ހިޔާކުރުމަށް  ބޭނުންކުރާ ފޮތިގަނޑެއް. މިއީ ފެން ނުފާއްދާގޮތަށް  ހަދައިފައި ހުންނަ އެއްޗެކެވެ.(މަލިކު) ބޮލަށް  ނަގާކުޑަ.","latin":"sathari","english":""}
+{ "dhivehi":"ސަތަރު","definition":"ރާރާގުޑީގައި ވަކިގޮތަކަށް ހުންނަ ޚާއްޞަ  ކުރެހުމެއް އެޅީމާ ކިޔާނަން.","latin":"satharu","english":""}
+{ "dhivehi":"ސަތާހި","definition":"އަށްދިހަ ހަތެއް.ސަޔާހި އާއި  އަށާހިއާ ދެމެދު އޮންނަ ޢަދަދު.","latin":"sathaahi","english":""}
+{ "dhivehi":"ސަތާނަވައި","definition":"ނުވަދިހަ ހަތެއް.ސަތޭކަ އަކުން  ތިނެއް އުނިކުރީމާ އޮންނަ ޢަދަދު.ސަޔާނަވާއާ އަށާނަވާއާއި ދެމެދުގެ ޢަދަދު.","latin":"sathaanavai","english":""}
+{ "dhivehi":"ސަތާރަ","definition":"އެއްދިހަ ހަތެއް.ސޯޅައާއި  އަށާރައާ ދެމެދުގެ ޢަދަދު.","latin":"sathaara","english":"seventeen"}
+{ "dhivehi":"ސަތާޅީސް","definition":"ހަތަރުދިހަ ހަތެއް.ސާޅީސް ހަތެއް.ސަޔާޅީހާ އަށާޅީހާ ދެމެދުގެ ޢަދަދު.","latin":"sathaalhees","english":""}
+{ "dhivehi":"ސަތާވަރީ","definition":"ވަރަށް ހިމަހިމަ ފަތްތަކެއް ހުންނަ ކުދިކުދި  ހުދުކުލައިގެ މަލެއް އަޅާވެލެއް.","latin":"sathaavaru","english":"asparagus"}
+{ "dhivehi":"ސަތާވަރީމާ","definition":"ސަތާވަރީ ވެލުގައި އަޅާ މާ.","latin":"sathaavareemaa","english":"cardinal climber"}
+{ "dhivehi":"ސަތިންތަރި","definition":"(ބދ.) ހިއްތަން.","latin":"sathinthari","english":""}
+{ "dhivehi":"ސަތިރީސް","definition":"ތިންދިހަހައެއް.ބާރައިގެ ތިންގުނަ.ތިރީސް ހަޔެއް.","latin":"sathirees","english":""}
+{ "dhivehi":"ސަތުހައްޓި","definition":"ހަދިހަ ހަތެއް.ފަސްދޮޅަސް ހަތެއް.","latin":"sathuhahti","english":""}
+{ "dhivehi":"ސަތުހަތްތަރި","definition":"ހަތްދިހަ ހަތެއް.ހަތެއްގެ އެގާރަ ގުނަ.ސަހަތްތަރިއާއި އަށުހަތްތަރިއާ ދެމެދުގެ ޢަދަދު.","latin":"sathuhaiythari","english":""}
+{ "dhivehi":"ސަތުވަންނަ","definition":"ފަސްދިހަ ހަތެއް.ފަންސާސް  ހަޔަކާއި ފަންސާސް އަށަކާ ދެމެދު އޮންނަ ހިސާބުގެ  ޢަދަދު.","latin":"sathuvanna","english":""}
+{ "dhivehi":"ސަތުތިރީސް","definition":"ތިންދިހަ ހަތެއް.ތިރީސް ހަތެއް.ސަތިރީހާ އަށުތިރީހާ ދެމެދުގެ ޢަދަދު.","latin":"sathuthirees","english":""}
+{ "dhivehi":"ސަތެ","definition":"(ބދ.) މެދު.","latin":"sathe","english":""}
+{ "dhivehi":"ސަތޭކަ","definition":"ނުވަދިހަ ނުވަޔަކަށް އެކެއް އެއްކުރީމާ  ނުކުންނަ ޢަދަދު.ދިހައެއްގެ ދިހަގުނަ.","latin":"satheyka","english":"hundred"}
+{ "dhivehi":"ސަލަމްވިޔަފާރި","definition":"ކުރިން ފައިސާ ދައްކައިފައި ފަހުން މުދާ  ލިބޭގޮތަށް ކުރާ ވިޔަފާރި.","latin":"salamviyafaari","english":""}
+{ "dhivehi":"ސަލާން","definition":"ސަލާމް.","latin":"salaan","english":""}
+{ "dhivehi":"ސަލާންބަލައިގަތުން","definition":"މީހަކު އައްސަލާމް ޢަލައިކުމް، މިހެން ބުނުމުން  އެއަށް ޖަވާބުދިނުން.","latin":"salaanbalaigathun","english":""}
+{ "dhivehi":"ސަލާންބުނުން","definition":"ސަލާން ފޮނުވުން.ދާންޖެހޭ  ތަނަކަން އުޒުރެއް މެދުވެރިކޮށް ދެވެން ނެތްކަން  އެނގުން.","latin":"salaanbunun","english":""}
+{ "dhivehi":"ސަލާންކުރުން","definition":"އަތްޖޯޑުކުރުން.","latin":"salaankurun","english":""}
+{ "dhivehi":"ސަލާންދިނުން","definition":"ނަމާދުކޮށް އަވަދިވެގެން ކަނާތް ފަރާތަށާއި،  ވާތްފަރާތަށް މޫނު އަނބުރައި އައްސަލާމް އަލައިކުން  މިހެން ކިޔުން.","latin":"salaandhinun","english":""}
+{ "dhivehi":"ސަލާންގަލާންކުރުން","definition":"ސަލާންކޮށް ޚަބަރު ދަބަރު އޮޅުން ފިލުވުން.","latin":"salaangalaankurun","english":""}
+{ "dhivehi":"ސަލާންޖެހުން","definition":"މީހެއްގެ ގާތަށްގޮސް އެއްޗަކަށް އެދި  ސަލާން ގޮވުން.މަޖާޒު: އާދޭސް ކުރުން.","latin":"salaanjehun","english":"beg"}
+{ "dhivehi":"ސަލާކުދަނޑި","definition":"(ޅ.) މަތިދަނޑި މަތީގައި ބާއްވައިފައި އޮންނަ  ދަނޑި.","latin":"salaakudhandi","english":""}
+{ "dhivehi":"ސަލާމަތި","definition":"ނާ ފަހަރާއި އޮޑިފަހަރުގެ ނަގިލީގައި ޖަހާ  ކެނބުގެ ބާވަތެއް.ބައެއް ރަސްމީ ކަންކަމުގައި،  ޢިއްޒަތް ދިނުމުގެ ގޮތުން ބަޑިބެރު ފަށާއިރު  ޖަހާލަވައެއް.","latin":"salaamathi","english":"anchor rope"}
+{ "dhivehi":"ސަލާމަތިޖެހުން","definition":"ބައެއް ރަސްމީ ކަންތަކުގައި ބަޑިބެރު ފަށަން ޖަހާ  ބެރެއް ޖެހުން. މިސާލު: (ހ) މަޖުލިސުއްތަޝްރީފާތު  ފެށޭނީ ތިންބަޑި ޖެހުމާއެކު ބަޑިބެރުން ސަލާމަތި  ފެށީމައެވެ. (ށ) ގަނޑުވަރު ތެރޭގެ ބޭފުޅަކު އަންހެން  ބޭފުޅަކައިގެން ރައްކާވެއްޖެނަމަ ބަޑިބެރު ފަށާނީ  ސަލާމަތިންނެވެ.","latin":"salaamathijehun","english":""}
+{ "dhivehi":"ސަލާމަތީ","definition":"ރައްކާތެރިކަމުގެ.","latin":"salaamathee","english":""}
+{ "dhivehi":"ސަލާމަތުންހުރުން","definition":"ހެއުޙާލުގައި ހުރުން.ގަދަވެ ހުރުން.ކުށެއްގައި ނުބެދި ހުރުން.","latin":"salaamathunhurun","english":""}
+{ "dhivehi":"ސަލާމަތް","definition":"ރައްކާތެރިކަން.އަމާންކަން.","latin":"salaamaiy","english":""}
+{ "dhivehi":"ސަލާމަތްހޯދުން","definition":"ރައްކާތެރިކަން ހޯދުން.ނުރައްކަލުން  ދިނިގަތުމަށް އެހީހޯދުން.","latin":"salaamaiyhoadhun","english":""}
+{ "dhivehi":"ސަލާމަތްބުއްދި","definition":"ހަމަވިސްނުން.","latin":"salaamaiybudhi","english":""}
+{ "dhivehi":"ސަލާމަތްކަން","definition":"ރައްކާތެރިކަން.","latin":"salaamaiykan","english":""}
+{ "dhivehi":"ސަލާމަތްކުރުން","definition":"މިންޖުކުރުން.ރައްކާތެރިކުރުން.ދިފާޢުކުރުން.","latin":"salaamaiykurun","english":"rescue"}
+{ "dhivehi":"ސަލާމަތްވުން","definition":"ރައްކާތެރިވުން.މިންޖުވުން.ދިފާޢުވުން.","latin":"salaamaiyvun","english":""}
+{ "dhivehi":"ސަލާމަތްވެގަތުން","definition":"ރައްކާތެރިވެގަތުން.ނުރައްކަލަކުން  ދިނިގަތުން.މަޖާޒު: ކަމެއް ބޮލުން  ނައްޓައިލުން.","latin":"salaamaiyvegathun","english":""}
+{ "dhivehi":"ސަލާމަތްދާރަ","definition":"ތޫނުކަން ކަނޑުވައިފައި ހުންނަދާރަ.","latin":"salaamaiydhaara","english":""}
+{ "dhivehi":"ސަލާމާހިނގުން","definition":"ސަލާންޖެހުން.","latin":"salaamaahingun","english":""}
+{ "dhivehi":"ސަލާމުގައި ހުރުން","definition":"ވަޒީފާއަށް ނުނިކުމެ ބަލިވެ ގޭގައި ހުރުން.","latin":"salaamugai hurun","english":""}
+{ "dhivehi":"ސަލީބަށްއެރުވުން","definition":"މި ސިފަޔަށް ހަދައިފައި ހުންނަ ކާލިނގަކަށް  މީހަކު އަރުވައި މޮހޮރުޖަހައި ހައްޔަރުކޮށް މަރައިލުން.","latin":"saleebaheruvun","english":""}
+{ "dhivehi":"ސަލީފާ","definition":"އުވަދޯނި.","latin":"saleefaa","english":""}
+{ "dhivehi":"ސަލޯކަ","definition":"(ބދ.) ނަމާދު.","latin":"saloaka","english":""}
+{ "dhivehi":"ސަލްވާ","definition":"ކޮތަރަށްވުރެ ބޮޑު، ކުކުޅަށްވުރެ ކުޑަ ދޫންޏެއް.  މިއީ ބަނީ އިސްރާއީލު ބާގައިގެ މީހުން ސީނާގައި  ތިބި ދުވަސްވަރު އެމީހުނަށް ﷲ ތަޢާލާ ދެއްވި  ޚާއްޞަ ކާނާއެކެވެ. މި ކާނާގައި ހިމެނެނީ މަންނަ  ކިޔާ ފޮނިރަހަލާ އެއްޗަކާއި ސަލްވާއެވެ.","latin":"salvaa","english":""}
+{ "dhivehi":"ސަލްފަރު","definition":"ރީނދޫކުލައިގައި ހުންނަ ފުށެއް.  ކެމިކަލްގޮތުން މި އެންމެ އެއްގޮތީ އޮކްސިޖަނާއެވެ.  ބަޑިބޭހާއި އަލިފާން ދަނޑިއާއި ކަރުދާސް ހަދާ  ފެކްޓަރީތަކުގައި މި ބޭނުންކުރެއެވެ.ކައްސަނދުވާނި.","latin":"salfaru","english":""}
+{ "dhivehi":"ސަގަންގޫރު","definition":"ސަހަރާގެ ތެރޭގައި އުޅޭ ސުއިތްޕެއް. މިއީ  ރަކިސް ބޮނޑަށްވުރެ ކުދިކޮށް، އެވައްތަރަކަށް  ހުންނަ އެއްޗެކެވެ. މިއީ ބާހުގަދަ ކުރުމަށް  ބޭނުންކުރާ އެއްޗެކެވެ.","latin":"sagangooru","english":""}
+{ "dhivehi":"ސަގެއްތަރި","definition":"(ބދ.) ހިތްތާ ހިތްވުން.","latin":"sagethari","english":""}
+{ "dhivehi":"ސަޑި","definition":"(ބ.)ކަޑި.ނުތާހިރު.","latin":"sadi","english":""}
+{ "dhivehi":"ސަޑިފަޑި","definition":"ހަޑި މުޑުދާރު.ނުތާހިރު.","latin":"sadifadi","english":""}
+{ "dhivehi":"ސަޑު","definition":"ފުނާއަޅާއިރު ކުރިމައްޗަށް ވާގޮތަށް  އިސްތަށިގަނޑުން ލައްވައިފައި ހުންނަ ބަނޑި.ހަވާ، ސީދަލަށް ހިފެހެއްޓުމަށްޓަކައި އޭގައި ހަރުކުރާ  ހުންގާނެއް ކަހަލަ އެއްޗެއް. ރުކުފަތިންނާއި  އިލޮށިންވެސް މި ހަދައިފައި ހުރެއެވެ.","latin":"sadu","english":""}
+{ "dhivehi":"ސަޑުބަނުން","definition":"ހަވާގައި ސަޑު ހަރުކުރުން.","latin":"sadubanun","english":""}
+{ "dhivehi":"ސަޒާ","definition":"ދެވޭ ނުވަތަ ލިބޭ އަދަބު.ނުބައި  ކަމަކަށް ލިބޭ ބަދަލު.","latin":"sazaa","english":""}
+{ "dhivehi":"ސަޒާދިނުން","definition":"އަދަބު ދިނުން.","latin":"sazaadhinun","english":""}
+{ "dhivehi":"ސަޒާލިބުން","definition":"އަދަބު ލިބުން.އަނިޔާ ލިބުން.ވޭން ލިބުން.","latin":"sazaalibun","english":""}
+{ "dhivehi":"ސަޓަނި","definition":"ފިޔަޔާއި މިރުހާއި ކޮށައި އޭގެތެރެއަށް ހުތްޖަހައި  ލޮނުލައިގެން މޮޑެފައި ހުންނަ ކާ އެއްޗެއް. މިއީ  ކެއުމުގެ ތެރޭގައި ބޭނުންކުރާ އެއްޗެކެވެ. މިއަށް  ތަފާތު ބާވަތް ބާވަތުގެ އެއްޗިހި ލައިގެން ތަފާތު  ސަޓަނި ހަދައި އުޅެއެވެ.","latin":"satani","english":"salad"}
+{ "dhivehi":"ސަޓައިންބޭރު","definition":"މަޖާޒު: ޖަމާޢަތުން ބޭރު.","latin":"satainbeyru","english":""}
+{ "dhivehi":"ސަޓަޔަށްމުއްޓަށްދިއުން","definition":"މަޖާޒު: އެއްޗެހި ތަކެއް އެގޮތް މިގޮތަށް ބަހައި  ހުސްވުން.","latin":"satayahmutahdhiun","english":""}
+{ "dhivehi":"ސަޓާ","definition":"ވަތްތައް ފުޅާކޮށް ވިޔެފައި ހުންނަ ސާންތި.","latin":"sataa","english":""}
+{ "dhivehi":"ސަޓާބޯޓު","definition":"އިހުގައި ހިތި ވިލޭރެއަށް މާލޭގައި ހަދައި އުޅުނު  އުޅަނދެއް. މިހުންނާނީ މަގުގެ އެއް ފަރާތުގައި  ބޯކަރުދާހާއި ސަޓާޖަހައިގެން ވަރަށް ރީތިކޮށް  ހަދައިފައެވެ. މިއީ ރަދުން އެ އުޅަނދު ފަސްދެއްވައި  ވަޑައިގަތީމާ ރޯކޮށްލާ އެއްޗެކެވެ.","latin":"sataaboatu","english":""}
+{ "dhivehi":"ސަޓާޖެހުން","definition":"ސަޓާހަރުކުރުން.","latin":"sataajehun","english":""}
+{ "dhivehi":"ސަޔަށްރިހުން","definition":"މަޖާޒު: ބަލިވެ އިންނަމީހާ ވިހެއުމުގެ  ދުވަސްވަރު ކައިރިވެގެން އަންނައިރު ވިހެއުމުގެ  ރަނގަޅު ރިހުމަކަށް ނުވެ އޭނާގެ ބަނޑުގައިރިއްސާ  ރިއްސުން.","latin":"sayahrihun","english":""}
+{ "dhivehi":"ސަޔާހި","definition":"އަށް ދިހަ ހައެއް.ފަންސަޔާހި އާއި ސަތާހިއާ ދެމެދުގެ ޢަދަދު.އަށްޑިހަ ހައެއް.","latin":"sayaahi","english":""}
+{ "dhivehi":"ސަޔާނަވައި","definition":"ނުވަދިހަ ހައެއް.ފަންސަޔާނަވައި އާއި ސަތާނަވައިއާ ދެމެދުގެ  ޢަދަދު.","latin":"sayaanavai","english":""}
+{ "dhivehi":"ސަޔާޅީސް","definition":"ހަތަރު ދިހަ ހަޔެއް.ފަންސަޔާޅީހައި ސަތާޅީހާ ދެމެދުގެ ޢަދަދު.ސާޅީސް ހައެއް.","latin":"sayaalhees","english":""}
+{ "dhivehi":"ސަޕުލައި","definition":"ގެއަކަށް ނުވަތަ ތަނަކަށް ކަރަންޓް  ދިނުމަށް ދަމައިފައިވާ ފަލަނަރު.ބޭނުންވާ  ހުރިހާ ސާމާނު. މިސާލު: ރިސޯޓުގެ ސަޕުލައި.","latin":"sapulai","english":""}
+{ "dhivehi":"ސަޕުލައިކުރުން","definition":"ހޮޓާފަދަ ތަންތަނަށް މުދާ ދޫކުރުން.ވަކި ބާވަތެއްގެ މުދާ ޢާންމުކޮށް ދޫކުރުން.","latin":"sapulaikurun","english":""}
+{ "dhivehi":"ސަޕުލިމެންޓު","definition":"ނޫހަކާއެކު ނުވަތަ މަޖައްލާ އަކާ އެކު ނިކުންނަ  ވަކި މުނާސަބަތަކާ ގުޅޭ ޚާއްޞަ ޞަފްޙާތައް ނުވަތަ  ޚާއްޞަ ނަމްބަރު.","latin":"sapulimentu","english":""}
+{ "dhivehi":"ސަޕޯޓާ","definition":"(މަލިކު) ފޮނިދުނބުރި.","latin":"sapoataa","english":""}
+{ "dhivehi":"ސަޕޯޓު","definition":"ތާއީދު.","latin":"support","english":"support"}
+{ "dhivehi":"ސަޖިދަ","definition":"އަޅުކަމެއްގެ ގޮތުން ދެފައިގެ އިނގިލިތަކާއި  ދެކަކުލާއި، ދެއަތްތިލަ ޖައްސައިގެން އޮވެ ނިތްކުރި  ބިންމަތީ ޖައްސާ ޖެއްސުން.","latin":"sajidha","english":""}
+{ "dhivehi":"ސަޖިދަކުރުން","definition":"އަޅުކަމެއްގެ ގޮތުން ދެފައިގެ އިނގިލިތަކާއި، ދެ  ކަކުލާއި ދެއަތްތިލަ ޖައްސައިގެން އޮވެ ނިތްކުރި  ބިންމަތީ ޖެއްސުން.","latin":"sajidhakurun","english":""}
+{ "dhivehi":"ސަޖިދަވަޅު","definition":"ޤުރުއާން ކިޔަވާއިރު އެހިސާބަކަށް ކިޔެވުނީމާ  ސަޖިދަ ކުރުން ސުންނަތް ވެގެންވާ ތަންތަން.","latin":"sajidhavalhu","english":""}
+{ "dhivehi":"ސަޖިދަޖެހުން","definition":"ސަޖިދަކުރުން.މަޖާޒު: މީހަކަށް  އަޅުވެތިވުން.","latin":"sajidhajehun","english":""}
+{ "dhivehi":"ސަޤާފަތް","definition":"އިންސާނުން އެކި ބައިބަޔަށް އުޅެމުން  އަންނައިރު އެބައެއްގެ ތެރޭގައި ވިސްނުމާ ޚިޔާލާ  ވާހަކަ ދެއްކުމާ، މަސައްކަތްތެރިކަމާ ކުޅިވަރާ  މިޔުޒިކާ ނެށުމާ މި ހުރިހާ ކަމަކާ ގުޅިފައިވާ  އާދަކާދަ.އިންސާނުން ދިރއުޅޭގޮތް.","latin":"sagaafaiy","english":""}
+{ "dhivehi":"ސަޠުޙު","definition":"ފެންމަތި.ހަމަ ތަނެއްގެ ނުވަތަ  އެއްޗެއްގެ މަތި. މިސާލު: ބިމުގެ ސަޠުޙު.","latin":"sathuhu","english":""}
+{ "dhivehi":"ސާހިބާ","definition":"ވެރިޔާ.މާތްމީހާ.","latin":"saahibaa","english":""}
+{ "dhivehi":"ސާހިބު","definition":"ވެރިމީހާ.މާތްމީހާ.","latin":"saahibu","english":""}
+{ "dhivehi":"ސާނިޔާ","definition":"ދަގީގެއްގެ ފަސްދޮޅަސް ބައިކުޅަ އެއްބައި.","latin":"saaniyaa","english":""}
+{ "dhivehi":"ސާންތި","definition":"އެނދުއަށި ފަދަ ތަންތާގައި އެޅުމަށް  ކަށިކެޔޮފަތުން ނުވަތަ ބޯކެޔޮފަތުން ވިޔާ އެއްޗެއް. މި  ވިޔެފައި ހުންނަނީ ތޮށަލީގެ ދުޅަ ހުންނަގޮތަށް  އެއްވަތުމަތިން އަނެއްވަތު ދަށަށްވާ ގޮތަށެވެ.","latin":"saanthi","english":"mat"}
+{ "dhivehi":"ސާރި","definition":"ދޯނިފަހަރުގެ ކުނބާ ދިމާއަށް އަޅައިފައި  އޮންނަ ހުރަސް ފިލައެއް.ހަތަރެއް. މިސާލު:  ދުއިދުއި ސާރި.","latin":"saari","english":""}
+{ "dhivehi":"ސާރިމަތީފަލީ","definition":"ދިހަފަލި ހުންނަ ދޯނިފަހަރުގެ ދިރުނބާކޮޅުން  ތިންވަނަ ފަލި.","latin":"saarimatheefalee","english":""}
+{ "dhivehi":"ސާރިދޯޅު","definition":"ވަކިތޫނު، ކެހެރިދިގު ބޮނޑިމަސްޖަނަވާރެއް.  މިއީ މިނިކާ ޖަނަވާރެކެވެ.","latin":"saaridhoalhu","english":"bear"}
+{ "dhivehi":"ސާރުދޯރު","definition":"(މަލިކު) ސާރިދޯޅު.","latin":"saarudhoaru","english":""}
+{ "dhivehi":"ސާބަހަށް","definition":"އަގަކާއި ނުލައި.ހިލޭ.","latin":"saabahah","english":""}
+{ "dhivehi":"ސާބަސް","definition":"ހިތްވަރު ދިނުމުގެ ގޮތުން މޮޅޭ ނުވަތަ  ރަނގަޅޭ ބުނުމަށް ބޭނުންކުރާ ތާރީފުގެ ބަހެއް.މަލާމާތުގެ ގޮތުން ބޭނުންކުރާ ނުރުހުން ފާޅުކުރުމުގެ  ބަހެއް.","latin":"saabas","english":"hooray"}
+{ "dhivehi":"ސާބަސްދިނުން","definition":"ކަމެއް ރަނގަޅަށް ކުރުވުމުގެ މައްޗަށް  ހިތްވަރުދީ ހެދުން.ކަމެއް ރަނގަޅަށް ކުރުމުން  އެކަމަށް ތާރީފުކޮށް، ހިތްވަރުދިނުމުގެ ގޮތުން  ވާހަކަދެއްކުން.","latin":"saabasdhinun","english":""}
+{ "dhivehi":"ސާބިތު","definition":"ޔަޤީން.ހެއްކާއެކު ބަޔާންވެ އެނގޭ  އެނގުން.","latin":"saabithu","english":""}
+{ "dhivehi":"ސާބިތުކަން","definition":"ޔަޤީންކަން.","latin":"saabithukan","english":""}
+{ "dhivehi":"ސާބިތުކުރުން","definition":"ޔަޤީންކުރުން.ހެއްކާއެކު ބަޔާންގެ  އެނގޭނެގޮތް ހެދުން.","latin":"saabithukurun","english":"prove"}
+{ "dhivehi":"ސާބިތުވުން","definition":"ހަރުލައިހުރުން.ޝަރީޢަތަށް ނުވަތަ  ތަޙުޤީޤަށް ހެތްކާއެކު ކަމެއް ބަޔާންވުން.","latin":"saabithuvun","english":""}
+{ "dhivehi":"ސާބިތުވެހުރުން","definition":"ގޮތެއްގައި ނުވަތަ ކަމެއްގައި ނުގުޑާ ފަދަ  ގޮތެއްގައި ހުރުން.ހަރުދަނާ ކަންމަތީ ހުރުން.","latin":"saabithuvehurun","english":""}
+{ "dhivehi":"ސާބިތުދަރަނި","definition":"ޝަރީޢަތުން ލައްވައިފައިވާ ދަރަނި.","latin":"saabithudharani","english":""}
+{ "dhivehi":"ސާބިތެ","definition":"(ގ.) ސާބިތު.","latin":"saabithe","english":""}
+{ "dhivehi":"ސާބުން","definition":"(ޏ.ސ.) ސައިބޯނި.","latin":"saabun","english":""}
+{ "dhivehi":"ސާޅަނގަ","definition":"ގާފަދަ ތަކެތި ދުރަށް އުކަންގެންގުޅޭ އެއްޗެއް.","latin":"saalhan'ga","english":"catapult"}
+{ "dhivehi":"ސާޅި","definition":"އަންހެނުން ގައިނިވާ ކުރުމަށް ބޭނުންކުރާ ތުނި  ދިގު ފޮތިގަނޑެއް.","latin":"saalhi","english":""}
+{ "dhivehi":"ސާޅީހަށްހިނައިގަތުން","definition":"ނިފާސްކަމުގެ ލެއި ކެނޑުމުން އެކަމަށްޓަކައި  ހިނަންޖެހޭ ހިނެއިން ހިނައިގަތުން.","latin":"saalheehahhinaigathun","english":""}
+{ "dhivehi":"ސާޅީހަށްފެންއެޅުން","definition":"ސާޅީހަށް ހިނައިގަތުން.","latin":"saalheehahfenelhun","english":""}
+{ "dhivehi":"ސާޅީސް","definition":"ހަތަރު ދިހަ.ދިހައެއްގެ ހަތަރުބާރު.","latin":"saalhees","english":"forty"}
+{ "dhivehi":"ސާޅީސްވަޅި","definition":"އިހުގައި މީހުން ވިހައިގެން އުޅޭއިރު  ސާޅީސްވަންދެން ގެންގުޅޭ ވަޅިއެއް.","latin":"saalheesvalhi","english":""}
+{ "dhivehi":"ސާޅީސްވުން","definition":"މީހަކު މަރުވެގެން ސާޅީސްދުވަސް ހަމަވުން.","latin":"saalheesvun","english":""}
+{ "dhivehi":"ސާއިރަ","definition":"(ބދ.) އުޑު.","latin":"saaira","english":""}
+{ "dhivehi":"ސާއިރު","definition":"(ބދ.) ރާގުފުމޭ އޮނު.","latin":"saairu","english":""}
+{ "dhivehi":"ސާއްބަ","definition":"ޒުވާން.","latin":"saahba","english":""}
+{ "dhivehi":"ސާއްތަ","definition":"ވަގުތު.ގަޑި.","latin":"saahtha","english":""}
+{ "dhivehi":"ސާވޭ","definition":"ކަންހުރި ނެތްގޮތާއި ޙާލާތު ހުރި ނެތްގޮތް  ރަނގަޅަށް ބެލުމަށް މީހުން ގޮސްގެން ހޯދައި  ބަލާބެލުން.","latin":"saavey","english":""}
+{ "dhivehi":"ސާވޭކުރުން","definition":"ކަންހުރިނެތް ގޮތާއި ޙާލާތު ހުރިނެތްގޮތް  ރަނގަޅަށް ބެލުމަށް މީހުންގޮސް ހޯދައި ބެލުން.","latin":"saaveykurun","english":""}
+{ "dhivehi":"ސާމަރާ","definition":"ސާމަރާ ދޫނީގެ ފަތުން ހަދައިފައި ހުންނަ  ފަންކާއެއް. މީގެ މުށްގަނޑު ހުންނާނީ ލަކުޑިން  ލިޔެފައި އަތުތެރެއިން އެނބުރޭ ގޮތަށް ހަރުކޮށްފައެވެ.މކ. މިޔަރާއި ބޮޑެތި މަސް މަހުގެ ބޮލުގައި  ޖަހައި ބަލިކޮށްލަން މަސްދޯނިފަހަރުގައި ގެންގުޅޭ  ލަކުޑި މުގުރު.","latin":"saamaraa","english":"fan of peacock feathers"}
+{ "dhivehi":"ސާމަރާކުރުން","definition":"މާކެޔޮޅުކަން ކުރާއިރު މިޔަރުމެރުމަށް ބޮލުގައި  ޖަހަން ގެންގުޅޭ ކަނދުބުރިން ޖެހުން.","latin":"saamaraakurun","english":""}
+{ "dhivehi":"ސާމަރާކޮޅު","definition":"ސާމަރާދޫނީގެ ފަތުން ހަދައިފައިވާ ފަންކާއެއް.  މިއީ ރަސްރަސްކަލުން ދަރުބާރުގައި ތިއްބަވާއިރު  ގައިކޮޅަށް ވިހެން ބޭނުންކުރާ އެއްޗެކެވެ.","latin":"saamaraakolhu","english":""}
+{ "dhivehi":"ސާމަރާދޫނި","definition":"ފިނދުފަތްގަނޑުގައި ވަރަށް ރީތި ކުލައަރާ  ފަތްތަކެއް ހުންނަ ރީތި ދޫންޏެއް.ނިމެރި  ދޫނި.","latin":"saamaraadhooni","english":""}
+{ "dhivehi":"ސާމާނު","definition":"އެއްޗެހި.އެކަމަކާ ގުޅޭ ހުރިހާ  އެއްޗެހި.","latin":"saamaanu","english":""}
+{ "dhivehi":"ސާމުރާނީ","definition":"(ސ.) ދުންސާމަރާނި.","latin":"saamuraanee","english":""}
+{ "dhivehi":"ސާމޯރި","definition":"(ސ.) ދައްސޫރަ.","latin":"saamoari","english":""}
+{ "dhivehi":"ސާމޯރު","definition":"އޮޑިފަހަރުގެ ކުނބުގެ ކުރީގައި ހުންނަ \"ނީ\" ގެ  ތެރެއަށް ލައްވައިފައި ހުންނަ ދެފުރޮޅުލީ އެއްޗެއް.  މިއީ ރިޔާ ނަގަން ހަންޖާ ލައްވަން ހަދައިފައި  ހުންނަ އެއްޗެކެވެ.","latin":"saamoaru","english":"parrel"}
+{ "dhivehi":"ސާމްރާޖީ","definition":"ސާމްރާޖާގުޅޭ.ސާމްރާޖަށް  ތާއީދުކުރާ.","latin":"saamraajee","english":""}
+{ "dhivehi":"ސާމްރާޖު","definition":"ރަސްކަލެއްގެ ދަށުގައި އެހެން  ރަސްރަސްކަލުން ތިއްބަވާ ގޮތަށް ރޭވިފައިވާ  ވެރިކަމުގެ ނިޒާމު.އެއްދައުލަތެއްގެ ދަށުގައި  އެހެނިހެން ދައުލަތްތަކެއް ބޭއްވުމުގެ ސިޔާސަތު.","latin":"saamraaju","english":""}
+{ "dhivehi":"ސާފު","definition":"ކުންޏެއް މިލައެއް ނެތް.ހަޑީގެ  އިދިކޮޅު.އަލި.އޮޅުމެއްނެތް.","latin":"saafu","english":"clean"}
+{ "dhivehi":"ސާފުނުކުރާތެޔޮ","definition":"ސާފުކޮށްގެން ތެލުގެ އެކި ވައްތަރުތައް  ވަކިނުކޮށް ތެޔޮވަޅުން ނަގާގޮތަށް ހުންނަތެޔޮ.","latin":"saafunukuraatheyo","english":""}
+{ "dhivehi":"ސާފުކަން","definition":"ތާހިރުކަން.އޮޅުމެއްނެތްކަން.އަލިކަން.","latin":"saafukan","english":""}
+{ "dhivehi":"ސާފުކުރުން","definition":"ތާހިރުކުރުން.އޮޅުންފިލުވުން.ދޮވުން.","latin":"saafukurun","english":""}
+{ "dhivehi":"ސާފުކޮށްލުން","definition":"ސާފުކުރުން މިބަހުގެ ލުއިގޮތް.ހުސްކޮށްލުން.","latin":"saafukohlun","english":""}
+{ "dhivehi":"ސާފުވުން","definition":"ތާހިރުވުން.އޮޅުން ފިލުން.ޝައްކުތައް ފިލުން.","latin":"saafuvun","english":""}
+{ "dhivehi":"ސާފުމަށިތެޔޮ","definition":"ކަރާސީނުތެޔޮ.","latin":"saafumashitheyo","english":""}
+{ "dhivehi":"ސާފުމޮހޮރާ","definition":"ޖަވާހިރުގެ ތެރޭގައި ހިމެނޭ އެއްޗެއް. މިއީ  ފަތިކޮށް ކުކުޅުބިސް ބުރަށް ހުންނަ އެއްޗެކެވެ. މިއީ  ހަރުފަމުތުގެ ވައްތަރެކެވެ. ކުލައަކީ ކިސަޑު  އަޅިކުލައެވެ. ބޮޑުމިނަކީ ގާތްގަނޑަކަށް ބައި  އިންޗިއެވެ.","latin":"saafumohoraa","english":""}
+{ "dhivehi":"ސާފުފެން","definition":"އެހެން އެއްޗަކާއި އެކުވެފައި ނުވާ ތާހިރުފެން.","latin":"saafufen","english":""}
+{ "dhivehi":"ސާފުތާހިރުކަން","definition":"ހަޑިމުޑުދާރު ކަމެއް ނެތްކަން.ކުނިމިލައެއް ނެތްކަން.","latin":"saafuthaahirukan","english":""}
+{ "dhivehi":"ސާފުތާހިރުވުން","definition":"ސާފުވުން، ތާހިރުވުން މިދެބަސް އެއްކޮށް  ބުނާގޮތް.","latin":"saafuthaahiruvun","english":""}
+{ "dhivehi":"ސާފުތެޔޮ","definition":"ސާފުމަށިތެޔޮ.ކަރާސީނުތެޔޮ.","latin":"saafutheyo","english":""}
+{ "dhivehi":"ސާފުސީދާގޮތް","definition":"ފިތުރަތުގެ އެންމެ ރަނގަޅުގޮތް.","latin":"saafuseedhaagoiy","english":""}
+{ "dhivehi":"ސާފުޓު","definition":"އިންޖީނާ ބުރަފައްޗާ ގުޅުވައިދޭ ދަގަނޑު.","latin":"saafutu","english":""}
+{ "dhivehi":"ސާފޫރުއަލަ","definition":"(ސ.) ފުރެއްދެއަލަ. މިއީ ކަހަނަލައިގެ  ވައްތަރެކެވެ. ހުންނަނީ ދަނބުފާޑު ކުލައެއްގައެވެ.","latin":"saafooruala","english":""}
+{ "dhivehi":"ސާދަ","definition":"އެއްދިހަ ހަތަރެއް.ތޭރައާއި  ފަނަރައާ ދެމެދުގައި އޮންނަ ޢަދަދު.","latin":"hathareh","english":"fourteen"}
+{ "dhivehi":"ސާދަލައްބައިގެ ކޮޅުގައި","definition":"މަޖާޒު: ވެރިޔަކާ  ގާތްކަމެއް ނެތްކަން ދޭހަކޮށްދިނުމަށް ބުނެއުޅޭ ބަހެއް.  މިސާލު: އޭނާއަށް އެނގޭނީ ކިހިނެއްތަ؟ އޭނާ  ހުންނަނީ ކަތީބާ ސާދަލައްބައިގެ ކޮޅުގައެއްނު؟","latin":"saadhalahbaige kolhugai","english":""}
+{ "dhivehi":"ސާދާ","definition":"އާދައިގެ.ޒީނަތްތެރި ކުރުމެއް  ނަލަހެދުމެއް ނެތް.ކަންދެއްކުމެއް ބޮޑާކަމެއް  ނެތް.ފަސޭހަ.އޮޅުމެއްނެތް.","latin":"saadhaa","english":""}
+{ "dhivehi":"ސާދާގަރު","definition":"މުދާވެރިޔާ.ވިޔަފާރިވެރިޔާ.","latin":"saadhaagaru","english":""}
+{ "dhivehi":"ސާދާޖުމުލަ","definition":"ހަމަ އެކަނި އިސްބަޔާއި ޚަބަރުގެ މައްޗަށް  އެކުލެވިފައިވާ ޖުމުލަ.","latin":"saadhaajumula","english":""}
+{ "dhivehi":"ސާލާމިސުރީ","definition":"ގަހެއްގައި އަޅާ ދެ އިންޗިއެއް ވަރުގެ އެއްޗެއް.  މި ހުންނާނީ އެއްކޮޅަށް ފަލަކޮށް އަނެއްކޮޅަށް  ހިމަކޮށެވެ. ހިމަކޮޅުގައި ކައްޓެއް ފާޑުގެ އެތިކޮޅެއް  ހުރެއެވެ. މިއީ ބޭހަށް ބޭނުންކުރާ އެއްޗެކެވެ.","latin":"saalaamisree","english":"salep orchid"}
+{ "dhivehi":"ސާލު","definition":"ކެހެރި ފޮތި ނުވަތަ މަޚްމާ ފާޑުގެ ފޮތިން  ތައްޔާރު ކޮށްފައި އޮންނަ ފޮތިގަނޑެއް. މީގައި  ފަށުވިން މާޖަހައި ވަށައިގެން ކުރެހުންތައް އަޅައިފައި  ހުރެއެވެ.","latin":"saalu","english":""}
+{ "dhivehi":"ސާލުފައްޓު","definition":"(މަލިކު) ބޮޑުގޮޅި ހުންނަ ފަށުއި ފޭރާމެއް. މިއީ  އަންހެނުން އަންނަ އެއްޗެކެވެ.","latin":"saalufahtu","english":""}
+{ "dhivehi":"ސާގު","definition":"ހުދުކުލައިގައި ފުއްފުކަށް ވަށްކޮށް ހުންނަ  އެއްޗެއް. މިކެއްކީމާ ފުއްތައް ހުންނާނީ މަސްލައިފައި  ހުންނަ ގޮތަށެވެ. މީގައި ވަރަށް ގަދަ ތާނެއް  ހުންނާނެއެވެ. މީގައި ބޮނޑިބަތާއި ފަނިފަދަ  އެއްޗެހި ކައްކައެވެ.","latin":"saagu","english":"sago"}
+{ "dhivehi":"ސާގުދަލިޔާ","definition":"ބަކަރިކިރު އަޅައިގެން ސާގުގައި ކައްކާ އެއްޗެއް.","latin":"saagudhaliyaa","english":""}
+{ "dhivehi":"ސާގުދާނާ","definition":"ސާގުން ކައްކާ ޒަންޖަބީލު ފާޑު އެއްޗެއް.","latin":"saagudhaanaa","english":""}
+{ "dhivehi":"ސާސްކަފު","definition":"(ބދ.) ހާސްއަހަރު.","latin":"saaskafu","english":"millennium"}
+{ "dhivehi":"ސާސްކަފުރަދާނަ","definition":"އެންމެންގެ އަނގަތައް އެމީހާއާ މެދު  ބެދިފައިވާ މީހާ.އެންމެން ކުރެން އިސްމީހާ.","latin":"saaskafuradhaana","english":""}
+{ "dhivehi":"ސާސްތުރަ","definition":"(ބދ.) ހާސް.","latin":"saasthura","english":""}
+{ "dhivehi":"ސާސްތުރަވަތް","definition":"(ބދ.) މިރާއްޖެ.","latin":"saasthuravaiy","english":""}
+{ "dhivehi":"ސާޑި","definition":"(މަލިކު) އަތްދުތް ލައިފައި ހުންނަ ހުދުފޮށައެއް.","latin":"saadi","english":""}
+{ "dhivehi":"ސާޓަނު","definition":"އެއްފުށަށް އޮފު އަރާގޮތަށް ހުންނަ ފޮއްޗެއް.","latin":"saatanu","english":"fabric"}
+{ "dhivehi":"ސާޔަން","definition":"އެއްޗެއްގެ އަސްލު ފޮރުވޭގޮތަށް އެ އެއްޗެއްގެ  ބޭރުން ތުނިކޮށް ދުއްވާ ނުވަތަ ލާ މަޢުދަނީ  ފަށަލަ.","latin":"saayan","english":""}
+{ "dhivehi":"ސާޔަންލުން","definition":"އެއްޗެއްގެ އަޞްލު ފޮރުވޭ ގޮތަށް ބޭރުން ތުނިކޮށް  މަޢުދަނީ ފަށަލައެއް ދުއްވަމުން، ނުވަތަ ލުން.","latin":"saayanlun","english":""}
+{ "dhivehi":"ސާޔާކޮޅު","definition":"ރަސްރަސްކަލުން އެތެރެއިން ތުރުކުރައްވާ  ހެދުންކޮޅެއް.","latin":"saayaakolhu","english":""}
+{ "dhivehi":"ސާޖަންޓު","definition":"ފުލުހުންގެ ތެރޭގައި ހިމެނޭ މަގާމެއްގެ ނަން.  އެމެރިކާގައި މިއީ ކެޕްޓަނުގެ ދަށުގައި ހުންނަމީހާގެ  މަޤާމެވެ.ސިފައިންގެ ތެރޭގައި ހިމެނޭ މަގާމެއް.  މިއީ ކޯޕްރަލަށްވުރެ މަތިނަމަވެސް ސްޓާފު  ސާޖެންޓަކަށްވުރެ ދަށް މަޤާމެކެވެ.","latin":"saajantu","english":""}
+{ "dhivehi":"ސާޢަތްފުޅި","definition":"ދަންފުޅި.ޓަފުފުޅި.","latin":"saaaaiyfulhi","english":""}
+{ "dhivehi":"ސިހިގެން ދިއުން","definition":"ސިއްސައިގެން ދިއުން.","latin":"sihigen dhiun","english":""}
+{ "dhivehi":"ސިހިސިހިހުރުން","definition":"ޖެހިލުންވޭވެ ހުރުން.ހިތަށްބިރުވަދެ  ހުރުން.","latin":"sihisihihurun","english":""}
+{ "dhivehi":"ސިހުން","definition":"ކުއްލިއަކަށް ބިރު ހިތަށް ވަނުމުން ވާގޮތް.","latin":"sihun","english":""}
+{ "dhivehi":"ސިހުންއެރުން","definition":"ކުއްލިއަކަށް ބިރުހިތަށް ވަނުމުން ވާގޮތް  ވުން.ސިހުންވުން.","latin":"sihunerun","english":""}
+{ "dhivehi":"ސިހުންވުން","definition":"ޖެހިލުންވުން.ބިރު ހިތަށް ވަނުން.","latin":"sihunvun","english":""}
+{ "dhivehi":"ސިހުރު","definition":"މީހުންނަށް ގެއްލުން ދިނުމަށް  ހަދާފަންޑިތަ.މަޖާޒު: ހިތްދަމައިގަތުމުގެ ބާރު.","latin":"sihuru","english":"black magic"}
+{ "dhivehi":"ސިހުރުހާހޫރަ","definition":"މީހުންނަށް ގެއްލުން ދިނުމަށް ހަދާ ފަންޑިތަ.","latin":"sihuruhaahoora","english":""}
+{ "dhivehi":"ސިހުރުހެދުން","definition":"ސިހުރުކުރުން.","latin":"sihuruhedhun","english":""}
+{ "dhivehi":"ސިހުރުބާތިލް","definition":"ސިހުރުގެ ބާރު ކެނޑުވުމަށް ހަދާ ފަންޑިތަ.","latin":"sihurubaathil","english":""}
+{ "dhivehi":"ސިނގު","definition":"ކާޑުބަލީގެ ސަބަބުން ހަށިގަނޑު އަނަރޫފަ  ވެފައި ބަނޑުބޮޑުކޮށް ހުންނަ.އަވަހަށް  ރުޅިއަންނަ.","latin":"singu","english":""}
+{ "dhivehi":"ސިނގުރުޅި","definition":"ކަމަކަށް ނުވާކަހަލަ ކުދިކުދި ކަންތަކާ މާ  އަވަހަށް އަންނަރުޅި.","latin":"singurulhi","english":""}
+{ "dhivehi":"ސިނގުބަނޑު","definition":"ކާޑުބަލީގެ ސަބަބުން، ނުވަތަ މެލޭރިޔާ  ހުން ޖެހިފައި، ފަސޭހަނުވެ ގިނަދުވަސް ވުމުން  ހަށިގަނޑު އަނަރޫފަވެފައި ތިބޭ ކުދިންގެ ހުންނަ  ބޮޑެތި ބަނޑު.މަޖާޒު: ފައިސާގެ އަގު ދަށްވެ  ޚިދުމަތާއި މުދަލުގެ އަގު މައްޗަށްދާ ދިއުން.","latin":"singubandu","english":""}
+{ "dhivehi":"ސިނގުކަން","definition":"ހަށިގަނޑު އަނަރޫފަވެ  ބަނޑުބޮޑުވެފައިވާކަން.ކަމަކަށް ނުވާކަހަލަ  ކުދިކުދި ކަންތަކާ އަވަހަށް ރުޅި އަންނަކަން.","latin":"singukan","english":""}
+{ "dhivehi":"ސިނގުވުން","definition":"މޭކަށިތައް ނުކުމެފައި ބަނޑުބޮޑުވެފައި  ފައިހިމަވެފައި ހުރުން.","latin":"singuvun","english":""}
+{ "dhivehi":"ސިނައަސްދޫނި","definition":"ދިވެހި އަސްދޫންޏަށްވުރެ ބޮޑެތި އަސްދޫންޏެއް.","latin":"sinaasdhooni","english":""}
+{ "dhivehi":"ސިނަމާ","definition":"ބައިސްކޯފު ދައްކާގެ.","latin":"sinamaa","english":""}
+{ "dhivehi":"ސިނަފަތް","definition":"ސިގިރެޓް ހަދާދުންފަތް. މިފަތް ހުންނާނީ ކުދި  ދުންފަތަށް ވުރެ ހިމަދިގުކޮށެވެ.","latin":"sinafaiy","english":""}
+{ "dhivehi":"ސިނޯހުދަތުރު","definition":"(ޅ.) ޓަފުނަނާއި ސަމުގާގެ ބޭނުން  ކޮށްގެންކުރާ ދަތުރު.","latin":"sinoahudhathuru","english":""}
+{ "dhivehi":"ސިންކު","definition":"ސަތޭކަ ފަދަމް.ހިސާބު އަކުރު  ކަނާތުން ވާތަށް ގުނާއިރު އަށާރަވަނަ އަކުރުގެ  ވަޅަށް ކިޔާނަން.ތަށިދޮވުން ފަދަ ކަންތަކުގައި  ބޭނުން ކުރުމަށް މައުދަނީ އެއްޗަކުން ހަދައިފައި  ހުންނަ ތައްޓެއް. މީގެ އެއްކޮޅު ހުންނާނީ ތަށިފަދަ  ތަކެތި ބެހެއްޓޭގޮތަށެވެ.","latin":"sinku","english":"sink"}
+{ "dhivehi":"ސިންދައޯގަ","definition":"މަސްވެރިކަމަށް ރަނގަޅުކަމަށް ނަކަތްތެރިން  ބުނާ ވަގުތެއް.","latin":"sindhaoaga","english":""}
+{ "dhivehi":"ސިންދާ","definition":"(ބދ.) ގުނަ.","latin":"sindhaa","english":""}
+{ "dhivehi":"ސިންދިތާ","definition":"(ބދ.) ލޯބި.","latin":"sindhithaa","english":""}
+{ "dhivehi":"ސިންގަ","definition":"(ބދ.) ސިންގާ.ރާއްސެއްގެނަން.  މިރާހިކަލަންޑަރުގެ ގޮތުން ދިމާވަނީ ތޭވީސް  އޯގަސްޓުން ބާވީސް ސެޕްޓެމްބަރާ ދެމެދަށެވެ.","latin":"singa","english":""}
+{ "dhivehi":"ސިންގަޅަ","definition":"ސިންގަޅައިންގެ މާދަރީބަސް.މާދަރީ  ބަހަކަށް ސިންގަޅަ ބޭނުންކުރާމީހާ.ނއ.  ސިންގަޅައިންނަށް ނިސްބަތްވާ.","latin":"singalha","english":""}
+{ "dhivehi":"ސިންގަޅައިން","definition":"ސްރީލަންކާގައި (އޮޅުދޫކަރައިގައި) އުޅޭ  ސިންގަޅަ ބަހުން ވާހަކަ ދައްކާ ދަރިކޮޅުގެ މީހުން.މާދަރީބަހަކަށް ސިންގަޅަ ބަސް ބޭނުންކުރާ  މީހުން.","latin":"singalhain","english":""}
+{ "dhivehi":"ސިންގަލްމެޗް","definition":"ޓެނިހާއި ބެޑްމިންޓަން ފަދަ ކުޅިވަރުގައި ކޮންމެ  ކޮޅެއްގައި އެކަކު ހުރެގެން ކުޅޭ މެޗު.","latin":"singalmech","english":""}
+{ "dhivehi":"ސިންގަލްފޮތި","definition":"މެދުން ފަތް ނުޖަހައި އޮޅައިފައި ހުންނަފޮތި.","latin":"singalfothi","english":""}
+{ "dhivehi":"ސިންގާ","definition":"ނުރައްކާތެރި ވަލު ޖަނަވާރެއް. މިއީ  ޝިކާރަ ކޮށްގެން ކައިއުޅޭ ވަކިތައް ތޫނު ގަދަފަދަ  ޖަނަވާރެކެވެ. މީގެ ފިރިހެން އެއްޗެހީގެ ކަރުދޮށުގައި  މުށިކުލައިގެ ބޮޑު ކެހެރި ގަނޑެއް އޮވެއެވެ.މަޖާޒު: ނއ. ހައިބަތު ހުރި.","latin":"singaa","english":"lion"}
+{ "dhivehi":"ސިންގާސަނާ","definition":"ރަސްކަމުގެ ތަޚުތު.","latin":"throne","english":"throne"}
+{ "dhivehi":"ސިންޖާލުމޮހޮރު","definition":"ރާއްޖޭގައި ތަޅާ ބޮޑެތި ދަގަނޑު މޮހޮރެއް.","latin":"sinjaalumohoru","english":""}
+{ "dhivehi":"ސިރާއޮޑުން","definition":"(ގ.) ސީރާއެޅުން.","latin":"siraaodun","english":""}
+{ "dhivehi":"ސިރިންޖު","definition":"އިންޖެކްޝަން ޖަހަން ބޭނުންކުރާ އާލަތެއް. މި  ހަދައިފައި ހުންނަނީ ކޮޅުގައި ކައްޓެއް ހަރުކުރެވޭ  ގޮތަށެވެ. ސިރިންޖުގެ އެތެރޭގައިވާ ބޭސް  ހަށިގަނޑުގެ ތެރެއަށް ފޮނުވައިލަނީ މިކަށީގެ  ތެރެއިންނެވެ.","latin":"sirinju","english":""}
+{ "dhivehi":"ސިރިބިން","definition":"(ބދ.) ކުޅަދާނަ.","latin":"siribin","english":""}
+{ "dhivehi":"ސިރިވަންސަނައޯގަ","definition":"ލާބައިގެ އިރުވައި.ހެޔޮއިރުވަރެއްގެ  ނަން.","latin":"sirivansanaoaga","english":""}
+{ "dhivehi":"ސިރިމަތަ","definition":"(ބދ.) ތާހިރުކަން ބޮޑު.","latin":"sirimatha","english":""}
+{ "dhivehi":"ސިރީ","definition":"ކީރިތި.ނަން އުފުލިގެންވާ.މާތް.ބަސްގަދަ.","latin":"siree","english":""}
+{ "dhivehi":"ސިރީހިވެދަރުނައަބާރުނަ","definition":"(ބދ.) ހެދުނުހައި މީހުންކުރެ މާތް އަބާރަނައެއް  ފަދަމީހާ.","latin":"sireehivedharunaabaaruna","english":""}
+{ "dhivehi":"ސިރީނަލަވަރުންދާނަ","definition":"(ބދ.) ދުނިޔޭ އުޅުން ހެއުމީހާ.","latin":"sireenalavarundhaana","english":""}
+{ "dhivehi":"ސިރީނާކަރައިރަސުންދުރަބޮވަނަ","definition":"(ބދ.)  ދުނިޔެއަށް ހިޔައު އަލާ ވިލާގަނޑެއް ފަދަ މީހާ.","latin":"sireenaakarairasundhurabovana","english":""}
+{ "dhivehi":"ސިރީނިފެނަންއުއްދަނަރެހެންދި","definition":"(ބދ.)  އަންހެނުންކުރެ ގުނަވަންތައް ރިވެތި މީހާ.","latin":"sireenifenanudhanarehendhi","english":""}
+{ "dhivehi":"ސިރީރަނެސްނަވަރަންނަބޮވަނަ","definition":"(ބދ.)  ގިނަކަމަށް ކެރޭ މާތްމީހާ.","latin":"sireeranesnavarannabovana","english":""}
+{ "dhivehi":"ސިރީރަންނަވަލޯކައަބާރުނަ","definition":"(ބދ.)  ދުނިޔެއަށް މިންނެތް މާތްމީހާ.","latin":"sireerannavaloakaabaaruna","english":""}
+{ "dhivehi":"ސިރީރަންނަވަލޯކަމަހާ","definition":"(ބދ.) ގިނަކަންކަމަށް ކެރޭ މާތްރަސްގެ.","latin":"sireerannavaloakamahaa","english":""}
+{ "dhivehi":"ސިރީރަންކައަބާރުނަދޭހަ","definition":"(ބދ.) ދުނިޔެއިން ފިސާރި މާތްމީހާ.","latin":"sireerankaabaarunadheyha","english":""}
+{ "dhivehi":"ސިރީރޯހައިސްފަކައްތިރިބޮވަނަ","definition":"(ބދ.)  ދުނިޔެއިން ދެބަސްނެތް ގިނަކަމަށް ކެރޭމީހާ.","latin":"sireeroahaisfakahthiribovana","english":""}
+{ "dhivehi":"ސިރީބަރިކުޝަލޯކަމަހާ","definition":"(ބދ.) ވަރަޢަވެރިކަން ލިބިގެންވާ  ރަސްގެފާނު.","latin":"sireebarikushaloakamahaa","english":""}
+{ "dhivehi":"ސިރީބޮވަނަލަދަވަރަދާނަ","definition":"(ބދ.) ދުނިޔެއިން ރިވެތި މާތްކަން  ލިބިގެންވާ.","latin":"sireebovanaladhavaradhaana","english":""}
+{ "dhivehi":"ސިރީކަލަވުނައަބާރުނަދޭހަ","definition":"(ބދ.)  ދުނިޔެއިން މާތް ރިވެތި މީހާ.","latin":"sireekalavunaabaarunadheyha","english":""}
+{ "dhivehi":"ސިރީކިމެރާދީއްތަދޭހަ","definition":"(ބދ.) ދުނިޔެއިން ހިތްފަހި ގަދަމީހާ.","latin":"sireekimeraadheethadheyha","english":""}
+{ "dhivehi":"ސިރީކުލަސުންދުރަ","definition":"(ބދ.) ކީރިތި ބަސްގަދަ މާތްކަން ލިބިގެންވާ  ވަންހަވެރި ރިވެތި ހެއުމީހާ.","latin":"sireekulasundhura","english":""}
+{ "dhivehi":"ސިރީއަސަންނަވަރަންނަތަންތުރަމަހާ","definition":"(ބދ.)  އެފަދަމާތް އަނެކަކު ނެތް ރަސްގެ.","latin":"sireeasannavarannathanthuramahaa","english":""}
+{ "dhivehi":"ސިރީއަސަންކަނަވަރަވަރާދީއްތަ","definition":"(ބދ.)  އެންމެހައި މުދަލަށް ކެރޭ މީހާ.","latin":"sireeasankanavaravaraadheetha","english":""}
+{ "dhivehi":"ސިރީއިސްދަނައަބާރުނަ","definition":"(ބދ.) ދުނިޔެއަށް ހަތެއްފަދަ މާތްމީހާ.","latin":"sireeisdhanaabaaruna","english":""}
+{ "dhivehi":"ސިރީވަރުނައަބާންނަ","definition":"(ބދ.) އަލިމަސް އަބާރަނައެއްފަދަ ރިވެތި  މީހާ.","latin":"sireevarunaabaanna","english":""}
+{ "dhivehi":"ސިރީވަރުޑަރާދީއްތަބޮވަނަ","definition":"(ބދ.) ދުނިޔެ  މީހުންކުރެ ގަދަމީހާ.","latin":"sireevarudaraadheethabovana","english":""}
+{ "dhivehi":"ސިރީވަލަކުސަ","definition":"(ބދ.)އުފާކަން.ހިތްފަހިކަން.","latin":"sireevalakusa","english":""}
+{ "dhivehi":"ސިރީވަލަކުސައަބާރުނަބޮވަނަ","definition":"(ބދ.)  ދުނިޔެއަށް މާތްކަން ފެތުރިގެންވާ މީހާ.","latin":"sireevalakusaabaarunabovana","english":""}
+{ "dhivehi":"ސިރީމާތުރުމަބޮވަނަސިންދަ","definition":"(ބދ.)  ދުނިޔެއިން ދަރުމަވަންތަ ތެދުވެރިޔާ.","latin":"sireemaathurumabovanasindha","english":""}
+{ "dhivehi":"ސިރީމާތުރުމަބޮވަނަސިއްދަ","definition":"(ބދ.)ދުނިޔެއިން ދަރުމަވަންތަ ތެދުވެރިޔާ.ރިވެތި  ތެދުވެރި ހެޔޮމީހާ.","latin":"sireemaathurumabovanasidha","english":""}
+{ "dhivehi":"ސިރީމާތޮރުބޮވަނަސިއްދަ","definition":"(ބދ.) ދުނިޔެއިން ތެދުވެރި ހެއުމީހާ.","latin":"sireemaathorubovanasidha","english":""}
+{ "dhivehi":"ސިރީމިނިސިކަލޯކަ","definition":"(ބދ.) ދުނިޔެއަށް ޅަދޮނޅު ރީތިގަހެއްފަދަ  މީހާ.","latin":"sireeminisikaloaka","english":""}
+{ "dhivehi":"ސިރީމިދެނަމަދިނާދީއްތަބޮވަނަ","definition":"(ބދ.)  ދުނިޔެ ހެދުނުހައި މީހުންކުރެ ގަދަ ރިވެތި މީހާ.","latin":"sireemidhenamadhinaadheethabovana","english":""}
+{ "dhivehi":"ސިރީމުތައިރެސްލޯބަ","definition":"ދުނިޔެއިން އެސްމުތްފަދަމީހާ.","latin":"sireemuthairesloaba","english":""}
+{ "dhivehi":"ސިރީމެފެއަންފިޔާދީއްތަ","definition":"(ބދ.) އަންހެނުންކުރެ ގަދަމީހާ.","latin":"sireemefeanfiyaadheetha","english":""}
+{ "dhivehi":"ސިރީފަގަކަށަޅައަބާރުނަ","definition":"(ބދ.) ގަދަމާތްކަން މިލްކުކޮށްގެންވާ މީހާ.","latin":"sireefagakashalhaabaaruna","english":""}
+{ "dhivehi":"ސިރީފުރަމިންރާނައަބާރުނަ","definition":"ކަށަވަރުން  ނަންމާތް މީިހާ.","latin":"sireefuraminraanaabaaruna","english":""}
+{ "dhivehi":"ސިރީފުރަސޫރަދައިރުބޮވަނަ","definition":"ދުނިޔެއަށް  އިރުފަދަ މީހާ.","latin":"sireefurasooradhairubovana","english":""}
+{ "dhivehi":"ސިރީފެނައުއްދަނަބޮވަނަ","definition":"(ބދ.) ދުނިޔެއިން ގުނަވަންތަ މީހާ.","latin":"sireefenaudhanabovana","english":""}
+{ "dhivehi":"ސިރީދަންމަރާދީއްތަބޮވަނަ","definition":"(ބދ.)  ދުނިޔެއަށް ރަންތަރިއެއްފަދަ ސާހިބާ.","latin":"sireedhanmaraadheethabovana","english":""}
+{ "dhivehi":"ސިރީދަކަރައަބާދީއްތަ","definition":"ގަދަޟީހުންކުރެ ގަދަކަންމަތީ އިންނަމީހާ.","latin":"sireedhakaraabaadheetha","english":""}
+{ "dhivehi":"ސިރީދަކައާބަސަންދުރާދީއްތަ","definition":"ދުނިޔެއިން  ގަދަ ޖިންނިއެއް ފަދަމީހާ.","latin":"sireedhakaaabasandhuraadheetha","english":""}
+{ "dhivehi":"ސިރީދައިރަބޮވަނަ","definition":"ދުނިޔެއަށް އިރުފަދަ މީހާ.","latin":"sireedhairabovana","english":""}
+{ "dhivehi":"ސިރީދަފުނާދީއްތަސުއްދަ","definition":"(ބދ.) މީހުންކުރެ ދުލުބަހަށް ކެރޭމީހާ.","latin":"sireedhafunaadheethasudha","english":""}
+{ "dhivehi":"ސިރީދަގަށަޅައަބާރުނަ","definition":"ގަދަކަމާއި މާތްކަން އެހެންމީހަކަށް  ނުދިންމީހާ.","latin":"sireedhagashalhaabaaruna","english":""}
+{ "dhivehi":"ސިރީދަގަކައަބަސަންދުރަދީއްތަ","definition":"ދުނިޔެއަށް  ގަދަޖިންނިއެއްފަދަ، އަލި ހަނދެއްފަދަ މީހާ.","latin":"sireedhagakaabasandhuradheetha","english":""}
+{ "dhivehi":"ސިރީދުނުފުރާދީއްތަބޮވަނަ","definition":"(ބދ.) ދުނިޔޭގެ  ފިރިހެނުންކުރެ ގަދަމީހާ.","latin":"sireedhunufuraadheethabovana","english":""}
+{ "dhivehi":"ސިރީތިރުނައަބާރުނަބޮވަނަ","definition":"(ބދ.)  ފިރިހެނުންކުރެ މާތްމީހާ.","latin":"sireethirunaabaarunabovana","english":""}
+{ "dhivehi":"ސިރީތިސްކަރާދީއްތަބޮވަނަ","definition":"(ބދ.)  ނަންވާހައިތާ ތިބި ގަދަމީހުންކުރެ ގަދަ މީހާ.","latin":"sireethiskaraadheethabovana","english":""}
+{ "dhivehi":"ސިރީތުރަވުނައަބާރުނަރެހެންދި","definition":"(ބދ.)  ހަތްރީތި އެކުލެވިގެންވާ އަންހެނާ.","latin":"sireethuravunaabaarunarehendhi","english":""}
+{ "dhivehi":"ސިރީތުރަފޫހަޅަތަންތުރަވަރުނައަބާރަނަ","definition":"(ބދ.) އަލިމަސް އަބާރަނަ އެއްފަދަ ރިވެތި މީހާ.","latin":"sireethurafoohalhathanthuravarunaabaarana","english":""}
+{ "dhivehi":"ސިރީތުރަފޫހާޅަތަންތުރަ","definition":"ދުނިޔައިން ގަދަ ސިޔާސަމީހާ.","latin":"sireethurafoohaalhathanthura","english":""}
+{ "dhivehi":"ސިރީތުރަފޫހާޅަސަންދުރަ","definition":"ދުނިޔެއިން ސިއާސަ ގަދަމީހާ.","latin":"sireethurafoohaalhasandhura","english":""}
+{ "dhivehi":"ސިރީސަނދައިރަބޮވަނަމަހަ","definition":"(ބދ.)  ދުނިޔެއަށް އަލި ހަނދެއްފަދަ މީހާ.","latin":"sireesandhairabovanamaha","english":""}
+{ "dhivehi":"ސިރީސުއްދަކަވަރާދީއްތަ","definition":"ސަމާސާވެރި މާތްމީހާ.","latin":"sireesudhakavaraadheetha","english":""}
+{ "dhivehi":"ސިރީޖިގެސްކަރާދީއްތަބޮވަނަ","definition":"(ބދ.)  ހިލަންވާހައި ތަނަށް ގަދަމީހާ.","latin":"sireejigeskaraadheethabovana","english":""}
+{ "dhivehi":"ސިރު","definition":"އިންސާނުންގެ ބޯ.","latin":"siru","english":""}
+{ "dhivehi":"ސިރުވަލު","definition":"ފަތިސް ފޮތިގަނޑުގެ ގޮޅިއެއް.","latin":"siruvalu","english":""}
+{ "dhivehi":"ސިރުތަ","definition":"(ގ.) ފަކުރު.","latin":"sirutha","english":""}
+{ "dhivehi":"ސިބިބި","definition":"މަލާމާތުގެ ގޮތުން އަނގައިން ލައްވާ އަޑުއަޑު.","latin":"sibibi","english":""}
+{ "dhivehi":"ސިބިބިއެރުވުން","definition":"ސިބިބި ލެއްވުން.","latin":"sibibieruvun","english":""}
+{ "dhivehi":"ސިބިބިލެއްވުން","definition":"މަލާމާތުގެ ގޮތުން އަނގައިން އަޑު ލެއްވުން.","latin":"sibibilevun","english":""}
+{ "dhivehi":"ސިކަން","definition":"ބަރަބޮލާއި ފުފޫފަދަ އެއްޗެހިލާން އަތުން  ހިފޭގޮތަށް ފަނުން ތައްޔާރު ކޮށްފައި ހުންނަ އެއްޗެއް.ތެލި ބަހައްޓަން ވާ ޖަހައިގެން އެލުވައިފައި  ހުންނަ ދުރަން.","latin":"sikan","english":""}
+{ "dhivehi":"ސިކަންދަރު","definition":"ދުނިޔޭގެ މަޝްހޫރު ހަނގުރާމަވެރި  ފާތިޙުންގެ ތެރެއިން އެއްބޭފުޅެއްގެ ނަންފުޅު. މީނާ  ދުނިޔޭގައި އުޅުއްވީ އީސާގެފާނު ދުނިޔެއަށް  ވަޑައިގަތުމުގެ ކުރިން 323 ން 356 އަށެވެ.  މިޞްރުގެ އިސްކަންދަރިއްޔާ ބިނާކުރެއްވީ އޭނާއެވެ.  އަވަހާރަވީ ޢިރާޤުގެ ބާބިލްގައި ގަދަ ހުންފުޅެއްގައެވެ.ބެރު ވާންކުރުމަށްޓަކައި ޓިނބުލީގެ ބަދަލުގައި  ނަނުން ފުރާފުރުމެއް.","latin":"sikandharu","english":""}
+{ "dhivehi":"ސިކަންތިދަނޑި","definition":"ރަސްކަމަށް ކޮލިލާ ދުވަހު ކޮއްޔާއެކު ޢިއްޒަތް  ފުރިހަމަ ކުރުމަށް ގެންދާ ތަކެތީގެ ތެރޭގައި ގެންދާ  އެއްޗެއް. މިއީ ނުވަ ފޫޓް ހުންނަވަރުގެ ކުރެހި  އޮނެއްގެ މެދެއްހައި ތާނގައި ވަށްބުރެއް ހަރުކޮށް  އެބުރުގެ ވަށައިގެން ލާބޮނދި އެލުވައި އެއޮނުގެ  ކޮޅުގައި ކުރި ބޯއްޓެއް ލައިގެން ހަދައިފައި ހުންނަ  އެއްޗެކެވެ. މީގައި ހުންނާނީ ކުލަކުލައިގެ ވަރަނގު  ކަރުދާސް ހިއްޕައިފައެވެ.","latin":"sikanthidhandi","english":""}
+{ "dhivehi":"ސިކަންޖަބީނު","definition":"ރާހުތާއި މާމުއި އަޅައިގެން ތައްޔާރުކުރާ  ޝަރުބަތެއް.","latin":"sikanjabeenu","english":""}
+{ "dhivehi":"ސިކަލަ","definition":"(ސ.) ސިކަލު.","latin":"sikala","english":""}
+{ "dhivehi":"ސިކަލު","definition":"ދެވައިރުގުޅަން ވައިރުގެ ކޮޅުގައި ހަދައިފައި  ހުންނަބައި.","latin":"sikalu","english":""}
+{ "dhivehi":"ސިކާރަ","definition":"އެއްގަމު ކެއުޅުކަމުން އަތުލާއެތި.އެއްޗަކަށް އެއްޗެހި އަޅައި ފުރޭފުރުން.","latin":"sikaara","english":"hunt"}
+{ "dhivehi":"ސިކާރަބަރާސް","definition":"ފުރިގެން ބަންޑުންވާވުން.","latin":"sikaarabaraas","english":""}
+{ "dhivehi":"ސިކާރަކުރުން","definition":"އެއްޗަކަށް ތަކެތި އަޅައި، ނުވަތަ ލައި  ފުރާލުން.އެއްގަމު ކެޔޮޅުކަން ކުރުން.","latin":"sikaarakurun","english":""}
+{ "dhivehi":"ސިކާރަވުން","definition":"އެއްޗަކަށް އެއްޗެހި ތަކެއް އަޅައި ފުރުން.ތަނަކަށް ބަޔަކުވަދެ ފުރުން.","latin":"sikaaravun","english":""}
+{ "dhivehi":"ސިކާރަވެރިން","definition":"އެއްގަމު ކެއުޅުކަން ކުރާމީހުން.އެއްގަމުކެޔޮޅުން.","latin":"sikaaraverin","english":""}
+{ "dhivehi":"ސިކާރަމަތީކުއްތާ","definition":"އެއްގަމުގެ ކެއުޅުކަމުގައި ގެންގުޅޭ ކުއްތާ.","latin":"sikaaramatheekuthaa","english":""}
+{ "dhivehi":"ސިކާރަޔަށްދިއުން","definition":"އެއްގަމު ކެއުޅުކަމު ދިއުން.","latin":"sikaarayahdhiun","english":""}
+{ "dhivehi":"ސިކި","definition":"(ގ.) ދިޔާއެއްޗެހީގެ ތިކި.","latin":"siki","english":""}
+{ "dhivehi":"ސިކިންކިލާސް","definition":"(ސ.) ދެވަނަ ދަރަޖަ.","latin":"sikinkilaas","english":""}
+{ "dhivehi":"ސިކިސްތާން","definition":"މާލިމީން ނިޔަމިކަމުގެ ގޮތުން އަޅަންގެންގުޅޭ  ފިލާ.","latin":"sikisthaan","english":""}
+{ "dhivehi":"ސިކުނޑި","definition":"ހަށިގަނޑުގެ ހުރިހައި ބައެއް ކޮންޓްރޯލްކޮށް  ހިންގައިދޭ ގުނަވަން.","latin":"sikun'di","english":"brain"}
+{ "dhivehi":"ސިކުނޑިބަދަން","definition":"ވަތްވަތަށް ހުންނަ ބަދަނެއް. މިބަދަން  ހުންނަނީ ސިކުނޑިއަކާ ވައްތަރު ގޮތަކަށެވެ.","latin":"sikundibadhan","english":""}
+{ "dhivehi":"ސިކުން","definition":"ސިކުދީނުގެ މީހުން.","latin":"sikun","english":""}
+{ "dhivehi":"ސިކުންތު","definition":"މިނެޓެއްގެ ފަސްދޮޅަސް ބައިކުޅަ އެއްބައި.","latin":"sikunthu","english":""}
+{ "dhivehi":"ސިކުންތުކަށި","definition":"ގަޑީގައި ހުންނަ ސިކުންތު އަންގައިދޭ ކަށި.","latin":"sikunthukashi","english":""}
+{ "dhivehi":"ސިއަ","definition":"(ބދ.)ހިޔަ.ގުނުމުގައި ނުވަދިހަ  ހައެއް ހަމަވީމާ ކިޔާގޮތް.","latin":"sia","english":""}
+{ "dhivehi":"ސިއަމަލު","definition":"(ބދ.) މަރު.","latin":"siamalu","english":""}
+{ "dhivehi":"ސިއާކަސާސްތުރަ","definition":"(ބދ.) ކަންތަކަށް ކުޅަދާނަ މީހާ.","latin":"siaakasaasthura","english":""}
+{ "dhivehi":"ސިއާސަކަން","definition":"ބަސްނާހާކަން.ބަސް ޤަބޫލު  ނުކުރާކަން. މިއީ ކުޑަކުދިންނާ މެދު ބޭނުންކުރާ  ބަހެކެވެ.(ބދ.) ގަދަފަދަ ކަމާއި އާރާއި ބާރު  ހުރިކަން.","latin":"siaasakan","english":""}
+{ "dhivehi":"ސިއްރިޔާތު","definition":"ސިއްރުސިއްރުން.","latin":"siriyaathu","english":""}
+{ "dhivehi":"ސިއްރު","definition":"ވަންހަނާ.ފޮރުވިފައިވާ ފޮރުވުން.މަޖާޒު: ފޮރުވިފައިވާ ޙަޤީޤަތް.ފޮރުވިފައިވާ އަޞްލު","latin":"sirru","english":"secret"}
+{ "dhivehi":"ސިއްރުން","definition":"ވަންހަނާ ގޮތުގައި.މީހުންނަށް  ނޭގޭގޮތަށް.","latin":"sirun","english":""}
+{ "dhivehi":"ސިއްރުބުނުން","definition":"އެހެން މީހުނަށް ނީވޭގޮތަށް ވާހަކައެއް ބުނުން.","latin":"sirubunun","english":""}
+{ "dhivehi":"ސިއްރުކަންތައް","definition":"މަޖާޒު: ވައްކަން.","latin":"sirukanthah","english":""}
+{ "dhivehi":"ސިއްރުކުރުން","definition":"ވަންހަނާ ކުރުން.","latin":"sirukurun","english":""}
+{ "dhivehi":"ސިއްރުވުން","definition":"ވަންހަނާވުން.","latin":"siruvun","english":""}
+{ "dhivehi":"ސިއްރުވެރި","definition":"އަނެކެއްގެ ހުރިހައި ޙަޤީޤަތެއް އެނގޭ އެކުވެރި.","latin":"siruveri","english":""}
+{ "dhivehi":"ސިއްރުވެރިން","definition":"ތިމާގެ ހުރިހައި ޙަޤީޤަތްތަކެއް އެނގޭ އެކުވެރި  ރަޙުމަތްތެރިން.","latin":"siruverin","english":""}
+{ "dhivehi":"ސިއްރުފުލުހުން","definition":"ވަންހަނާވެ ތިބެގެން ކަންތައް ހޯދައިބަލާ  ފުލުހުން.","latin":"sirufuluhun","english":""}
+{ "dhivehi":"ސިއްރުސިއްރުން","definition":"ވަގުވަގަށް.ސިއްރު މިބަސް  ގަދަކޮށްލުމަށް ބުނާ ގޮތް.","latin":"sirusirun","english":""}
+{ "dhivehi":"ސިއްބި","definition":"(އ.) ފެންފޯއްދޫނި.","latin":"sibi","english":""}
+{ "dhivehi":"ސިއްބުދޫނި","definition":"(މ.) ފެންފޯއްދޫނި.","latin":"sibudhooni","english":""}
+{ "dhivehi":"ސިއްކަ","definition":"ސިލު.ދައުލަތެއްގެ ނަމުގައި ނުވަތަ  ވެރިޔެއްގެ ނަމުގައި ލިޔެވޭ ލިއުންތަކުގައި ޖެހުމަށް  ހަދައިފައިވާ ޚާއްސަ ތައްގަނޑު.މަޖާޒު: ފާހަގަ.ތަނެއްގައި ގެންގުޅޭ ލާރި.(ހ.)  ދާދިކުޑަ.","latin":"sikka","english":"coinage"}
+{ "dhivehi":"ސިއްކަޖެހުން","definition":"ސިލުޖެހުން.ދައުލަތެއްގެ ނަމުގައި،  ނުވަތަ ވެރިޔެއްގެ ނަމުގައި ލިޔެވޭ ލިޔުންތަކުގައި  ޖެހުމަށް ހަދައިފައިވާ ޚާއްޞަ ތައްގަނޑެއް ޖެހުން.ލާރިޖެހުން.","latin":"sikkajehun","english":"seal"}
+{ "dhivehi":"ސިއްދަތުރަބޮވަނައިސްފާޅަ","definition":"(ބދ.)  ދުނިޔެއަށް ހަތެއްފަދަ މީހާ.","latin":"sidhathurabovanaisfaalha","english":""}
+{ "dhivehi":"ސިއްތާ","definition":"(ބދ.) ލޯބި.","latin":"sithaa","english":""}
+{ "dhivehi":"ސިއްތި","definition":"އަންހެނުންނަށް ކިޔާނަމެއް.","latin":"sithi","english":""}
+{ "dhivehi":"ސިއްލަންކޮޅު","definition":"ދުރުހިސާބު.","latin":"silankolhu","english":""}
+{ "dhivehi":"ސިއްލަރު","definition":"(މަލިކު) ވަކިލާރި.","latin":"silaru","english":""}
+{ "dhivehi":"ސިއްލަވާރި","definition":"ސަމުގާގެ މިސްރާބެއް.ގަހާއިން  ފެށިގެން ސޯޅަވަނަ މިޞްރާބު.","latin":"silavaari","english":""}
+{ "dhivehi":"ސިއްލި","definition":"ގަހާއިން ފެށިގެން 15 ވަނަ މިސްރާބު.","latin":"sili","english":""}
+{ "dhivehi":"ސިއްލުރުޅި","definition":"ކަމަކަށް ނުވާކަހަލަ ކަންތައްތަކުގައި ކުއްލިއަކަށް  އަންނަރުޅި.","latin":"silurulhi","english":""}
+{ "dhivehi":"ސިއްސައިލުން","definition":"ބިރުގަންނަވައިލުން.ސިހިގެންދާގޮތް  ހެދުން.","latin":"sisailun","english":""}
+{ "dhivehi":"ސިއްސައިގެންދިއުން","definition":"ސިހިގެން ދިއުން.","latin":"sisaigendhiun","english":""}
+{ "dhivehi":"ސިއްސުން","definition":"ސިހޭގޮތްވުން.","latin":"sisun","english":""}
+{ "dhivehi":"ސިއްސުވައިލުން","definition":"ބިރުގަންނަވައިލުން.ކުއްލިއަކަށް  ޖެހިލުންވާގޮތް ވުން.","latin":"sisuvailun","english":""}
+{ "dhivehi":"ސިމަންރަރަ","definition":"(ބދ.) ކަނޑޫކަކުނި.","latin":"simanrara","english":""}
+{ "dhivehi":"ސިމާގު","definition":"ސަމުގާގެ ހަވަނަ މިޞްރާބު.","latin":"simaagu","english":""}
+{ "dhivehi":"ސިމިންޓު","definition":"(ޏ.ސ.) ސިމެންތި.","latin":"simintu","english":"cement"}
+{ "dhivehi":"ސިމިސިމިލެއްވުން","definition":"އަނެކަކަށް އަޑުނީވޭ ވަރަށް އެއްޗެއް ކިޔުން.","latin":"simisimilevun","english":""}
+{ "dhivehi":"ސިމެންތި","definition":"ރޭނުމަށާއި ކޮންކްރީޓް ކުރުމަށް ބޭނުންކުރާ  އުވަކަހަލަ އެއްޗެއް. މި އެންމެ ޢާންމުގޮތެއްގައި  ހުންނަނީ އަޅިކުލައިގައެވެ. މި ތެމުމުން ގަނޑުވެއެވެ.ވެއްޔާއި ސިމެންތިއާ އެއްކޮށް ފެންއަޅައި  ގަށައިފައި ހުންނައެތި.","latin":"simenthi","english":"cement"}
+{ "dhivehi":"ސިމެންތިފިލާ","definition":"ސިމެންތިއާއި ކިސަޑާއި އެއްކޮށްގެން އުފައްދާ  ފިލައެއް.","latin":"simenthifilaa","english":""}
+{ "dhivehi":"ސިމެންތިޓިނު","definition":"ސިމެންތިއާއި ކިސަޑާ އެއްކޮށްގެން އުފައްދާ  ޓިނެއް.","latin":"simenthitinu","english":""}
+{ "dhivehi":"ސިމެންތިޖެހުން","definition":"ރާނައިފައި ހުންނަ ތަންތާގައި ހަނދިން  ސިމެންތި ތަތްކޮށް އެއްވަރުކޮށް އޮމާން ކުރުން.","latin":"simenthijehun","english":""}
+{ "dhivehi":"ސިފަ","definition":"ވައްތަރު.ގޮތް.ސޫރަ.","latin":"sifa","english":"description"}
+{ "dhivehi":"ސިފަބަދަލުކުރުން","definition":"ހުރި ސިފަނޫން އެހެން ސިފައެއް ގެނައުން،  ނުވަތަ އެހެން ސިފައެއް ޖެއްސުން.","latin":"sifabadhalukurun","english":""}
+{ "dhivehi":"ސިފަކިއުން","definition":"ސިފަބަޔާންކޮށްދިނުން.ހުރިގޮތް  ބުނެދިނުން.","latin":"sifakiun","english":""}
+{ "dhivehi":"ސިފަކުރުން","definition":"ބަޔާންކުރުން.ސިފަގެނައުން.","latin":"sifakurun","english":"describe"}
+{ "dhivehi":"ސިފަކޮށްދިނުން","definition":"ސިފަކުރުން.","latin":"sifakohdhinun","english":""}
+{ "dhivehi":"ސިފައައުން","definition":"ސިފަޖެހުން.ސޫރަވުން.","latin":"sifaaun","english":""}
+{ "dhivehi":"ސިފައިން","definition":"ޤައުމު ދިފާޢުކުރުމަށްޓަކައި ހަނގުރާމަ  ކުރުމަށް ތައްޔާރުކޮށްފައި ތިބޭ މީހުން.ލަޝްކަރުގެ މީހުން.ހަނގުރާމަ ވެރިން.","latin":"sifain","english":"army"}
+{ "dhivehi":"ސިފަވުން","definition":"ސޫރަވުން.","latin":"sifavun","english":""}
+{ "dhivehi":"ސިފަދެއްކުން","definition":"އެއްޗެއްގެ ސޫރަދެއްކުން.","latin":"sifadhekun","english":""}
+{ "dhivehi":"ސިފަގަނޑު","definition":"ވައްތަރުގަނޑު.ގޮތްގަނޑު.ފާޑުގަނޑު.","latin":"sifagandu","english":""}
+{ "dhivehi":"ސިފަގެނައުން","definition":"ސިފަޖެއްސުން.","latin":"sifagenaun","english":"shape"}
+{ "dhivehi":"ސިފަގެއްލުން","definition":"ހުންނަންވީ ސިފަނެތުން.","latin":"sifagelun","english":""}
+{ "dhivehi":"ސިފަޖެހުން","definition":"ސިފައައުން.","latin":"sifajehun","english":""}
+{ "dhivehi":"ސިފަޖެއްސުން","definition":"ސިފައެއްގޮތް ކުރުން.","latin":"sifajesun","english":""}
+{ "dhivehi":"ސިފްޓަރު","definition":"ރެންޗުގެ ބާވަތެއް. މިއީ އަނގަކުޑަކޮށް ބޮޑުކޮށް  ހެދޭގޮތަށް ހުންނަ އެއްޗެކެވެ.","latin":"siftaru","english":""}
+{ "dhivehi":"ސިދުރަތުލްމުންތަހާއަށް ހިތްއެރުން","definition":"މަޖާޒު:  ތިމާޔާ އެކަށީގެން ނުވާ ފެންވަރަކަށް ހިތް  ފޯރުވައިގެން އުޅޭމީހުންނާ މެދު ބުނެއުޅޭ ބަހެއް.","latin":"sidhurathulmunthahaaah hiiyerun","english":""}
+{ "dhivehi":"ސިދުރިޔާ","definition":"ފިރިހެނުން ހެދުމުގެ ބޭރުންލާ އަތް ނުހުންނަ  ކޯޓެއް.","latin":"sidhuriyaa","english":""}
+{ "dhivehi":"ސިދުރިޔާކޮޅު","definition":"ސިދުރިޔާއަށް މާތްކޮށް ކިޔާގޮތް.","latin":"sidhuriyaakolhu","english":""}
+{ "dhivehi":"ސިދުރިޔާކޮތަރު","definition":"ކޮތަރުގެ ބާވަތެއް. ކޮތަރުގެ ކަރުދޮށުން  ފެށިގެން، ފިނދުފަތާ އެކު ހަށިގަނޑުގެ  ހުރިހައިތަނެއް ހުދުކޮށް ހުރެފައި، ތަލަ މަތީން  ބުރަކަށި މައްޗާއި ފިޔަގަނޑު ކަޅު ނުވަތަ މުށި  ނުވަތަ އަޅިކުލައިގައި ހުންނަ ކޮތަރު.","latin":"sidhuriyaakotharu","english":""}
+{ "dhivehi":"ސިތާރު","definition":"މިޔުޒިކު ކުޅޭ ގިޓާ ފާޑުގެ ނަރުލީ އެއްޗެއް.","latin":"sithaaru","english":""}
+{ "dhivehi":"ސިލަވަރު","definition":"ސިލްވަރު.","latin":"silavaru","english":""}
+{ "dhivehi":"ސިލިނބު","definition":"ސިލުނބު.","latin":"silinbu","english":""}
+{ "dhivehi":"ސިލިންޑަރު","definition":"އިންޖީނެއްގެ ފިސްޓަން ލައްވާތަން.މަޢުދަނީ އެއްޗަކުން ވައްކޮށް ދިގުކޮށް ހަދައިފައި  ހުންނަ އެއްޗެއް. މިއީ ގޭސްފަދަ އެއްޗެހި އަޅަން  ހަދައިފައި ހުންނަ އެއްޗެކެވެ.","latin":"silindaru","english":"cylinder"}
+{ "dhivehi":"ސިލިވަރު","definition":"(ސ.) ސިލްވަރު.","latin":"silivaru","english":""}
+{ "dhivehi":"ސިލު","definition":"ތަކެތި ބަންދުކޮށްފައި ޖަހާސިއްކަ. ނުވަތަ  ނިޝާން.","latin":"silu","english":""}
+{ "dhivehi":"ސިލުނބު","definition":"ގުޑުގުޑާއިން ދުންބޯއިރު ދުންފަތް އެޅުމަށްޓަކައި،  މުށިން ހަދައިފައި ހުންނަ އެއްޗެއް. މި ހުންނަނީ  އަބުނައިގެ ކޮޅުގައި ހުންނަ ސަދަބަށް ޖެހޭގޮތަށެވެ.","latin":"silumbu","english":"sloop"}
+{ "dhivehi":"ސިލުވާނަށްތެޅުން","definition":"އިހުގައި މީހެއްގެ އަންބަކު ހިލޭ ފިރިހެނަކާ ހުއްދަ  ނޫން ގުޅުމެއް ހިންގުމުން އެ ފިރިހެން މީހާގެ  ގައިގައި ބޮންތި އަކުން ތިނެތިފަހަރު ޖެހުމަށް  އެކަނބުލޭގެ ފިރިމީހާއަށް ފަނޑިޔާރު ގެއިން ނުވަތަ  ނައިބުގެއިން ހުއްދަ ދީގެން ޖަހާ ތިނެތި ފަހަރު  ޖެހުން.","latin":"siluvaanahthelhun","english":""}
+{ "dhivehi":"ސިލުވާނާއެރުން","definition":"ސިލުވާން ކުރަންޖެހޭ ފަދަ ގުޅުމެއް މީހެއްގެ  އަނތްބަކާމެދު ހިންގުން.","latin":"siluvaanaaerun","english":""}
+{ "dhivehi":"ސިލުވާނާމަތިވުން","definition":"ސިލުވާން އެރުން.","latin":"siluvaanaamathivun","english":""}
+{ "dhivehi":"ސިލުވާނު","definition":"އިހުގައި މީހެއްގެ އަނތްބަކާ ހުއްދަނޫން ގުޅުމެއް  ހިންގުމުން އެ ގުޅުމެއް ހިންގި ފިރިހެނަކަށްދޭ  އަދަބެއް. (ސިލުވާނަށް ތެޅުން ބަލާ!)","latin":"siluvaanu","english":""}
+{ "dhivehi":"ސިލުވާނުކުރުން","definition":"ސިލުވާނަށް ތެޅުން.","latin":"siluvaanukurun","english":""}
+{ "dhivehi":"ސިލޭހަ","definition":"ލޮންސިއާ އެއްވައްތަރަށް ހަދައިފައި ހުންނަ  ހަތިޔާރެއް.","latin":"sileyha","english":"lance"}
+{ "dhivehi":"ސިލޭހަހިފުން","definition":"ކީރިތި މަހާރަދުން ރަސްމީ ޢިއްޒަތުގައި  ތަންތަނަށް ވަޑައި ގަންނަވާއިރު ސިލޭހަ ހިފައިގެން  ރަދުންގެ ދެފަރާތްޕުޅުގައި ދެސަފަށް ތިބުން.","latin":"sileyhahifun","english":""}
+{ "dhivehi":"ސިލޭހަބަތް","definition":"އިހުގައި ރަދުންގެ އަރިހުގައި ސިލޭހަ ހިފައިގެން  ހުކުރަށްދާ ހަނގު ބޭކަލުންނަށް ގަނޑުވަރު ތެރެއިން  ދެއްވާ ބޮނޑިބަތެއް.","latin":"sileyhabaiy","english":""}
+{ "dhivehi":"ސިލޭހަވެރިން","definition":"ސިލޭހަ ހިފާމީހުން.","latin":"sileyhaverin","english":""}
+{ "dhivehi":"ސިލްކު","definition":"ފަށުއި.","latin":"silku","english":""}
+{ "dhivehi":"ސިލްވަރު","definition":"އެލްމެނިޔަމް.","latin":"silvaru","english":""}
+{ "dhivehi":"ސިލްސިލާ","definition":"ޗޭނު.އެކައްޗެއްގެ ފަހަތުން  ވިދިގެން، އޭގެ އަނެކައްޗެއް އަންނަ ގޮތަށް ހުންނަ  އެއްޗެހި. މިސާލު: (ހ) ފޮތުގެ ސިލްސިލާ. (ށ)  މަޒުމޫނުތަކުގެ ސިލްސިލާ. (ނ) ފިލްމުގެ  ސިލްސިލާ.","latin":"silsilaa","english":""}
+{ "dhivehi":"ސިލްޖެހުން","definition":"އެއްޗެއް ބަންދުކޮށްފައި ޖަހާ ސިއްކަ ނުވަތަ  ނިޝާން ޖެހުން.","latin":"siljehun","english":""}
+{ "dhivehi":"ސިގުނަލް","definition":"އިޝާރާތް.","latin":"sigunal","english":""}
+{ "dhivehi":"ސިޑި","definition":"ހަރުގަނޑު.ހަރުފަތް ބަރި.","latin":"sidi","english":""}
+{ "dhivehi":"ސިޓީ","definition":"އަނެކަކު ގާތުގައި ދައްކަން ބޭނުންވާ  ވާހަކަތަކެއް ލިޔެފައިވާ ލިއުން. މި ލިއުން  ފޮނުވާނީ ޕޯސްޓު ނުވަތަ މީހަކު މެދުވެރިކޮށެވެ.","latin":"sitee","english":"letter"}
+{ "dhivehi":"ސިޓީބިޓީ","definition":"ސިޓީޔާ އެފަދަ ތަކެތި.","latin":"siteebitee","english":""}
+{ "dhivehi":"ސިޓީކެނޑުން","definition":"ސިޓީއުރަ ހުޅުވުން.","latin":"siteekendun","english":""}
+{ "dhivehi":"ސިޓީއުރަ","definition":"ސިޓީފަދަ ތަކެތި ލުމަށް ހަދައިފައި ހުންނަ  އުރަ.","latin":"siteeura","english":"envelope"}
+{ "dhivehi":"ސިޓީލުން","definition":"ކަމަކަށް އެދި އެކަމާބެހޭ އިދާރާއަށް  ސިޓީއެއް ހުށައެޅުން.ރަސްމީ ފަރާތަކަށް  ޝަކުވާއެއް ހުށައެޅުމަށް ސިޓީއެއް ފޮނުވުން.","latin":"siteelun","english":""}
+{ "dhivehi":"ސިޔާދަތު","definition":"މާތްކަން.ވެރިކަން.ރަސްކަން.ސަރުކާރު.ޤައުމެއްގެ މިނިވަންކަން.","latin":"siyaadhathu","english":""}
+{ "dhivehi":"ސިޔާސަ","definition":"ބަސް ގަބޫލު ނުކުރާ.ލާނެތް.ނ.  (ބދ.) ގަދަފަދަ ކަމާއި ބާރު.","latin":"siyaasa","english":""}
+{ "dhivehi":"ސިޔާސަކަން","definition":"ބަސްގަބޫލު ނުކުރާކަން.ލާނެތްކަން.(ބދ.) ގަދަފަދަ ކަމާއި  އާރާއިބާރުހުރިކަން.","latin":"siyaasakan","english":""}
+{ "dhivehi":"ސިޔާސަވުން","definition":"ބަސްގަބޫލު ނުކުރުން.ލާނެތްވުން.(ބދ.) ގަދަފަދަ ކަމާއި ބާރުދެއްކުން.","latin":"siyaasavun","english":""}
+{ "dhivehi":"ސިޔާސަތު","definition":"ސަރުކާރު ހިންގުމާއި ސޮސައިޓީއެއްގެ  ގޮތުގައި އެއްވެ ފައިވާ މީހުންތަކެއް. ޤާނޫނާއި  ޤަވާޢިދުގެ ތެރޭގައި ގެންގުޅުމުގެ ޢިލްމު.އިންސާނީ މުޖްތަމަޢެއްގެ މައްޗަށް ވެރިކަން  ހިންގުމުގެ ފަންނު.","latin":"siyaasathu","english":"policy"}
+{ "dhivehi":"ސިޔާސީ","definition":"ގައުމުގެ ކަންތައް އިންތިޒާމުކޮށް  ހިންގުމާބެހޭ.ސިޔާސަތާގުޅޭ.","latin":"siyaasee","english":"political"}
+{ "dhivehi":"ސިޙުރުކުރުން","definition":"ސިޙުރު ފަންޑިތަ ހެދުން.","latin":"sihurukurun","english":""}
+{ "dhivehi":"ސިޙުރުވެރިން","definition":"ސިހުރު ހަދައިއުޅޭ މީހުން.","latin":"sihuruverin","english":""}
+{ "dhivehi":"ސިޙުރުވެރިޔާ","definition":"ސިހުރުހަދާމީހާ.","latin":"sihuruveriyaa","english":""}
+{ "dhivehi":"ސިޙުރުމުގުރި","definition":"ސިހުރު ބާޠިލް ކުރާ ފަންޑިތަ.","latin":"sihurumuguri","english":""}
+{ "dhivehi":"ސިޙުރުޖެހުން","definition":"ސިހުރުން އަސަރުކުރުން.","latin":"sihurujehun","english":""}
+{ "dhivehi":"ސީ","definition":"ގުއި.ބޮޑުކަމު ނަޖިސް.(މަލިކު) މަހުގެ ލަގޮނޑީގެ ފޫޅު.","latin":"see","english":""}
+{ "dhivehi":"ސީނާބަދަން","definition":"އެތެރެ ވަތްވަތަށް ހުންނަ ބަދަނެއް.","latin":"seenaabadhan","english":""}
+{ "dhivehi":"ސީނިސަންބޯލް","definition":"ފިޔަޔާއި މަހާއި މިރުހާއި ހަކުރާއި ފޮނިތޮއްޓާއި  ހުތާ އަދި ލޮނު ލައިގެން ތައްޔާރު ކުރާ ކާއެއްޗެއް.  މީގައި ގިނަވާނީ ފިޔައާ މަހުގެ ބައެވެ. ރޯ ފިލުވާނީ  ތެލުގައެވެ. އެހެން ހުރިހާ އެއްޗެއްސަކީ ރަހަލާވަރަށް  އަޅާ ތަކެއްޗެވެ.","latin":"seenisanboal","english":""}
+{ "dhivehi":"ސީނިސައްކަރު","definition":"އިހުގައި ގެންނަ ހަނޑުލުގެ ބާވަތެއް.","latin":"seenisahkaru","english":""}
+{ "dhivehi":"ސީނު","definition":"ތާނައިގެ ސަތާރަވަނަ އަކުރު.","latin":"seenu","english":""}
+{ "dhivehi":"ސީނުހަކުރު","definition":"އުއްސަކުރު.","latin":"seenuhakuru","english":""}
+{ "dhivehi":"ސީނުކަރަ","definition":"ޗައިނާ.","latin":"seenukara","english":""}
+{ "dhivehi":"ސީނުކުކުޅު","definition":"އާދައިގެ ކުކުޅަށްވުރެ ބޮޑެތިކޮށް ކަރުގައި  ފަތްނެތި، ގައިގެ ފަތްތަކުގައި ކަޅުކުލައާއި  ހުދުކުލައިން ޑިންޑިންކޮވެލި ގޮތަށް ތިކި ޖަހައިފައި  ހުންނަ ކަރުހިމަ ދިގު ކުކުޅެއް.ނާށިގަނޑު  ކުކުޅު.","latin":"seenukukulhu","english":""}
+{ "dhivehi":"ސީނުދަތި","definition":"މީދާ ހިފުމަށް ހަދައިފައި ހުންނަ ދަގަނޑު  ދައްޗެއް. މި ހުންނާނީ ފުއްކަނޑައިފައި ހުންނަ  ދެފަޅީގެ ދެމެދުގައި މީދާ ތިއްބޭ ގޮތަށެވެ.","latin":"seenudhathi","english":""}
+{ "dhivehi":"ސީނުތަށި","definition":"އިހުޒަމާނުގައި ޗައިނާއިން ގެންނަތައްޓެއް. މީގެ  އެކިމިނުގެ އެކި ވައްތަރުގެ ތަށިހުރެއެވެ.","latin":"seenuthashi","english":""}
+{ "dhivehi":"ސީނުސަންފާކެޔޮ","definition":"ބޮންތިރަތްކޭލުގެ ވައްތަރެއް. މިކޭލުގެ  ތޮށިތުނިވެފައި މުށިކުލައިގެ ކުދިލައްތަކެއް  ހުންނާނެއެވެ. ކޭލުގެ ފޮނި ގަދަވާނެއެވެ.","latin":"seenusanfaakeyo","english":""}
+{ "dhivehi":"ސީނުސަންޕާ","definition":"ސީނުސަންފާކެޔޮ.","latin":"seenusanpaa","english":""}
+{ "dhivehi":"ސީނުސައްޓި","definition":"(ހ.) ސައްޓި.","latin":"seenusahti","english":""}
+{ "dhivehi":"ސީނެކޭލް","definition":"(ޏ.) ބޮންތިރަތްކެޔޮ.","latin":"seenekeyl","english":""}
+{ "dhivehi":"ސީން","definition":"ތާހާއި ތަވާފަދަ އެއްޗެހީގައި ފޮޅިފަދަ  އެއްޗެހި ފިހާއިރު ކިޔާ އަޑު.ކުޑަކުދިންގެ  ބަހުރުވައިގައި ފޮޅި.","latin":"seen","english":""}
+{ "dhivehi":"ސީރާ","definition":"ރޯމަސް ކުނިވިޔަ ނުދިނުމަށް ހިމުން ލޮނުގެ  ތެރެއަށް އަޅައިފައި ބެހެއްޓީމާ ވާގޮތް.","latin":"seeraa","english":""}
+{ "dhivehi":"ސީރާކުރުން","definition":"ސީރާއެޅުން.","latin":"seeraakurun","english":""}
+{ "dhivehi":"ސީރާއެޅުން","definition":"ރޯމަސް ނުބައިނުވެ ގިނަދުވަހު ހުންނާނެގޮތް  ހެދުމަށްޓަކައި ފުށްލޮނު އަޅައިފައި ބެހެއްޓުން.","latin":"seeraaelhun","english":""}
+{ "dhivehi":"ސީރާވުން","definition":"ލޮނުގެ ތެރެއަށް މަސްއަޅައި ވަކިމުއްދަތަކަށް  ބެހެއްޓުމުން އެމަސް ވަކިވަރަކަށް ރޯފިލައި ކުނިނުވާ  ގޮތްވުން.","latin":"seeraavun","english":""}
+{ "dhivehi":"ސީރިއަސް","definition":"ކަންބޮޑުވާފަދަ.ނުރައްކާތެރި.ސަމާސާ އަށްވުރެ ކަންބޮޑު.އަބުއި.","latin":"seerius","english":"serious"}
+{ "dhivehi":"ސީރިޔަސް","definition":"ސީރިއަސް.","latin":"seeriyas","english":""}
+{ "dhivehi":"ސީރިޔަސްވުން","definition":"ކަމެއް ކަންބޮޑުވާފަދަ ހިސާބަކަށް ދިއުން.ނުރައްކާވުން.ސަމާސާއަށްވުރެ  ކަންބޮޑުވުން.އަބުއިވުން.","latin":"seeriyasvun","english":""}
+{ "dhivehi":"ސީވޭލް","definition":"މަސްދޯނިފަހަރުގެ އިންޖީނުގައި ލޮނު އެތެރެއަށް  ވައްދައި ބޭރުކުރުމަށް ހުންނައެތި.","latin":"seeveyl","english":""}
+{ "dhivehi":"ސީދާ","definition":"ތެދު.ގުދުކަމެއް ލެނބުމެއް ނެތް.ތެދުވެރި.އަމާޒު.","latin":"seedhaa","english":"direct"}
+{ "dhivehi":"ސީދާކަން","definition":"ތެދުކަން.ގުދުކަމެއް ލެނބުމެއް  ނެތްކަން.ތެދުވެރިކަން.އަމާޒުކަން.","latin":"seedhaakan","english":""}
+{ "dhivehi":"ސީދާކުރުން","definition":"ތެދުކުރުން.މަގަށްއެޅުވުން.އަމާޒު ކުރުން.","latin":"seedhaakurun","english":""}
+{ "dhivehi":"ސީދާކޮށްލުން","definition":"ތެދުކޮށްލުން.މަގަށް އަޅުވައިލުން.","latin":"seedhaakohlun","english":""}
+{ "dhivehi":"ސީދާވުން","definition":"ދިމާވުން.ތެދުވުން.އަމާޒުވުން.މަގަށް އެޅުން.","latin":"seedhaavun","english":""}
+{ "dhivehi":"ސީދި","definition":"ފިރިހެނުންނަށް ކިޔާ ނަމެއް.މަޖާޒު:  އަންހެން ދުޅާ ފިރިހެނުން.","latin":"seedhi","english":""}
+{ "dhivehi":"ސީދިކަން","definition":"މަޖާޒު: ފިރިހެނެއްގެ މިޒާޖުގައި ހުންނަ  އަންހެން ދުޅާކަން.","latin":"seedhikan","english":""}
+{ "dhivehi":"ސީދިއޮޑިއަށްސައިތާނުއަރައިއިންހެން","definition":"(މިސާލުބަހެއް) މީހަކު ކަމަކާ މާ ގަޔާނުވެ މޫނު  އަނެއް ފަރާތަށް އަނބުރައިލައިގެން އިނުމުން  ބުނެއުޅޭ ބަހެއް.","latin":"seedhiodiahsaithaanuaraiinhen","english":""}
+{ "dhivehi":"ސީތަފާ","definition":"ގުއިތަފާ.","latin":"seethafaa","english":""}
+{ "dhivehi":"ސީތަފާލުގައި ދަނޑިންތެޅުން","definition":"ގުއި ތަފާލުގައި  ދަނޑިން ތެޅުން. މިއީ ފައިދާ އެއްނުވާ ކަންތައްކުރާ  މީހުންނަށް ބުނެއުޅޭބަހެއް.","latin":"seethafaalugai dhandinthelhun","english":""}
+{ "dhivehi":"ސީލަވައިގަތުން","definition":"ބޮޑުކަމު ހާޖިތައް ދާންވުން.","latin":"seelavaigathun","english":""}
+{ "dhivehi":"ސީލިން","definition":"ދަށުފަންގިފިލާ.","latin":"seelin","english":""}
+{ "dhivehi":"ސީލިންކުރުން","definition":"ދަށުފަންގިފިލާ އެޅުން.","latin":"seelinkurun","english":""}
+{ "dhivehi":"ސީލު","definition":"ކަނޑުގައި އުޅޭ ޖަނަވާރެއް. މިއީ ރަށްރަށުގެ  ގޮނޑުދޮށަށް އަރައިއުޅޭ އެއްޗެކެވެ. މި ނޭވާލަނީ  ފެނުން މައްޗަށެވެ.","latin":"seelu","english":"seal"}
+{ "dhivehi":"ސީލުން","definition":"ބޮޑުކަމުދިއުން.","latin":"seelun","english":""}
+{ "dhivehi":"ސީލެއްވުން","definition":"ސީލުން މިބަސް ކުރުވުމުގެ މާނައިގައި  ބުނާގޮތް.ސީލުން މިބަސް މާތްބަހުން  ބޭނުން ކުރެވޭގޮތް.","latin":"seelevun","english":""}
+{ "dhivehi":"ސީސަންޓިކެޓު","definition":"އެކަމެއް ހިނގާ މުޅި މުއްދަތަށް ބޭނުންކުރެވޭ  ގޮތަށް ދޫކޮށްފައިވާ ޓިކެޓް.","latin":"seesantiketu","english":""}
+{ "dhivehi":"ސީސި","definition":"ހީސި.","latin":"seesi","english":""}
+{ "dhivehi":"ސީސިލުން","definition":"ހީސިލުން.","latin":"seesilun","english":""}
+{ "dhivehi":"ސީސޯ","definition":"މެދަށް އެއްޗެއް ލައްވައި ދެކޮޅަށް ކުދިން  އަރައިގެން ކިރޭ ގޮތަށް ބާއްވައިފައިވާ ފިލާ. މިއީ  ކުޑަކުދީން ކުޅުމަށް ބޭނުންކުރާ އެއްޗެކެވެ.","latin":"seesoa","english":""}
+{ "dhivehi":"ސީޓު","definition":"ކޮންކްރީޓް ތަޅުންގަނޑު.ބިއްލޫރި  އާއި އަދި އޮމާން ޓިނާއި ފޮމެކާ ފަދަ އެއްޗެހީގެ  ފިލާ ނުވަތަ ތާން.މޮޓޯސައިކަލާއި ކާރުފަދަ  އެއްޗެހީގައި އިށީންނަ މަޑި، ނުވަތަ ގޮނޑި.މަތިންދާ ބޯޓާއި، ބައިސްކޯފުގެ ފަދަ ތަންތަނުގެ  ގޮނޑި.(ނއ.) ރޮނގުރޮނގަށް ކުރެހުންއެޅި.","latin":"sheetu","english":"she"}
+{ "dhivehi":"ސީޓުބޮލި","definition":"(ޅ.) ރޮނގުދެމި ބޮލި.","latin":"seetuboli","english":""}
+{ "dhivehi":"ސީޓުފޮތި","definition":"ރޮނގުދެމި ފޮއްޗާއި ރޮނގުރޮނގަށް  މާޖަހައިފައި ހުންނަ ފޮތި.","latin":"seetufothi","english":""}
+{ "dhivehi":"ސުހައިލު","definition":"ސަމުގާގެ ދެކުނުދަނޑި.","latin":"suhailu","english":""}
+{ "dhivehi":"ސުހި","definition":"(ސ.) ހުއި.","latin":"suhi","english":""}
+{ "dhivehi":"ސުނޯ","definition":"ވައިގައި ހުންނަތެތްކަން ފިނިކަމުގެ  ސަބަބުން ގަނޑުވެގެން އުފެދޭ އެތިއެތިކޮޅު.  މިހުންނަނީ ހުދުކޮށެވެ. ކަފަހާ ލުއިކޮށެވެ. (ވައިގައި  ހުންނަ ތެތްކަން މިގޮތަށް ބަދަލުވަނީ ސުންދަރަޖަ  ސެލްސިއަސް 0 ދަރަޖަ ގައެވެ.)މަޖާޒު:  ސުނޯއާއި ވައްތަރު އެއްޗެއްސާ މެދު ބުނެއުޅޭ ގޮތެއް.މޫނުގައި އުނގުޅަން ތައްޔާރު ކޮށްފައި ހުންނަ  ބާވަތެއްގެ ކްރީމެއް.","latin":"sunoa","english":"snow"}
+{ "dhivehi":"ސުނޯފޭބުން","definition":"ސުނޯވެހުން.","latin":"sunoafeybun","english":"snowing"}
+{ "dhivehi":"ސުން","definition":"ހިސާބު ޢިލްމުގައި ބޭނުންކުރާ ތިއްކެއް  ނުވަތަ ބޮޅެއް. މިތިކި ނުވަތަ ބޮޅު އަދަދެއްގެ  ކަނާތްފަރާތުގައި ޖަހައިފިނަމަ އޭގެ އަގު ދިހަގުނައަށް  އިތުރުކޮށްދެއެވެ. ވާތްފަރާތުގައި ޖެއްސަސް އަގު  އިތުރެއް ނުވެއެވެ.އަގެއްނެތް.","latin":"sun","english":""}
+{ "dhivehi":"ސުންނަ","definition":"(ބ.) ފުންނަ.","latin":"sunna","english":""}
+{ "dhivehi":"ސުންނަތް","definition":"ކީރިތި ރަސޫލާގެ ބަސްފުޅުތަކާއި  އަމަލުފުޅުތައް.ކުރުމުން ސަވާބުލިބޭ  ނުކުރިއަސް އަޒާބު ނުލިބޭ ކަންތައް.","latin":"sunnaiy","english":""}
+{ "dhivehi":"ސުންނަތްކަންތައް","definition":"ކުރުމުން ސަވާބުލިބޭ ނުކުރިޔަސް އަޒާބުނުލިބޭ  ކަންތައް.","latin":"sunnaiykanthah","english":""}
+{ "dhivehi":"ސުންނަތްޖަމާޢަތް","definition":"ސުންނީން.","latin":"sunnaiyjamaaaaiy","english":""}
+{ "dhivehi":"ސުންނާފަތި","definition":"ތަންތަންވާ ހަލާކު.ތަންތަންވާ  ފުނޑުފުނޑު.","latin":"sunnaafathi","english":""}
+{ "dhivehi":"ސުންނާފަތިވުން","definition":"ތަނެއް ހަލާކުވުން.ތަނެއް  ފުނޑުފުނޑުވުން.","latin":"sunnaafathivun","english":""}
+{ "dhivehi":"ސުންނި","definition":"(ބދ.) ޒަކަރު.","latin":"sunni","english":""}
+{ "dhivehi":"ސުންނިއުރަ","definition":"ޖިމާއުވާއިރު ދަރިމައިވިޔަ ނުދިނުމަށް ޒަކަރަށް  ލައްވަން ހަދައިފައި ހުންނަ ތުނި ދުލިފަށެއް ކަހަލަ  ރަބަރުއުރަ.","latin":"sunniura","english":""}
+{ "dhivehi":"ސުންނީން","definition":"ސުންނަތް ޖަމާޢަތުގެ މީހުން.މުސްލިމުންކުރެ ހަތަރު ޚަލީފާއިން ޤަބޫލުކުރާ  މީހުން.","latin":"sunneen","english":""}
+{ "dhivehi":"ސުންނުބައި","definition":"ސުންޕާ.","latin":"sunnubai","english":""}
+{ "dhivehi":"ސުންނުބައިކަން","definition":"ސުންޕާކަން.","latin":"sunnubaikan","english":""}
+{ "dhivehi":"ސުންނުބައިވުން","definition":"ސުންޕާވުން.","latin":"sunnubaivun","english":""}
+{ "dhivehi":"ސުންބުލާ","definition":"ރާއްސެއްގެ ނަން. މިއީ ހަވަނަ ބުރުޖެވެ.","latin":"sunbulaa","english":""}
+{ "dhivehi":"ސުންބުލި","definition":"އެއްޗެހި އެޅުމަށް އެއްތެޔޮ ފާޑުގެ އެއްޗަކުން  ހިމަދިގުކޮށް ވިޔެފައި ހުންނަ އެއްޗެއް.","latin":"sunbuli","english":""}
+{ "dhivehi":"ސުންބުލީހަކުރު","definition":"އުއްސަކުރު.","latin":"sunbuleehakuru","english":""}
+{ "dhivehi":"ސުންކަން","definition":"އެއްޗަކުން ނަގާ މަދުމިންވަރެއް. މިސާލު:  ކައްކައިފައި ހުރި ބޮނޑިބަތްތެލި ސުންކަމަށް ގޮސް  ހުސްވެއްޖެއެވެ.ޖަމާޢަތެއްގެ ތެރެއިން ކުރަންޖެހޭ  ކަމަކަށް ބޯބޯމަތިން ނަގާ ފައިސާ.އިހުގައި  ހަވަރުގެ ބަޔަކު ނުކުމެ ފިހާރަ ފިހާރައިން ނަގައި  އުޅުނު ފައިސާއެއް.އިހުގައި ބަނދަރަށް އަންނަ  ބޯޓުފަހަރުން ނަގައި އުޅުނު މުދަލުގެ ބާވަތްތައް.","latin":"sunkan","english":""}
+{ "dhivehi":"ސުންކަންނެގުން","definition":"ޖަމާޢަތެއްގެ ބަޔަކު ނުވަތަ ރަށެއްގެ  ރައްޔިތުން ފަދަ ބައެއްގެ ތެރެއިން ގަސްދުކުރާ  ކަމަކަށް ކަނޑައެޅޭ އެއްޗެއް ނެގުން.އިހުގައި  ހަވަރުގެ ބަޔަކު ނިކުމެގެން ފިހާރަފިހާރައިން ނަގައި  އުޅުނު ލާރިއެއް ނެގުން.އިހުގައި އަންނަ  ބަނގަލާ ބޯޓްފަހަރުން ނަގާ ތަކެތި ނެގުން.","latin":"sunkannegun","english":""}
+{ "dhivehi":"ސުންކަންޖެހުން","definition":"ބަޔަކު ކާއެއްޗެއް ތައްޔާރު ކުރަނިކޮށް  ފެނުމުން ނުވަތަ ތަނެއްގައި ކާ އެއްޗެއް ހުއްޓައި  ފެނުމުން އޭގެ ތެރެއިން އެތިއެތި ކޮޅު ނަގައިގެން  ކެއުން.ދަހިކުދިން ނުވަތަ މީހުން އެތިއެތި  ކޮޅުން ކެއުން.","latin":"sunkanjehun","english":""}
+{ "dhivehi":"ސުންކިއުން","definition":"މަޖާޒު:ސުންޕާކަމަށް ބުނުން.ސުންޕާކަމަށް ބެލުން.","latin":"sunkiun","english":""}
+{ "dhivehi":"ސުންމަ","definition":"(ބދ.) ލެއި.","latin":"sunma","english":""}
+{ "dhivehi":"ސުންފައި","definition":"ސުންޕާ.","latin":"sunfai","english":""}
+{ "dhivehi":"ސުންފައިކަން","definition":"ސުންޕާކަން.","latin":"sunfaikan","english":""}
+{ "dhivehi":"ސުންފައިވުން","definition":"ސުންޕާވުން.","latin":"sunfaivun","english":""}
+{ "dhivehi":"ސުންފާ","definition":"ސުންޕާ.","latin":"sunfaa","english":""}
+{ "dhivehi":"ސުންފާކަން","definition":"ސުންޕާކަން.","latin":"sunfaakan","english":""}
+{ "dhivehi":"ސުންދުރަ","definition":"(ބދ.) އެންމެމާތް.","latin":"sundhura","english":""}
+{ "dhivehi":"ސުންދުސް","definition":"ސުންދުސް ފޭރާން.","latin":"sundhus","english":""}
+{ "dhivehi":"ސުންދުސްފޭރާން","definition":"ސުވަރުގޭގެ ފޭރާމެއް.ފަށުއި ފޭރާން.","latin":"sundhusfeyraan","english":""}
+{ "dhivehi":"ސުންގަޑި","definition":"ކަމެއް ނިންމުމަށް ހަމަޖައްސައިފައިވާ ވަގުތު.","latin":"sungadi","english":""}
+{ "dhivehi":"ސުންގޮބޮޅި","definition":"އެއްޗަކަށް ނުވާ.","latin":"sungobolhi","english":""}
+{ "dhivehi":"ސުންޑަލި","definition":"ސޯޅިޔާހުނި.","latin":"sundali","english":""}
+{ "dhivehi":"ސުންޕާ","definition":"ބަދުނަސީބު.ކަމެއްގެ ސަބަބުން  މެދުވެރިވާ ދެރަގޮތް.","latin":"sunpaa","english":""}
+{ "dhivehi":"ސުންޕާވުން","definition":"މީހެއްގެ ނަސީބު ނުބައިވުން.ކަމެއްގެ  ސަބަބުން ދެރަގޮތެއް މެދުވެރިވުން.","latin":"sunpaavun","english":""}
+{ "dhivehi":"ސުރާ","definition":"(ސ.) އަޑިޔަށް ނަނުފައްތައިގެން ކުރާ  ކެޔޮޅުކަން.","latin":"suraa","english":""}
+{ "dhivehi":"ސުރާމަސްވެރިން","definition":"ބޮޑު ކަންނެލި ބާނަންކުރާ މަސްވެރިކަން.","latin":"suraamasverin","english":""}
+{ "dhivehi":"ސުރި","definition":"(ގ.) މުއިރު.","latin":"suri","english":""}
+{ "dhivehi":"ސުރިޔާ","definition":"(ގ.) މުއިރު.","latin":"suriyaa","english":""}
+{ "dhivehi":"ސުރީ","definition":"(ބދ.) ސިރީ.","latin":"suree","english":""}
+{ "dhivehi":"ސުރުކާހުތް","definition":"މޭބިސްކަދުރު ދިޔައިން ހަދާހުތް.","latin":"surukaahuiy","english":""}
+{ "dhivehi":"ސުރުވާ","definition":"މަސް ނުވަތަ ތަރުކާރީ ފަދަ ތަކެތިން  ވަކިގޮތަކަށް ތައްޔާރު ކުރާ ބުއިމެއް.","latin":"suruvaa","english":"soup"}
+{ "dhivehi":"ސުރުވާފިޔޮއް","definition":"ސުރުވާ ކައްކާވަރުގެ ޅަފިޔޮއް.","latin":"suruvaafiyo","english":""}
+{ "dhivehi":"ސުރުމުއްޓި","definition":"(ސ.) ސުރުމުތި.","latin":"surumuti","english":""}
+{ "dhivehi":"ސުރުމުތި","definition":"ބާޒާ ވައްތަރު އެއަށްވުރެ ކުޑަ ދޫންޏެއް.","latin":"surumuthi","english":""}
+{ "dhivehi":"ސުރުޖީ","definition":"(ގ.) ސޫޖީ.","latin":"surujee","english":""}
+{ "dhivehi":"ސުރުޚީ","definition":"މައިގަނޑު ނަން.","latin":"surukhee","english":""}
+{ "dhivehi":"ސުރޫރު","definition":"ނަޑަރު","latin":"surooru","english":""}
+{ "dhivehi":"ސުރެ","definition":"ފެށިގެން. މިބަސް ބޭނުންކުރަނީ ވަގުތާ ނުވަތަ  ޒަމާނާ ގުޅުވައި ގެންނެވެ. މިސާލު: (ހ) ދުނިޔެ  ފެށުނީއްސުރެ. (ށ) ދޭއް ޖެހީއްސުރެ.","latin":"sure","english":""}
+{ "dhivehi":"ސުރެން","definition":"ސުރެ.","latin":"suren","english":""}
+{ "dhivehi":"ސުރެންސުރެން","definition":"މެދުކެނޑުމެއްނެތި.އެއްކޮޅުން  އަނެއްކޮޅަށް.","latin":"surensuren","english":""}
+{ "dhivehi":"ސުބަ","definition":"(ބދ.)ތެދުވެރި.ހެޔޮ.","latin":"suba","english":""}
+{ "dhivehi":"ސުބަސަދަސުވަރުދާނަ","definition":"އެންމެ ރިވެތިކަން ލިބިގެންވާ މީހާ.","latin":"subasadhasuvarudhaana","english":""}
+{ "dhivehi":"ސުބޫތު","definition":"ހެކި.","latin":"suboothu","english":""}
+{ "dhivehi":"ސުބެ","definition":"(ގ.) ފަނުން ވިޔެފައިވާ ބަށި.","latin":"sube","english":""}
+{ "dhivehi":"ސުބެޔާ","definition":"(ގ.) ސުވާ.","latin":"subeyaa","english":""}
+{ "dhivehi":"ސުކުނިމުކުނި","definition":"ކުދިކުދި އެއްޗެހީގެ އޭތިމީތި.","latin":"sukunimukuni","english":""}
+{ "dhivehi":"ސުކުން","definition":"އަކުރުގެ މަތީގައި ޖަހާނިޝާނެއް. މިނިޝާން  އޮންނަނީ ވަށް ބޮޅެއްގެ ސިފައިގައެވެ.","latin":"sukun","english":""}
+{ "dhivehi":"ސުކުންކުރުން","definition":"ސުކުން ޖެހުން.","latin":"sukunkurun","english":""}
+{ "dhivehi":"ސުކުންވުން","definition":"އަކުރެއްގައި ސުކުން އޮތުން.","latin":"sukunvun","english":""}
+{ "dhivehi":"ސުކުންދު","definition":"(މަލިކު.) ސިކުންތު.","latin":"sukundhu","english":""}
+{ "dhivehi":"ސުކުންތު","definition":"ސިކުންތު.","latin":"sukunthu","english":""}
+{ "dhivehi":"ސުކުންޖެހުން","definition":"ސުކުނުގެ ނިޝާން އަކުރުގެ މަތީގައި ލިއުން.","latin":"sukunjehun","english":""}
+{ "dhivehi":"ސުކޫތު","definition":"ހަމަހިމޭން ވަގުތު ކޮޅެއް.","latin":"sukoothu","english":""}
+{ "dhivehi":"ސުއިޓަރު","definition":"ފިނިން ރައްކާތެރި ވުމަށްޓަކައި ލާން ވިޔެފައި  ހުންނަ ފޭރާމެއް.","latin":"suitaru","english":""}
+{ "dhivehi":"ސުއިޗު","definition":"ކަރަންޓް ގުޅުވައިދީ ކަނޑައި ދިނުމަށް  ހަދައިފައި ހުންނަ އެއްޗެއް.","latin":"suichu","english":""}
+{ "dhivehi":"ސުއްބު","definition":"ކުޑައެތިކޮޅު.ކުޑައެތިފޮދު.","latin":"subu","english":""}
+{ "dhivehi":"ސުއްކަތުރާ","definition":"ޔަމަނުކަރައިގެ ޖަޒީރާއެއް. މިޖަޒީރާ އޮންނަނީ  ޢަރަބި ކަނޑުގައެވެ.","latin":"sukathuraa","english":""}
+{ "dhivehi":"ސުއްކަތުރާކަނޑު","definition":"ސުއްކަތުރާ ޖަޒީރާއަށް ނިސްބަތް ކުރެވޭ  ކަނޑުއޮޅި. މިކަނޑުއޮޅި އޮންނަނީ ޢަރަބި ކަނޑުގެ  ތެރޭގައި ބޭ އޮފް ޢަދަނުގެ އަނގަމަތީގައެވެ. މިއީ  ވަރަށް ގަދަ ކަނޑުއޮޅިއެކެވެ.","latin":"sukathuraakandu","english":""}
+{ "dhivehi":"ސުއްމި","definition":"(މ.) ވެން ފުންނަ.","latin":"sumi","english":""}
+{ "dhivehi":"ސުއްދަ","definition":"(ބދ.) ދޫ.","latin":"sudha","english":""}
+{ "dhivehi":"ސުއްދަހުވައިސްދާނަ","definition":"(ބދ.) އެންމެ ހެޔޮ ތެދުވެރިޔާ.","latin":"sudhahuvaisdhaana","english":""}
+{ "dhivehi":"ސުއްދަނަ","definition":"(ބދ.) އުނދުން.","latin":"sudhana","english":""}
+{ "dhivehi":"ސުއްދަސުވަރުދަލޯކަ","definition":"(ބދ.) ހެޔޮކަން ފޯރައި ތެދުވެރިކަމަށް  ނަންވާމީހާ.","latin":"sudhasuvarudhaloaka","english":""}
+{ "dhivehi":"ސުއްދާނަށްނެގުން","definition":"ސުއްދާނު ހިފޭތޯ ބަލަން ނެގުން.","latin":"sudhaanahnegun","english":""}
+{ "dhivehi":"ސުއްދާނު","definition":"މައްޔިތާގެ ބޮޑުކަމު ނަޖިސް.","latin":"sudhaanu","english":""}
+{ "dhivehi":"ސުއްދާނުހިފުން","definition":"މައްޔިތާގެ ބޮޑުކަމު ނަޖިސް ނުކުތުން  ބަންދުވުން.","latin":"sudhaanuhifun","english":""}
+{ "dhivehi":"ސުއްދާނުބެލުން","definition":"މައްޔިތާގެ ބޮޑުކަމުދާ ދޮރުން ނަޖިސް ނުކުމޭތޯ  ބެލުން.","latin":"sudhaanubelun","english":""}
+{ "dhivehi":"ސުއްޓާ","definition":"ދުންފަތުން ހިމަދިގުކޮށް ވަށްކޮށް އަނބުރައިފައި  ހުންނަ އެއްޗެއް. މިއީ ދުންފަތުގެ އިސްތިޢުމާލު  ކުރާމީހުން ރޯކޮށްގެން ބޯ އެއްޗެކެވެ.","latin":"suttaa","english":"cigar"}
+{ "dhivehi":"ސުއްޖާދުކޮޅު","definition":"ރަދުން ނަމާދު ކުރައްވާ މުސައްލަކޮޅު","latin":"sujaadhukolhu","english":""}
+{ "dhivehi":"ސުވަ","definition":"(ބދ.) ތެދު.","latin":"suva","english":""}
+{ "dhivehi":"ސުވަރު","definition":"އުފާވެރިކަން.ފަހިކަން.މާތްކަން.އޫރު.","latin":"suvaru","english":""}
+{ "dhivehi":"ސުވަރުގެ","definition":"މާތް ﷲ އެންގެވި ގޮތަށް އުޅޭ އަޅުތަކުންނަށް،  ޤިޔާމަތް ދުވަހުން އެކަމުގެ ސަވާބާއި ދަރުމަ ދެއްވާ  ތަން.","latin":"suvaruge","english":"heaven"}
+{ "dhivehi":"ސުވަދަރުމަ","definition":"އެންމެ މަތީ ވެރިޔާގެ އަރިހުން ލިބޭ ހެޔޮބަސް  ނުވަތަ އުޖޫރަ.","latin":"suvadharuma","english":""}
+{ "dhivehi":"ސުވާ","definition":"ކުޅޭ ކުޅިވަރެއްގައި ބޭނުން ކުރާ ބޯޅައެއް  ކަހަލަ އެއްޗެއް. މިއީ ފޮތިން ހަދައިފައި ކައިވަތެއް  ހުންނަވަރުގެ ފަށެއް ލައިފައި އޮންނަ ބޯޅައެކެވެ.ސުވާ ބޭނުން ކޮށްގެން ކުޅޭ ކުޅިވަރެއް.ކާ  އެއްޗަކުން އެއްފަހަރާ އަނގަޔަށްލާން އަތުން ނަގާ  މިންވަރު.(ޏ.) ޓެނިސްބޯޅަވަރުގެ  ވައްބޯޅައަކާއި ބަމައެއް ހުންނަ ވަރުގެ އޮނުބުރިއެއް  ބޭނުންކޮށްގެން ކުޅޭ ކުޅިވަރެއް. މި ކުޅިވަރު ކުޅެނީ  ކުޅޭމީހުން ދެބަޔަކަށް ބަހައިލައިގެންނެވެ.(ސ.) ފަންވަތުން ވިޔެގެން ކުޅެން ގެންގުޅޭ ބަށި.","latin":"suvaa","english":""}
+{ "dhivehi":"ސުވާނެއި","definition":"(ބދ.) ސަންފާތެޔޮ.","latin":"suvaanei","english":""}
+{ "dhivehi":"ސުވާކުޅުން","definition":"ސުވާ ބޭނުންކޮށްގެން ކުޅޭ ކުޅިވަރުކުޅުން.","latin":"suvaakulhun","english":""}
+{ "dhivehi":"ސުވާމީންގެ","definition":"ބޮޑު ސުވާމީންގެ.މާތްރަސްކަލާނގެ.","latin":"suvaameenge","english":""}
+{ "dhivehi":"ސުވާދީބު","definition":"ރާއްޖޭގެ އެންމެ ދެކުނުގެ ހަތަރު އަތޮޅު.","latin":"suvaadheebu","english":""}
+{ "dhivehi":"ސުވާލު","definition":"އަނެކެއްގެ ފަރާތުން ޖަވާބަކަށް އެދި  ބުނާބަސް.އެއްޗެއް އަހާ އެހުން.","latin":"suvaalu","english":"question"}
+{ "dhivehi":"ސުވާލުކުރުން","definition":"އަނެކެއްގެ ފަރާތުން ޖަވާބަކަށް އެދި އެއްޗެއް  ބުނުން.އެއްޗެއް އެހުން.","latin":"suvaalukurun","english":"question"}
+{ "dhivehi":"ސުވާލުމާކު","definition":"ސުވާލަކަށް ހިމެނޭ ލަފުޒެއް، ނުވަތަ ޖުމްލައެއް  ނިމޭތާނގައި ޖަހާ ނިޝާނެއް. މި ނިޝާން  އޮންނަނީ؟ މިސިފަޔަށެވެ.","latin":"suvaalumaaku","english":"question mark"}
+{ "dhivehi":"ސުވާސާ","definition":"ރަނާއި ރަތުލޯ ވަކިވަޒަނަކަށް އެއްކޮށްގެން  އުފައްދާ މައުދަނެއް.","latin":"suvaasaa","english":""}
+{ "dhivehi":"ސުވާސާކެޔޮ","definition":"ފަތްކޭލުގެ ބާވަތެއް. މިބާވަތުގެ ކެޔޮ ފައްކާވީމާ  އެތެރެ ކުޑަކޮށް ރަތްވާނެއެވެ.","latin":"suvaasaakeyo","english":""}
+{ "dhivehi":"ސުވާސްތި","definition":"(ބދ.)އުފާވެރިކަން ފާޅުކުރާ ފާޅުކުރުން.މަރުޙަބާ.","latin":"suvaasthi","english":"welcome"}
+{ "dhivehi":"ސުވާޖެހުން","definition":"(ސ.) ބަށިކުޅުން.","latin":"suvaajehun","english":""}
+{ "dhivehi":"ސުވިޓަރު","definition":"ސުއިޓަރު.","latin":"suvitaru","english":""}
+{ "dhivehi":"ސުވިޗު","definition":"ސުއިޗު.","latin":"suvichu","english":"switch"}
+{ "dhivehi":"ސުވޭހުހީނާ","definition":"ހީނާފަތުގެ ބާވަތެއް. މިއީ އާދައިގެ ހީނާގަހުގެ  ފަތަށްވުރެ ފަތް ބޮޑެތިކޮށް ވާކޮށް ހެދޭ ގަހެކެވެ.  މިގަހުގެ ފަތް ފުނޑައިފައި އެޅިޔަސް ފަތްކުދި  ހީނާފަތް އެޅީމާ ރަތްވާވަރަކަށް ރަތެއް ނުވާނެއެވެ.","latin":"suveyhuheenaa","english":""}
+{ "dhivehi":"ސުވޭހުކުލުނު","definition":"ކަރުދޮށްފަދަ ތަންތަން ބޮއިގެން ކުރާލޯބި.","latin":"suveyhukulunu","english":""}
+{ "dhivehi":"ސުވޭހުފަޅޯ","definition":"ރަންފަޅޯ.","latin":"suveyhufalhoa","english":""}
+{ "dhivehi":"ސުވޭހުގޮށް","definition":"އަނގޮޓީގެ އެސްޖަހާ ތަނުގައި ހިމަ  ނަރުފަށްތަކަކުން، ގެތުމަކަށްވާގޮތަށް ގޮށެއް ޖަހައިފައި  ހުންނަ އަނގޮޓިއެއް.","latin":"suveyhugoh","english":""}
+{ "dhivehi":"ސުމަގުލް","definition":"ރަށަކުން މުދާ ބޭރުކޮށް އެތެރެކޮށް ހެދުމަށް ކުރާ  ވަގު ވިޔަފާރި.","latin":"sumagul","english":"smuggle"}
+{ "dhivehi":"ސުމާރު","definition":"ޢަދަދު.މިންވަރު.","latin":"sumaaru","english":""}
+{ "dhivehi":"ސުމާރުނަންބަރު","definition":"ޝުމާރު ނަންބަރު.","latin":"sumaarunanbaru","english":""}
+{ "dhivehi":"ސުފުރާ","definition":"ކާންހަދާ ތަށިތައް އޭގެ މަތީގައި  އެތުރުމަށްޓާކައި ފަތުރާލާ އެތި.","latin":"sufuraa","english":""}
+{ "dhivehi":"ސުފުރާމަތި","definition":"ކެއުމަށް ތައްޔާރު ކޮށްފައިވާތަން.","latin":"sufuraamathi","english":""}
+{ "dhivehi":"ސުތުލިބަރަނި","definition":"ސުތުލި ރޮދިން އަނބުރައިފައި ހުންނަ ބަރަނި.","latin":"suthulibarani","english":""}
+{ "dhivehi":"ސުލައިޑު","definition":"ފޮޓޯނަގާގޮތަށް ނަގައި ފިލްމު  ސާފުކުރުމަށްފަހު، އަލި އަޅުވައިލީމައި ފޮޓޯ ގޮތަށް  ފެންނަ ފިލްމު.ލޭފަދަ އެއްޗެހި މައިކްރޮސް  ކޯޕުން ބެލުމަށްޓަކައި، މައިކްރޮސްކޯޕަށް ލައްވާ  ބިއްލޫރިކޮޅު.","latin":"sulaidu","english":""}
+{ "dhivehi":"ސުލޫކު","definition":"އުޅޭގޮތް.ޢަމަލުތައް ހުންނަގޮތް.","latin":"sulooku","english":"conduct"}
+{ "dhivehi":"ސުލޭމާނު","definition":"ހަރުހިލައިގެ ތެރޭގައި ހިމެނޭ އަގުހުރި އެއްޗެއް.","latin":"suleymaanu","english":""}
+{ "dhivehi":"ސުލޭމާނުމުދި","definition":"ލިޔުމާއި ކުރެހުމުގެ ތެރޭ ބޭނުންކުރާ  ފަސްފިޔަހުންނަ ތަރިއެއް. މިއީ ފަންޑިތަވެރި ކަމުގައި  ބޭނުންކުރާ ނިޝާނެކެވެ.","latin":"suleymaanumudhi","english":""}
+{ "dhivehi":"ސުލްޙަ","definition":"އެކުވެރިކަން.ދެކޮޅުވެރިކަމެއް  ނެތްކަން.އަމަން އަމާންކަން.","latin":"sulha","english":"peace"}
+{ "dhivehi":"ސުގުޅިމުގުޅި","definition":"އޭތިމީތި.އެތައް އެއްޗެއް އެކުވެފައި  ހުންނަ އެއްޗެއް.އެއްތަނެއްގައި ހުންނަ  އެކިވައްތަރުގެ ބާއެއްޗެހި.","latin":"sugulhimugulhi","english":""}
+{ "dhivehi":"ސުޓޫޑިއޯ","definition":"ކުރެހުންތެރިއަކު ނުވަތަ ފޮޓޯ ނަގާމީހަކު،  ނުވަތަ ލަވަ ކިޔާ މީހަކު، ނުވަތަ ނަށާމީހަކު އޭނާގެ  އެ މަސައްކަތް ކުރާތަން.ފިލްމް ނެގުމަށް  ޚާއްސަކޮށް ހަދައިފައި ހުންނަ އިމާރާތް.އަޑު  ރެކޯޑުކުރާ ކޮޓަރި.ޓެލެވިޜަނުން ދުރަށް ދައްކާ  ނުވަތަ ރޭޑިޔޯއިން ދުރަށް އަޑު ފޮނުވާތަން.","latin":"sutoodioa","english":""}
+{ "dhivehi":"ސުޓޭޖު","definition":"އިސްޓޭޖް.","latin":"suteyju","english":""}
+{ "dhivehi":"ސުޕީޑް","definition":"ދުވެލި.ކުރިއަށްދާ މިންވަރު.","latin":"supeed","english":""}
+{ "dhivehi":"ސުޕުރޭ","definition":"ވައިގެ ބާރުން ވަޔާއެކު ބުރުވައިލާ ތިކިތައް.","latin":"supurey","english":""}
+{ "dhivehi":"ސުޕުރޭކުރުން","definition":"ދިޔާ އެއްޗެއް ވައިގެ ބާރުން ވަޔާއެކު  ބުރުވައިލުން.","latin":"supureykurun","english":""}
+{ "dhivehi":"ސުޕޭސް","definition":"ޖައްވު.","latin":"supeys","english":""}
+{ "dhivehi":"ސޫ","definition":"ޒަކަރު.(ބދ.) ކުޑަކަމުދާ ހާޖަތް.","latin":"soo","english":""}
+{ "dhivehi":"ސޫރަ","definition":"ސިފަ.ރޫފަ.","latin":"soora","english":""}
+{ "dhivehi":"ސޫރަހެޔޮކަން","definition":"(ސ.)ބުރުސޫރަ ރީތިކަން.ސަމައްތަރު ހެޔޮކަން.","latin":"sooraheyokan","english":""}
+{ "dhivehi":"ސޫރަކުރުން","definition":"ސިފަކުރުން.","latin":"soorakurun","english":""}
+{ "dhivehi":"ސޫރަވުން","definition":"ސިފަވުން.","latin":"sooravun","english":""}
+{ "dhivehi":"ސޫރަދަސަރުނަ","definition":"(ބދ.) އިރުގެ އަލިކަން.","latin":"sooradhasaruna","english":""}
+{ "dhivehi":"ސޫރަތް","definition":"ކީރިތި ޤުރުއާނުގެ 114 ބައިގެތެރެއިން ބައެއް.","latin":"sooraiy","english":""}
+{ "dhivehi":"ސޫރާޑި","definition":"ނަޑަރު.","latin":"sooraadi","english":""}
+{ "dhivehi":"ސޫރި","definition":"ކުރުކާލި.","latin":"soori","english":""}
+{ "dhivehi":"ސޫރިކެނޑުން","definition":"ކުރުކާލި ކެނޑުން.","latin":"soorikendun","english":""}
+{ "dhivehi":"ސޫރިޔާކެނޑުން","definition":"(ޏ.) ސޫރިކެނޑުން.","latin":"sooriyaakendun","english":""}
+{ "dhivehi":"ސޫރުދަ","definition":"(ބދ.) އިރު.","latin":"soorudha","english":""}
+{ "dhivehi":"ސޫރެވިރި","definition":"(ބދ.) ވައި.","latin":"sooreviri","english":""}
+{ "dhivehi":"ސޫފާސޫފި","definition":"ސޫފި، މިބަސް ގިނަކުރުމަށް ބޭނުންކުރާގޮތް.","latin":"soofaasoofi","english":""}
+{ "dhivehi":"ސޫފި","definition":"ޖަނަވާރު.(ބދ.) ބިސްއަޅައިގެން  ވިހާ އެއްޗެހި.","latin":"soofi","english":""}
+{ "dhivehi":"ސޫފިކެޔޮ","definition":"ފަތްކޭލުގެ ބާވަތެއް.","latin":"soofikeyo","english":""}
+{ "dhivehi":"ސޫފިލަނޑައި","definition":"(ޅ.) ހުއިފިލަނޑާ.","latin":"soofilandai","english":""}
+{ "dhivehi":"ސޫފިލަނޑާ","definition":"(ހ.) ހުއިފިލަނޑާ.","latin":"soofilandaa","english":""}
+{ "dhivehi":"ސޫދު","definition":"ރިބާ.ދަރަންޏަށްދޭ ފައިސާއަށް  އަތުލާ ނަފާ.","latin":"soodhu","english":"interest"}
+{ "dhivehi":"ސޫދުކެއުން","definition":"ސޫދު އަތުލުން.","latin":"soodhukeun","english":""}
+{ "dhivehi":"ސޫތު","definition":"އިންޗިއެއްގެ އަށްބައިކުޅަ އެއްބައި.","latin":"soothu","english":""}
+{ "dhivehi":"ސޫތުކެއުން","definition":"ސޫދުކެއުން.","latin":"soothukeun","english":""}
+{ "dhivehi":"ސޫސަގޯތުރަ","definition":"(ބދ.) ކަމަށް ހަލުއި.","latin":"soosagoathura","english":""}
+{ "dhivehi":"ސޫޓުކޭސް","definition":"ދަތުރު ކުރާއިރު އަންނައުނު ފަދަ ތަކެތި  ލާފޮށި.","latin":"sootukeys","english":""}
+{ "dhivehi":"ސޫޖީ","definition":"ރަވައިގައި ނުވަތަ ފާރޮށީކުނޑިގައި ކައްކާ ފޮނި  އޮލަބުއިމެއް.","latin":"soojee","english":""}
+{ "dhivehi":"ސެހުން","definition":"(ޏ.ސ.) ހެހުން.","latin":"sehun","english":""}
+{ "dhivehi":"ސެހެރީ","definition":"އެއްޗެއް ތައާރަފު ކުރުމުގެ ގޮތުން ދައްކާ  ވާހަކަ ނުވަތަ ލިޔާލިޔުން.ތަރުވާޒު.","latin":"seheree","english":""}
+{ "dhivehi":"ސެހެރުން","definition":"މަޖާޒު: (ޏ.)ކަމަކަށް ނުވަތަ އެއްޗަކަށް  އެދިމީހެއްގެ ގާތުގައި މާބޮޑަށް އާދޭސް ކުރުން.ކެނދުން.","latin":"seherun","english":""}
+{ "dhivehi":"ސެނެންސާ","definition":"(ގ.) ތިނޯސް.","latin":"senensaa","english":""}
+{ "dhivehi":"ސެންސަރު","definition":"ޢާއްމުކޮށް ދައްކާ ފިލްމާއި ތަމްސީލާއި  ޢާއްމުކޮށް ނެރޭ ނޫހާއި މަޖައްލާ ފަދަ ތަކެތި  ކުރާފާސް.","latin":"sensaru","english":""}
+{ "dhivehi":"ސެންސަރުކުރުން","definition":"ޢާއްމުކޮށް ދައްކާ ފިލްމާއި ތަމްސީލާއި  ޢާއްމުކޮށްނެރޭ ނޫހާއި، މަޖައްލާ ފަދަތަކެތި އެތަނެއްގެ  ޤާނޫނީ އިޖްތިމާޢީ ހަމަތަކަކަށް ފެތޭތޯ  ބަލައިފާސްކުރުން.","latin":"sensarukurun","english":""}
+{ "dhivehi":"ސެންސަރުވުން","definition":"ސެންސަރުކޮށް ނިމުން.","latin":"sensaruvun","english":""}
+{ "dhivehi":"ސެންޓަރު","definition":"މަރުކަޒު.ކަމެއް ކުރުމަށް ނުވަތަ  ހިންގުމަށް އުފައްދައިފައިވާ އޮފީސް.","latin":"sentaru","english":""}
+{ "dhivehi":"ސެންޓިމީޓަރު","definition":"މީޓަރެއްގެ ސަތޭކަބައިކުޅަ އެއްބައި.","latin":"sentimeetaru","english":""}
+{ "dhivehi":"ސެންޓިލީޓަރު","definition":"ލީޓަރެއްގެ ސަތޭކަބައިކުޅަ އެއްބައި.","latin":"sentileetaru","english":""}
+{ "dhivehi":"ސެންޓިގުރާމު","definition":"ގުރާމެއްގެ ސަތޭކަބައިކުޅަ އެއްބައި.","latin":"sentiguraamu","english":""}
+{ "dhivehi":"ސެންޓިގްރޭޑް","definition":"ފިނިހޫނުމިން ބަލާ ކަށިގަނޑުގައި ދަރަޖަ  ބަހައިފައިވާ ގޮތަކަށް ކިޔާނަމެއް. މިގޮތަށް ބަހައިފައި  ހުންނައިރު، ފެންގަނޑުވާ ހިސާބާއި ފެންކެކޭ  ހިސާބު ބަހައިފައިވަނީ 100 ދަރަޖައަށެވެ.","latin":"sentigreyd","english":""}
+{ "dhivehi":"ސެންޓު","definition":"މީރުވަސް ދުއްވުމަށް ފޭރާމުގައި ނުވަތަ  ހަށިގަނޑުގައި އުނގުޅާ ވަރަށް ހަލުއި ދިޔާ އެއްޗެއް.ބައެއް ޤައުމުތަކުގެ ފައިސާގެ ލާރިޔަށް  ކިޔާނަން.","latin":"sentu","english":"perfume"}
+{ "dhivehi":"ސެންޕަލު","definition":"މުދަލެއްގެ އަޖުމަ ބަލަން ހިލޭ ފޮނުވާ އެތި.ނަމޫނާ އެތި.","latin":"senpalu","english":""}
+{ "dhivehi":"ސެރު","definition":"ދެރާތަލުގެ ބަރުދަން.","latin":"seru","english":""}
+{ "dhivehi":"ސެކަރީން","definition":"އާދައިގެ ހަކުރަށްވުރެ ފޮނިގަދަ ހެދިހަކުރެއް.  މިބޭނުން ކުރަނީ އާދައިގެ ހަކުރު ބޭނުން ނުކުރެވޭ  ކަހަލަ ކަންތަކަށެވެ.","latin":"sekareen","english":""}
+{ "dhivehi":"ސެކްރެޓަރީ","definition":"ވެރިއެއްގެ ދަށުން ލިޔެކިޔުމާއި އިދާރީ  ކަންތައްތައް ބަލަހައްޓަން ހުންނަ މުވައްޒަފު.","latin":"sekettary","english":"secretary"}
+{ "dhivehi":"ސެކްރެޓަރީކަން","definition":"ވެރިއެއްގެ ދަށުން ލިޔެކިޔުމާއި  އިދާރީކަންތައްތައް ބަލަހައްޓަން ހުންނަ މީހާގެ  ވަޒީފާ.","latin":"sekretareekan","english":""}
+{ "dhivehi":"ސެކްރެޓަރީޖަނަރަލް","definition":"ތަނެއްގެ އިދާރީ އެންމެ އިސްވެރިޔާ.","latin":"sekretareejanaral","english":""}
+{ "dhivehi":"ސެއު","definition":"ސެއުނަރުގައި ކައްކާ ފޮނިކާއެއްޗެއް.","latin":"seu","english":""}
+{ "dhivehi":"ސެއްޅި","definition":"ކަޅުމުށި ކުލައިގެ ކުޑަކުޑަ ސޫތްޕެއް. މީގެ  ބޭރުގައި ހުންނަނީ ވަރަށް ހަރު ތޮށިގަނޑެކެވެ. މިއީ  ފުންމަފުންމައިގެން ދާ އެއްޗެކެވެ.","latin":"selhlhi","english":"flea"}
+{ "dhivehi":"ސެއްލަ","definition":"ހަމަހިތަކަށް.އެމީހަކާ އެމީހެއް.ހިތް ހިތަކަށް.","latin":"sela","english":""}
+{ "dhivehi":"ސެވުނަރު","definition":"ސެވޫނަރު.","latin":"sevunaru","english":""}
+{ "dhivehi":"ސެވޫނަރު","definition":"ސޫޖީ ކައްކަން ބޭނުންކުރާ އެއްޗެއް. މި  ހުންނާނީ ހިމަދިގުކޮށް ނަރުފަށްތަކެއް ހެންނެވެ.  މިއީ ފޮނި ކާއެއްޗެހި ހަދާ އެއްޗެކެވެ.","latin":"sevoonaru","english":""}
+{ "dhivehi":"ސެމިނާރު","definition":"މަޝްވަރާ ކުރުމަށް ބައްދަލުވާ ބައްދަލުވުން.","latin":"seminaaru","english":""}
+{ "dhivehi":"ސެމީފައިނަލު","definition":"މުބާރާތެއްގައި އެންމެފަހު މެޗްގެ ކުރިން، ނުވަތަ  އެންމެ ފަހު ބުރުގެ ކުރިން އޮންނަމެޗު، ނުވަތަ ބުރު.","latin":"semeefainalu","english":""}
+{ "dhivehi":"ސެލިއުޓު","definition":"ސއިފައިންނާއި ގައިޑުންނާއި ސުކައުޓުންފަދަ  މީހުން، ޔުނިފޯމުގައި ތިބެ ކުރާ ސަލާމް.","latin":"seliutu","english":""}
+{ "dhivehi":"ސެލިއުޓުނެގުން","definition":"ސިފައިންނާއި ގައިޑުންނާއި ސްކައުޓުން  ފަދަމީހުން ފުރިހަމަ ޔުނިފޯމުގައި ތިބޭއިރު ގަދަރު  ކުރަންޖެހޭ ފަރާތަކަށް އަތްނަގައި ސަލާންކުރުން.ސިފައިންނާއި ގައިޑުންނާއި ސްކައުޓުންފަދަ  މީހުން ފުރިހަމަ ޔުނިފޯމުގައި ތިބޭއިރު ގައުމީ  ސަލާމުގެ އަޑު އިވުމުން އަތްނަގައި ސަލާން ކުރުން.","latin":"seliutunegun","english":""}
+{ "dhivehi":"ސެލޯޓޭޕު","definition":"އެއްޗެހި ތަތްކުރަން ބޭނުންކުރާ އެއްފަރާތް  ތަތްލާ ތުނި އަލި ފީތާއެއް.","latin":"seloateypu","english":""}
+{ "dhivehi":"ސެޓު","definition":"އެއް ބާވަތެއްގެ އެއްޗެހި ތަކެއް.އެކިކަހަލަ މަސައްކަތްތަކުގައި ބޭނުން ކުރަންޖެހޭ  އާލާތްތައް.","latin":"setu","english":"set"}
+{ "dhivehi":"ސެޓުފިކެޓު","definition":"މީހަކު ކަމަކަށް ޝަރުޠު ހަމަވާކަން  އެންގުމަށް ދީފައިވާ ލިޔުން.މީހަކު ކަމެއް  ފުރިހަމަ ކުރިކަން އެންގުމަށް ދީފައިވާ ލިޔުން.ސަނަދު.","latin":"setufiketu","english":"certificate"}
+{ "dhivehi":"ސެޕްޓެމްބަރު","definition":"މީލާދީ ކަލަންޑަރުގެ ނުވަވަނަ މަސް.","latin":"septembaru","english":"september"}
+{ "dhivehi":"ސޭ","definition":"(ޅ.) ސައި.","latin":"sey","english":"tea"}
+{ "dhivehi":"ސޭންގުފަތް","definition":"(މަލިކު) މައްސާގުފަތް.","latin":"seyngufaiy","english":""}
+{ "dhivehi":"ސޭންޑުވިޗު","definition":"އެތެރެޔަށް ކޮންމެވެސް ކާއެއްޗެއް ލައިފައި  އޮންނަ ދެފޮތި ޕާން.","latin":"seyndvich","english":"sandwich"}
+{ "dhivehi":"ސޭރި","definition":"(ސ.)ކަތި.ގުދު.","latin":"seyri","english":""}
+{ "dhivehi":"ސޭބޫ","definition":"އާފަލު.","latin":"seyboo","english":""}
+{ "dhivehi":"ސޭޅިވުން","definition":"(ސ.)ބައެއްގެ ތެރެއިން ބާކީވުން.ކުރާނެ ކަމެއް ނެތި ގިނަވުން.","latin":"seylhivun","english":""}
+{ "dhivehi":"ސޭކު","definition":"ބުއްދި ހަމަނޫން.ދެކޮޅުނުޖެހޭ.","latin":"seyku","english":"fool"}
+{ "dhivehi":"ސޭކުން","definition":"ސޭކު މިބަސް ގިނަކޮށް ބުނާގޮތް.","latin":"seykun","english":""}
+{ "dhivehi":"ސޭކުކަން","definition":"މޮޔަކަން.ބުއްދި ހަމަނުޖެހޭކަން.","latin":"seykukan","english":""}
+{ "dhivehi":"ސޭކުކުރުން","definition":"ސޭކުހެއްދުން.","latin":"seykukurun","english":""}
+{ "dhivehi":"ސޭކުވުން","definition":"ބުއްދި ހަމަނުޖެހޭ ގޮތްވުން.ޙައިރާންވެ ހުއްޓުން އަރާގޮތްވުން.ގަނޑުވުން.","latin":"seykuvun","english":""}
+{ "dhivehi":"ސޭވާ","definition":"މޮޔަގޮތެއް ހުންނަ މީހާ.","latin":"seyvaa","english":""}
+{ "dhivehi":"ސޭވާކަން","definition":"ސޭކުކަން.މޮޔަކަން.ހަމަނުޖެހޭކަން.","latin":"seyvaakan","english":""}
+{ "dhivehi":"ސޭމިއާ","definition":"(މަލިކު) ސެވޫނަރު.","latin":"seymiaa","english":""}
+{ "dhivehi":"ސޭމުރުޣު","definition":"ސާމަރާ ދޫނި ކަހަލަ ބޮޑު ދޫންޏެއް. މިއީ  ކުރީގެ ވާހަކަ ތަކުގައި އެ ދޫންޏެއްގެ ވާހަކަ  ގެނެސްފައިވާ ޚިޔާލީ ދޫންޏެކެވެ.","latin":"seymuruau","english":""}
+{ "dhivehi":"ސޭލަ","definition":"ބަރު އެއްޗެހި އުފުލާ ކުރޭނު.","latin":"seyla","english":"crane"}
+{ "dhivehi":"ސޭޓު","definition":"ވިޔަފާރި ކުރާ ތަންތާގެ ކޮށިގަނޑުގައި  އިންނަމީހާ.ވިޔަފާރި ކުރާ ތަންތަނުގެ  ވެރިމީހާ.","latin":"seytu","english":"shopkeeper"}
+{ "dhivehi":"ސޮހިގަތުން","definition":"އުރުގައި އިން ކުޑަކުއްޖަކު ގަދަކަމުން ތިރިޔަށް  ފޭބުން.","latin":"sohigathun","english":""}
+{ "dhivehi":"ސޮހިގެން ދިއުން","definition":"ސޮހުން.","latin":"sohigen dhiun","english":""}
+{ "dhivehi":"ސޮހުން","definition":"ބަނދެފައި ނުވަތަ އައްސައިފައިވާ އެއްޗެއް  ދޫވެގެން ތިރިޔަށް ޖެހުން.ތިރިޔަށް އެލުން.  މިސާލު: އެ ގަމީސް އޮތީ މާބޮޑަށް ސޮހިފައެވެ.ތިރިޔަށްވެއްޓުން. މިސާލު: (ހ) ފަޓްލޫނު ސޮހުން.  (ށ) މުންޑު ސޮހުން.އެއްލައިފައި ހުންނަ  ތެލަނގަ ފަދަ ތަކެތި ވައިމަޑުވެގެން ތިރިވުން.","latin":"sohun","english":""}
+{ "dhivehi":"ސޮހޮ","definition":"ސޮއް.","latin":"soho","english":""}
+{ "dhivehi":"ސޮހޮލު","definition":"ކަންތައް ނުދަންނަމީހާ.ތާކުންތާކު  ނުޖެހޭ މީހާ.ދޯދިޔާމީހާ.","latin":"soholu","english":""}
+{ "dhivehi":"ސޮހޮލުކަން","definition":"ކަންތައް ނުދަންނަކަން.ތާކުންތާކު ނުޖެހޭ ކަން.ދޯދިޔާކަން.","latin":"soholukan","english":""}
+{ "dhivehi":"ސޮހޮލުމަންޑި","definition":"މަޖާޒު: އެއްވެސް ކަމެއް ކުރަން ނުދަންނަމީހާ.","latin":"soholumandi","english":""}
+{ "dhivehi":"ސޮހޮލެ","definition":"(ގ.) ސޮހޮލު.","latin":"sohole","english":""}
+{ "dhivehi":"ސޮހޯ","definition":"ކަންފަތުގައިލާ އެލުވާ އެއްޗެހި.","latin":"sohoa","english":""}
+{ "dhivehi":"ސޮހޯމަންޑެލި","definition":"މަޖާޒު: އެއްވެސް ކަމެއް ކުރަން ނުދަންނަމީހާ.","latin":"sohoamandeli","english":""}
+{ "dhivehi":"ސޮނި","definition":"އޮލަކަން ހުންނަކުޅު.","latin":"soni","english":"dribble"}
+{ "dhivehi":"ސޮނިބޭލުން","definition":"ސޮނިފޭބުން.","latin":"sonibeylun","english":""}
+{ "dhivehi":"ސޮނިވެއްޓުން","definition":"ސޮނިފޭބުން.މަޖާޒު: ޙައިރާންވީ  މިންވަރު ބަޔާންކުރުމަށް ބުނެއުޅޭ ބަހެއް.","latin":"sonivetun","english":""}
+{ "dhivehi":"ސޮނިފޭބުން","definition":"އަނގައިން ސޮނިތިކިވެއްޓުން.","latin":"sonifeybun","english":""}
+{ "dhivehi":"ސޮނިފޮތިކޮޅު","definition":"ޅަކުދީންގެ މޭމައްޗާ ދިމާވާގޮތަށް ކަރުގައި  އައްސާފޮތިކޮޅު.","latin":"sonifothikolhu","english":""}
+{ "dhivehi":"ސޮރު","definition":"ފިރިހެނުންނަށް ކިޔާ ބަދަލު ނަމެއް.","latin":"soru","english":""}
+{ "dhivehi":"ސޮބުޅާލުން","definition":"ކެއުން، މި ބަސް ދަށް ބަހުރުވައިން ބުނާގޮތެއް.","latin":"sobulhaalun","english":""}
